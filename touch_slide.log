@@ -1,0 +1,2 @@
+USB link lost (device reports readiness to read but returned no data (device disconnected or multiple access on port?)); reconnecting
+cannot open /dev/ttyACM0

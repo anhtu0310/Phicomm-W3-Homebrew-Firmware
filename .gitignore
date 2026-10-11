@@ -1,0 +1,17 @@
+# Third-party SDK (MediaTek LinkIt) - get it from upstream, not this repo
+linkit_sdk-master/
+linkit_sdk-master.zip
+*.zip
+
+# Third-party reference repos (cloned separately)
+ref/
+
+# Raw flash dumps: large, vendor firmware, device-specific data (MAC, calibration)
+stock_fw/flash_4MB*.bin
+
+# Downloaded GNSS assist data (regenerable)
+epo/
+
+# Python
+__pycache__/
+*.pyc

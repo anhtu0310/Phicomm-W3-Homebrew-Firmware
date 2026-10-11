@@ -1,0 +1,127 @@
+=== 14:57:00 hr test
+14:57:00 --- port /dev/ttyACM0 open
+14:57:00 =83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=723 -65 657 mg gyr=0 0 0 dps ang=-9355 -7902 -8293 mdeg steps=0 n=257/257 m
+14:57:00 [  13184] ppgB 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  13184] ppgC 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  13426] pah st=3 id=11 touch=0 n=21 cks=1 ovf=0 mode=0 bpm=0/0 q=0/0
+14:57:00 [  13670] ppgB 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  13670] ppgC 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  13834] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=748 -36 643 mg gyr=-2 6 -2 dps ang=-9543 -6909 -8730 mdeg steps=0 n=277/277
+14:57:00 [  13835] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=04 poffsts=00
+14:57:00 [  13835] up=8s boot=1 wdt_sta=0000 pmu=04007FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+14:57:00 [  14159] ppgB 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  14159] ppgC 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  14241] gnss n=93 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0
+14:57:00 [  14241] nmea $GNRMC,235952.865,V,,,,,0.00,0.00,050180,,,N*5E
+14:57:00 [  14241] nmea $GNGGA,235952.865,,,,,0,0,,,M,,M,,*57
+14:57:00 [  14[  37401] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=863 192 369 mg gyr=-4 -7 -6 dps ang=16106 -14255 -12390 mdeg steps=0 n=863/
+14:57:00 [  37401] ppgB 0 0 0 0 0 0 0 0 0 0
+14:57:00 [  37402] ppgC 0 0 0 0 0 0 0 0 0 0
+14:57:01 --- port lost
+14:57:01 --- port /dev/ttyACM0 open
+=== 15:00:42 led test
+15:00:50 --- port /dev/ttyACM0 open
+15:01:02 --- port /dev/ttyACM0 open
+=== 15:16:43 stock-port test
+15:16:51 --- port /dev/ttyACM0 open
+15:16:52 [  11621] ppgB 0 0
+15:16:52 [  11711] ppgB 0 0
+15:16:52 [  11802] ppgB 0 0
+15:16:52 [  11893] ppgB 0
+15:16:52 [  11983] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-1003 -28 135 mg gyr=0 0 0 dps ang=-747 -1984 -1721 mdeg steps=0 n=234/234 
+15:16:52 [  11983] ppgB 0 0
+15:16:52 [  12074] ppgB 0 0
+15:16:52 [  12165] ppgB 0 0
+15:16:52 [  12256] ppgB 0 0
+15:16:52 [  12344] ppgB 0 0
+15:16:52 [  12434] ppgB 0 0
+15:16:52 [  12434] pah st=3 id=11 touch=0 n=112 ovf=0 fifo=3 bpm=0 q=0
+15:16:52 [  12526] ppgB 0 0
+15:16:52 [  12613] ppgB 0
+15:16:52 [  12703] ppgB 0 0
+15:16:53 [  12792] ppgB 0 0
+15:16:53 [  12881] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-995 -38 136 mg gyr=0 0 0 dps ang=-754 -1989 -1738 mdeg steps=0 n=256/256 m
+15:16:53 [  12882] ppgB 0 0
+15:16:53 [  12883] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+15:16:53 [  12883] up=7s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 00
+15:16:53 [  12973] ppgB 0 0
+15:16:53 [  13063] ppgB 0 0
+15:16:53 [  13154] ppgB 0 0
+15:16:53 [  13245] ppgB 0
+15:16:53 [  13336] gnss n=93 bad=0 fix=0/1 used=0 view=0+1 snr=0 lat=0 lon=0 alt=0 hdop=0
+15:16:53 [  13336] nmea $GNRMC,235952.865,V,,,,,0.00,0.00,050180,,,N*5E
+15:16:53 [  13336] nmea $GNGGA,235952.865,,,,,0,0,,,M,,M,,*57
+15:16:53 [  13337] nmea $GLGSV,1,1,01,82,,,*6E
+15:16:53 [  13337] ppgB 0 0
+15:16:53 [  13428] ppgB 0 0
+15:16:53 [  13516] ppgB 0 0
+15:16:53 [  13606] ppgB 0 0
+15:16:54 [  13696] ppgB 0 0
+15:16:54 [  13787] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-991 -26 135 mg gyr=0 0 0 dps ang=-766 -1999 -1760 mdeg steps=0 n=279/279 m
+15:16:54 [  13788] ppgB 0 0
+15:16:54 [  13880] ppgB 0
+15:16:54 [  13973] ppgB 0 0
+15:16:54 [  14060] ppgB 0 0
+15:16:54 [  14151] ppgB 0 0
+15:16:54 [  14242] ppgB 0 0
+15:16:54 [  14242] pah st=3 id=11 touch=0 n=132 ovf=0 fifo=3 bpm=0 q=0
+15:16:54 [  14335] ppgB 0 0
+15:16:54 [  14428] ppgB 0 0
+15:16:54 [  14514] ppgB 0 0
+15:16:55 [  14604] ppgB 0
+15:16:55 [  14697] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-993 -36 133 mg gyr=0 0 0 dps ang=-776 -2009 -1779 mdeg steps=0 n=301/301 m
+15:16:55 [  14698] ppgB 0 0
+15:16:55 [  14698] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+15:16:55 [  14699] up=8s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 00
+15:16:55 [  14790] ppgB 0 0
+15:16:55 [  14880] ppgB 0 0
+15:16:55 [  14971] ppgB 0 0
+15:16:55 [  15062] ppgB 0 0
+15:16:55 [  15153] gnss n=109 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0
+15:16:55 [  15153] nmea $GNRMC,235954.865,V,,,,,0.00,0.00,050180,,,N*58
+15:16:55 [  15154] nmea $GNGGA,235954.865,,,,,0,0,,,M,,M,,*51
+15:16:55 [  15154] nmea $GLGSV,1,1,00*65
+15:16:55 [  15154] ppgB 0 0
+15:16:55 [  15244] ppgB 0 0
+15:16:55 [  15335] ppgB 0 0
+15:16:55 [  15425] ppgB 0
+15:16:55 [  15514] ppgB 0 0
+15:16:55 [  15604] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-994 -41 122 mg gyr=0 0 0 dps ang=-778 -2021 -1804 mdeg steps=0 n=324/324 m
+15:16:55 [  15605] ppgB 0 0
+15:16:55 [  15695] ppgB 0 0
+15:16:55 [  15786] ppgB 0 0
+15:16:56 [  15877] ppgB 0 0
+15:16:56 [  15967] ppgB 0 0
+15:16:56 [  16057] ppgB 0 0
+15:16:56 [  16057] pah st=3 id=11 touch=0 n=152 ovf=0 fifo=3 bpm=0 q=0
+15:16:56 [  16147] ppgB 0
+15:16:56 [  16238] ppgB 0 0
+15:16:56 [  16327] ppgB 0 0
+15:16:56 [  16418] ppgB 0 0
+15:16:56 [  16510] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-1002 -36 130 mg gyr=0 0 0 dps ang=-778 -2038 -1852 mdeg steps=0 n=347/347 
+15:16:56 [  16511] ppgB 0 0
+15:16:56 [  16512] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+15:16:56 [  16512] up=9s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 00
+15:16:56 [  16602] ppgB 0 0
+15:16:56 [  16694] ppgB 0 0
+15:16:57 [  16783] ppgB 0 0
+15:16:57 [  16874] ppgB 0
+15:16:57 [  16964] gnss n=117 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0
+15:16:57 [  16964] nmea $GNRMC,235955.865,V,,,,,0.00,0.00,050180,,,N*59
+15:16:57 [  16964] nmea $GNGGA,235955.865,,,,,0,0,,,M,,M,,*50
+15:16:57 [  16965] ppgB 0 0
+15:16:57 [  17055] ppgB 0 0
+15:16:57 [  17145] ppgB 0 0
+15:16:57 [  17236] ppgB 0 0
+15:16:57 [  17327] ppgB 0 0
+15:16:57 [  17416] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 80 acc=-998 -31 131 mg gyr=0 0 0 dps ang=-773 -2053 -1870 mdeg steps=0 n=369/369 m
+15:16:57 [  17417] ppgB 0 0
+15:16:57 [  17503] ppgB 0
+15:16:57 [  17593] ppgB 0 0
+15:16:58 [  17684] ppgB 0 0
+15:16:58 [  17774] ppgB 0 0
+15:16:58 [  17867] ppgB 0 0
+15:16:58 [  17867] pah st=3 id=11 touch=0 n=172 ovf=0 fifo=3 bpm=0 q=0
+15:16:58 [  17961] ppgB 0 0
+15:16:58 [  18052] ppgB 0 0
+15:16:58 [  18144] ppgB 0 0

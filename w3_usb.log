@@ -1,0 +1,1287 @@
+00:47:48 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:49 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:50 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:51 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:52 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:53 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:54 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:47:55 --- port open
+00:47:56 [  18370] up=14s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 7E 03 02 19 68 02
+00:47:58 [  19686] up=15s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:47:59 [  21010] up=16s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 82 03 02 19 68 02
+00:48:00 [  22361] up=17s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 05 03 02 19 68 01
+00:48:01 [  23641] up=18s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 10 03 02 19 68 02
+00:48:03 [  24959] up=19s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:48:04 [  26252] up=20s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 64 03 02 19 68 02
+00:48:05 --- port error: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+00:48:06 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:07 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:08 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:09 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:10 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:11 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:12 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:13 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:14 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:15 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:16 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:17 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:18 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:19 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:20 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:21 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:22 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:23 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:24 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:25 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:26 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:27 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:28 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:29 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:30 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:31 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:32 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:33 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:34 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:35 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:36 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:37 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:38 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:39 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:40 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:41 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:42 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:43 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:44 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:45 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:46 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:47 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:48 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:49 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:50 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:51 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:52 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:53 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:54 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:55 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:56 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:57 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:58 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:48:59 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:00 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:01 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:02 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:03 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:04 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:05 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:06 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:07 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:08 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:09 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:10 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:11 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:12 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:13 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:14 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:15 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:16 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:17 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:18 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:19 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:20 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:21 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:23 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:24 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:25 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:26 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:27 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:28 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:29 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:30 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:31 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:32 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:33 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:34 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:35 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:36 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:37 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:38 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:39 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:40 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:41 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:42 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:43 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:44 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:45 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:46 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:47 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:48 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:49 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:50 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:51 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:52 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:53 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:54 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:55 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:56 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:57 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:58 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:49:59 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:00 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:01 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:02 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:03 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:04 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:05 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:06 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:07 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:08 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:09 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:10 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:11 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:12 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:13 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:14 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:15 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:16 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:17 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:18 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:19 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:20 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:21 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+00:50:22 --- port error: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+=== 00:51:28 new session
+00:51:34 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:35 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:36 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:37 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:38 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:39 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:40 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:41 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:42 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:43 --- port error: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+00:51:44 --- port open
+00:51:45 [  18564] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:45 [  18565] up=14s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 90 03 02 19 68 01
+00:51:46 [  19794] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:46 [  19795] up=15s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 90 03 02 19 68 01
+00:51:48 [  21130] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:48 [  21130] up=16s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:51:49 [  22365] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:49 [  22366] up=17s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:51:50 [  23632] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:50 [  23632] up=18s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 46 03 02 19 68 01
+00:51:51 [  24972] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:51 [  24973] up=19s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:51:53 [  26208] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:53 [  26209] up=20s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:51:54 [  27445] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:54 [  27445] up=21s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:51:55 [  28704] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:55 [  28704] up=22s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:51:56 [  29982] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:56 [  29983] up=23s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 04 03 02 19 68 01
+00:51:58 [  31275] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:58 [  31276] up=24s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 10 03 02 19 68 02
+00:51:59 [  32666] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:51:59 [  32666] up=25s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 6F 03 02 19 68 02
+00:52:00 [  34011] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:00 [  34011] up=26s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:52:02 [  35248] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:02 [  35249] up=27s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:52:03 [  36507] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:03 [  36508] up=28s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 90 03 02 19 68 01
+00:52:04 [  37843] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:04 [  37843] up=29s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 43 03 02 19 68 01
+00:52:06 [  39180] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:06 [  39180] up=30s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 06 03 02 19 68 01
+00:52:07 [  40493] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:07 [  40493] up=31s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:08 [  41800] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:08 [  41800] up=32s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:09 [  43112] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:09 [  43113] up=33s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 4B 03 02 19 68 01
+00:52:11 [  44423] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:11 [  44424] up=34s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:12 [  45732] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:12 [  45733] up=35s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 1B 03 02 19 68 02
+00:52:13 [  47069] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:13 [  47069] up=36s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:52:15 [  48315] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:15 [  48315] up=37s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 88 03 02 19 68 01
+00:52:16 [  49680] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:16 [  49681] up=38s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:52:17 [  51000] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:17 [  51001] up=39s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:19 [  52279] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:19 [  52280] up=40s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:20 [  53610] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:20 [  53611] up=41s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 00 03 02 19 68 01
+00:52:21 [  54930] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:21 [  54930] up=42s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:22 [  56167] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:22 [  56167] up=43s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:24 [  57404] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:24 [  57405] up=44s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:25 [  58640] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:25 [  58641] up=45s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:26 [  59877] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:26 [  59877] up=46s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:27 [  61113] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:27 [  61114] up=47s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:29 [  62350] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:29 [  62351] up=48s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:30 [  63586] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:30 [  63587] up=49s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:31 [  64823] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:31 [  64824] up=50s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:32 [  66060] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:32 [  66061] up=51s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:34 [  67297] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:34 [  67297] up=52s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:35 [  68535] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:35 [  68535] up=53s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:36 [  69772] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:36 [  69773] up=54s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:37 [  71009] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:39 [  72248] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:39 [  72248] up=56s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:40 [  73484] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:46 [  79674] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:46 [  79674] up=62s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:47 [  80911] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:47 [  80911] up=63s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:48 [  82149] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:48 [  82150] up=64s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:50 [  83386] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:50 [  83387] up=65s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:51 [  84623] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:51 [  84623] up=66s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:52 [  85859] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:52 [  85860] up=67s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:53 [  87096] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:53 [  87097] up=68s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:55 [  88331] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:55 [  88332] up=69s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:56 [  89568] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:56 [  89569] up=70s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:57 [  90805] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:57 [  90805] up=71s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:52:58 [  92043] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:52:58 [  92043] up=72s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:00 [  93280] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:00 [  93280] up=73s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:01 [  94518] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:01 [  94519] up=74s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:02 [  95755] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:02 [  95756] up=75s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:03 [  96992] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:03 [  96992] up=76s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:04 [  98228] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:04 [  98229] up=77s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:06 [  99465] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:06 [  99466] up=78s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:07 [ 100703] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:07 [ 100704] up=79s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:08 [ 101943] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:08 [ 101944] up=80s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:09 [ 103184] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:09 [ 103184] up=81s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:11 [ 104424] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:11 [ 104425] up=82s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:12 [ 105664] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:12 [ 105664] up=83s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:13 [ 106904] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:13 [ 106905] up=84s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:14 [ 108144] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:14 [ 108145] up=85s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:16 [ 109385] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:16 [ 109385] up=86s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:17 [ 110624] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:17 [ 110625] up=87s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:19 [ 111865] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:19 [ 111866] up=88s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:20 [ 113104] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:20 [ 113105] up=89s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:21 [ 114345] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:21 [ 114345] up=90s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:22 [ 115584] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:22 [ 115584] up=91s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:23 [ 116824] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:23 [ 116825] up=92s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:25 [ 118065] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:25 [ 118065] up=93s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:26 [ 119304] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:26 [ 119305] up=94s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:27 [ 120545] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:27 [ 120546] up=95s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:28 [ 121785] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:28 [ 121785] up=96s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:30 [ 123025] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:30 [ 123026] up=97s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:31 [ 124265] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:31 [ 124266] up=98s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:32 [ 125504] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:32 [ 125505] up=99s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:33 [ 126745] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:33 [ 126746] up=100s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:35 [ 127985] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:35 [ 127985] up=101s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:36 [ 129225] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:36 [ 129225] up=102s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:37 [ 130465] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:37 [ 130465] up=103s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:38 [ 131705] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:38 [ 131706] up=104s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:40 [ 132945] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:40 [ 132946] up=105s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:41 [ 134186] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:41 [ 134186] up=106s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:42 [ 135425] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:42 [ 135426] up=107s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:43 [ 136666] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:43 [ 136667] up=108s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:45 [ 137905] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:45 [ 137906] up=109s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:46 [ 139145] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:46 [ 139146] up=110s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:47 [ 140386] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:47 [ 140386] up=111s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:48 [ 141626] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:48 [ 141626] up=112s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:49 [ 142866] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:49 [ 142867] up=113s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:51 [ 144106] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:51 [ 144107] up=114s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:52 [ 145417] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:52 [ 145418] up=115s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:53:53 [ 146721] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:53 [ 146721] up=116s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 21 03 02 19 68 02
+00:53:55 [ 148111] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:55 [ 148111] up=117s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 87 03 02 19 68 01
+00:53:56 [ 149358] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:56 [ 149359] up=118s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:53:57 [ 150597] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:57 [ 150598] up=119s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:53:58 [ 151837] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:53:58 [ 151838] up=120s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:00 [ 153131] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:00 [ 153131] up=121s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 75 03 02 19 68 02
+00:54:01 [ 154392] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:01 [ 154392] up=122s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 72 03 02 19 68 02
+00:54:02 [ 155642] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:02 [ 155643] up=123s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 71 03 02 19 68 01
+00:54:03 [ 156893] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:03 [ 156894] up=124s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:05 [ 158133] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:05 [ 158134] up=125s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:06 [ 159373] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:06 [ 159373] up=126s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:07 [ 160613] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:07 [ 160614] up=127s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:08 [ 161853] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:08 [ 161854] up=128s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:10 [ 163092] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:10 [ 163093] up=129s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:11 [ 164393] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:11 [ 164394] up=130s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 10 03 02 19 68 02
+00:54:12 [ 165762] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:12 [ 165763] up=131s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 4A 03 02 19 68 01
+00:54:14 [ 167137] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:14 [ 167138] up=132s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 78 03 02 19 68 02
+00:54:15 [ 168422] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:15 [ 168423] up=133s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 7F 03 02 19 68 01
+00:54:16 [ 169696] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:16 [ 169697] up=134s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 84 03 02 19 68 01
+00:54:18 [ 170965] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:18 [ 170966] up=135s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:19 [ 172204] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:19 [ 172204] up=136s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:20 [ 173455] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:20 [ 173456] up=137s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:21 [ 174695] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:21 [ 174696] up=138s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:22 [ 175934] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:22 [ 175935] up=139s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:24 [ 177174] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:24 [ 177175] up=140s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:25 [ 178425] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:25 [ 178426] up=141s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 00 03 02 19 68 01
+00:54:26 [ 179789] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:26 [ 179789] up=142s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:28 [ 181029] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:28 [ 181029] up=143s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:29 [ 182319] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:29 [ 182320] up=144s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 7F 03 02 19 68 01
+00:54:30 [ 183571] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:30 [ 183572] up=145s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 7D 03 02 19 68 01
+00:54:31 [ 184878] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:31 [ 184878] up=146s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 20 03 02 19 68 02
+00:54:33 [ 186257] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:33 [ 186258] up=147s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 89 03 02 19 68 01
+00:54:34 [ 187513] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:34 [ 187514] up=148s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:35 [ 188752] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:35 [ 188753] up=149s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:37 [ 189992] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:37 [ 189993] up=150s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:38 [ 191243] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:38 [ 191243] up=151s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:39 [ 192482] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:39 [ 192482] up=152s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:40 [ 193722] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:40 [ 193722] up=153s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:42 [ 195020] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:42 [ 195021] up=154s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:43 [ 196288] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:43 [ 196289] up=155s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:44 [ 197551] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:44 [ 197551] up=156s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:45 [ 198790] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:45 [ 198791] up=157s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:47 [ 200030] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:47 [ 200031] up=158s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:48 [ 201280] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:48 [ 201281] up=159s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:49 [ 202520] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:49 [ 202521] up=160s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:50 [ 203760] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:50 [ 203760] up=161s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:51 [ 205000] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:51 [ 205000] up=162s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:53 [ 206240] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:53 [ 206240] up=163s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:54 [ 207480] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:54 [ 207481] up=164s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:54:55 [ 208789] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:55 [ 208789] up=165s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 6B 03 02 19 68 02
+00:54:57 [ 210092] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:57 [ 210092] up=166s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:58 [ 211331] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:58 [ 211332] up=167s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:54:59 [ 212571] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:54:59 [ 212572] up=168s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:55:00 [ 213810] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:00 [ 213811] up=169s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:55:02 [ 215061] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:02 [ 215062] up=170s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:03 [ 216314] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:03 [ 216314] up=171s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 7A 03 02 19 68 02
+00:55:04 [ 217625] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:04 [ 217625] up=172s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:55:05 [ 218962] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:05 [ 218962] up=173s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:07 [ 220246] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:07 [ 220247] up=174s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:08 [ 221486] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:08 [ 221487] up=175s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:09 [ 222726] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:09 [ 222726] up=176s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:10 [ 223966] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:10 [ 223967] up=177s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:12 [ 225206] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:12 [ 225207] up=178s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:13 [ 226445] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:13 [ 226446] up=179s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:14 [ 227685] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:14 [ 227686] up=180s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:15 [ 228926] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:15 [ 228926] up=181s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:17 [ 230166] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:17 [ 230166] up=182s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:18 [ 231406] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:18 [ 231406] up=183s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:19 [ 232646] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:19 [ 232647] up=184s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:20 [ 233886] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:20 [ 233887] up=185s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:22 [ 235126] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:22 [ 235126] up=186s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:23 [ 236366] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:23 [ 236367] up=187s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:24 [ 237606] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:24 [ 237607] up=188s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:25 [ 238845] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:25 [ 238846] up=189s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:26 [ 240086] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:26 [ 240086] up=190s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:28 [ 241325] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:28 [ 241325] up=191s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:29 [ 242565] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:29 [ 242565] up=192s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:30 [ 243805] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:30 [ 243805] up=193s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:31 [ 245046] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:31 [ 245047] up=194s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:33 [ 246286] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:33 [ 246287] up=195s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:34 [ 247526] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:34 [ 247526] up=196s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:35 [ 248766] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:35 [ 248767] up=197s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:36 [ 250006] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:36 [ 250007] up=198s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:38 [ 251246] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:38 [ 251247] up=199s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:39 [ 252486] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:39 [ 252487] up=200s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:40 [ 253726] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:40 [ 253726] up=201s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:41 [ 254966] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:41 [ 254966] up=202s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:43 [ 256206] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:43 [ 256206] up=203s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:44 [ 257446] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:44 [ 257447] up=204s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:45 [ 258687] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:45 [ 258688] up=205s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:46 [ 259927] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:46 [ 259927] up=206s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:48 [ 261166] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:48 [ 261167] up=207s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:49 [ 262407] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:49 [ 262408] up=208s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:50 [ 263646] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:50 [ 263647] up=209s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:51 [ 264886] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:51 [ 264887] up=210s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:52 [ 266127] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:52 [ 266127] up=211s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:54 [ 267367] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:54 [ 267367] up=212s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:55 [ 268607] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:55 [ 268607] up=213s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:56 [ 269847] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:56 [ 269848] up=214s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:57 [ 271087] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:57 [ 271088] up=215s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:55:59 [ 272328] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:55:59 [ 272328] up=216s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:00 [ 273568] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:00 [ 273569] up=217s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:01 [ 274808] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:01 [ 274809] up=218s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:02 [ 276047] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:02 [ 276048] up=219s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:04 [ 277287] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:04 [ 277288] up=220s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:05 [ 278528] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:05 [ 278528] up=221s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:06 [ 279768] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:06 [ 279768] up=222s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:07 [ 281008] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:07 [ 281008] up=223s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:09 [ 282248] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:09 [ 282249] up=224s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:10 [ 283488] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:10 [ 283489] up=225s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:11 [ 284729] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:11 [ 284729] up=226s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:12 [ 285968] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:12 [ 285969] up=227s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:13 [ 287208] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:13 [ 287209] up=228s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:15 [ 288448] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:15 [ 288449] up=229s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:16 [ 289688] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:16 [ 289689] up=230s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:17 [ 290928] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:17 [ 290928] up=231s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:18 [ 292168] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:18 [ 292168] up=232s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:20 [ 293408] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:20 [ 293408] up=233s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:21 [ 294648] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:21 [ 294649] up=234s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:22 [ 295888] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:22 [ 295889] up=235s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:23 [ 297129] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:23 [ 297129] up=236s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:25 [ 298368] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:25 [ 298369] up=237s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:26 [ 299609] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:26 [ 299610] up=238s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:27 [ 300848] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:27 [ 300849] up=239s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:28 [ 302089] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:28 [ 302090] up=240s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:30 [ 303351] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:30 [ 303351] up=241s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:31 [ 304674] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:31 [ 304674] up=242s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 27 03 02 19 68 02
+00:56:32 [ 305995] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:32 [ 305995] up=243s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:34 [ 307348] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:34 [ 307349] up=244s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 00 03 02 19 68 01
+00:56:35 [ 308674] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:35 [ 308675] up=245s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:36 [ 310027] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:36 [ 310027] up=246s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 0A 03 02 19 68 02
+00:56:38 [ 311325] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:38 [ 311325] up=247s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 2A 03 02 19 68 02
+00:56:39 [ 312612] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:39 [ 312613] up=248s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:40 [ 313851] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:40 [ 313852] up=249s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:41 [ 315091] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:41 [ 315092] up=250s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:43 [ 316330] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:43 [ 316330] up=251s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:44 [ 317570] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:44 [ 317570] up=252s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:45 [ 318811] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:45 [ 318811] up=253s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:46 [ 320051] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:46 [ 320052] up=254s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:47 [ 321291] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:47 [ 321292] up=255s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:49 [ 322531] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:49 [ 322531] up=256s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:50 [ 323771] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:50 [ 323772] up=257s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:51 [ 325011] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:51 [ 325012] up=258s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:52 [ 326251] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:52 [ 326252] up=259s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:54 [ 327491] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:54 [ 327492] up=260s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:55 [ 328731] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:55 [ 328731] up=261s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:57 [ 329972] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:57 [ 329972] up=262s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:58 [ 331211] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:58 [ 331211] up=263s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:56:59 [ 332452] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:56:59 [ 332453] up=264s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:00 [ 333692] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:00 [ 333693] up=265s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:02 [ 334932] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:02 [ 334932] up=266s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:03 [ 336172] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:03 [ 336173] up=267s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:04 [ 337412] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:04 [ 337413] up=268s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:05 [ 338652] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:05 [ 338653] up=269s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:07 [ 339892] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:07 [ 339893] up=270s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:08 [ 341132] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:08 [ 341132] up=271s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:09 [ 342372] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:09 [ 342372] up=272s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:10 [ 343612] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:10 [ 343612] up=273s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:12 [ 344853] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:12 [ 344854] up=274s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:13 [ 346093] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:13 [ 346094] up=275s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:14 [ 347333] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:14 [ 347333] up=276s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:15 [ 348573] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:15 [ 348574] up=277s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:16 [ 349813] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:16 [ 349814] up=278s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:18 [ 351053] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:18 [ 351054] up=279s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:19 [ 352293] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:19 [ 352294] up=280s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:20 [ 353533] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:20 [ 353533] up=281s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:21 [ 354773] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:21 [ 354773] up=282s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:23 [ 356014] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:23 [ 356014] up=283s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:24 [ 357254] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:24 [ 357255] up=284s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:25 [ 358494] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:25 [ 358495] up=285s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:26 [ 359734] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:26 [ 359734] up=286s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:28 [ 360974] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:28 [ 360975] up=287s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:29 [ 362214] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:29 [ 362215] up=288s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:30 [ 363454] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:30 [ 363455] up=289s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:31 [ 364694] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:31 [ 364694] up=290s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:33 [ 365934] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:33 [ 365934] up=291s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:34 [ 367174] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:34 [ 367174] up=292s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:35 [ 368414] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:35 [ 368414] up=293s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:36 [ 369654] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:36 [ 369655] up=294s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:37 [ 370894] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:37 [ 370895] up=295s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:39 [ 372135] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:39 [ 372135] up=296s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:40 [ 373375] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:40 [ 373376] up=297s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:41 [ 374615] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:41 [ 374616] up=298s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:42 [ 375854] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:42 [ 375855] up=299s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:44 [ 377094] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:44 [ 377095] up=300s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:45 [ 378335] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:45 [ 378335] up=301s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:46 [ 379575] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:46 [ 379575] up=302s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:47 [ 380815] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:47 [ 380815] up=303s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:49 [ 382055] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:49 [ 382056] up=304s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:50 [ 383295] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:50 [ 383296] up=305s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:51 [ 384536] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:51 [ 384536] up=306s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:57:52 [ 385775] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=14 poffsts=A0
+00:57:52 [ 385776] up=307s boot=1 wdt_sta=0000 pmu=14A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+=== 00:58:31 tp32 session
+00:58:32 --- port open
+00:58:32 [   1772] tp32 FF 02 00 19 68 00 9F 34 BD 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:32 [   2030] tp32 FF 02 00 19 68 00 28 34 BB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:32 [   2030] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:32 [   2031] up=1s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:33 [   2287] tp32 FF 02 00 19 68 00 B1 34 B9 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:33 [   2794] tp32 FF 02 00 19 68 00 9B 34 B7 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:33 [   3048] tp32 FF 02 00 19 68 00 2A 34 B5 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:34 [   3306] up=2s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:34 [   3814] tp32 FF 02 00 19 68 00 A0 34 B2 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:34 [   4067] tp32 FF 02 00 19 68 00 2A 34 B1 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:35 [   4321] tp32 FF 02 00 19 68 00 26 34 AF 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:35 [   4578] tp32 FF 02 00 19 68 00 AD 34 AE 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:35 [   4579] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:35 [   4580] up=3s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:35 [   4833] tp32 FF 02 00 19 68 00 A0 34 AD 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:35 [   5086] tp32 FF 02 00 19 68 00 26 34 AC 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:36 [   5340] tp32 FF 02 00 19 68 00 2B 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:36 OK
+00:58:36 [   5595] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:37 [   6107] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:37 [   6361] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:37 [   6615] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:37 [   6870] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:38 [   7127] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:38 [   7634] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:38 [   7888] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:39 [   8399] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:39 [   8400] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:39 [   8400] up=6s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:39 [   8658] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:39 [   8913] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:40 [   9169] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:40 [   9424] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:42 [  11724] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:43 [  12236] up=9s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:43 [  12490] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:43 [  12745] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:43 [  13001] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:44 [  13513] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:44 [  13514] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:45 [  14792] up=11s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:47 [  16323] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:47 [  16576] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:47 [  16831] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:47 [  17083] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:48 [  17341] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:48 [  17341] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:48 [  17596] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:50 [  19127] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:50 [  19379] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:50 [  19631] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:50 [  19889] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:51 [  20652] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:51 [  20907] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:52 [  21164] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:52 [  21165] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:52 [  21165] up=16s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:52 [  21420] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:52 [  21675] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:52 [  21929] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:53 [  22184] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:53 [  22443] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:53 [  22444] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:53 [  22444] up=17s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:53 [  22697] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:53 [  22951] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:54 [  23206] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:54 [  23720] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:55 [  24230] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:55 [  24740] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:55 [  24998] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:56 [  25252] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:56 [  25506] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:56 [  25762] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:56 [  26015] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:57 [  26272] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:57 [  26273] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:57 [  26273] up=20s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:57 [  26527] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:57 [  26782] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:57 [  27037] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:58 [  27291] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:58 [  27549] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:58 [  27549] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:58 [  27550] up=21s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:58 [  27804] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:58 [  28059] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:59 [  28314] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:59 [  28569] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:59 [  28826] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:58:59 [  28826] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:58:59 [  28827] up=22s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:58:59 [  29080] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:00 [  29335] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:00 [  29590] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:00 [  29845] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:00 [  30103] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:00 [  30103] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:00 [  30104] up=23s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:01 [  30358] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:01 [  30614] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:01 [  30869] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:01 [  31124] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:02 [  31382] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:02 [  31383] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:02 [  31383] up=24s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:02 [  31637] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:02 [  31892] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:02 [  32147] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:03 [  32402] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:03 [  32660] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:03 [  32661] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:03 [  32661] up=25s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:03 [  32915] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:03 [  33170] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:04 [  33425] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:04 [  33680] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:04 [  33937] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:04 [  33938] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:04 [  33938] up=26s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:05 [  34193] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:05 [  34448] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:05 [  34703] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:05 [  34958] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:06 [  35216] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:06 [  35217] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:06 [  35217] up=27s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:06 [  35471] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:06 [  35726] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:06 [  35981] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:07 [  36236] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:07 [  36494] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:07 [  36495] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:07 [  36495] up=28s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:07 [  36749] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:07 [  37004] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:08 [  37259] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:08 [  37513] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:08 [  37770] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:08 [  37771] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:08 [  37771] up=29s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:08 [  38024] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:09 [  38279] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:09 [  38534] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:09 [  38789] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:09 [  39047] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:09 [  39048] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:09 [  39048] up=30s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:10 [  39302] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:10 [  39557] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:10 [  39812] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:10 [  40067] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:11 [  40325] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:11 [  40325] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:11 [  40326] up=31s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:11 [  40580] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:11 [  40835] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:11 [  41090] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:12 [  41345] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:12 [  41603] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:12 [  41603] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:12 [  41604] up=32s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 00
+00:59:12 [  41857] tp32 FF 02 00 19 68 00 26 34 AB 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:12 [  42125] tp32 16 03 02 19 68 02 5D 3B B5 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:13 [  42392] tp32 1A 03 02 19 68 02 27 3E 26 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:13 [  42647] tp32 1A 03 02 19 68 02 67 3E 99 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:13 [  42905] tp32 1A 03 02 19 68 02 CE 3D 0E 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:13 [  42905] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:13 [  42906] up=33s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 1A 03 02 19 68 02
+00:59:13 [  43160] tp32 1A 03 02 19 68 02 32 3E 74 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:14 [  43415] tp32 1A 03 02 19 68 02 83 3E D7 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:14 [  43669] tp32 1A 03 02 19 68 02 AE 3E 38 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:14 [  43927] tp32 19 03 02 19 68 02 24 3E 9C 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:14 [  44191] tp32 18 03 02 19 68 02 AE 3E F2 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:14 [  44192] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:14 [  44192] up=34s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 18 03 02 19 68 02
+00:59:15 [  44446] tp32 18 03 02 19 68 02 36 3E 4D 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:15 [  44701] tp32 18 03 02 19 68 02 B3 3E 9A 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:15 [  44955] tp32 18 03 02 19 68 02 CE 3E E7 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:15 [  45210] tp32 18 03 02 19 68 02 A4 3E 2F 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:16 [  45475] tp32 19 03 02 19 68 02 CD 3E 79 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:16 [  45476] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:16 [  45476] up=35s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 19 03 02 19 68 02
+00:59:16 [  45730] tp32 19 03 02 19 68 02 A8 3E BB 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:16 [  45984] tp32 19 03 02 19 68 02 54 3E FD 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:17 [  46248] tp32 19 03 02 19 68 02 CA 3E 37 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:17 [  46507] tp32 1A 03 02 19 68 02 8B 3E 74 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:17 [  46772] tp32 1B 03 02 19 68 02 4A 3E AC 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:17 [  46773] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:17 [  46773] up=36s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 1B 03 02 19 68 02
+00:59:17 [  47041] tp32 1C 03 02 19 68 02 6F 3E E2 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:18 [  47308] tp32 1B 03 02 19 68 02 CD 3E 11 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:18 [  47569] tp32 1C 03 02 19 68 02 DC 3E 42 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:18 [  47836] tp32 1C 03 02 19 68 02 CB 3E 71 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:18 [  48093] tp32 1C 03 02 19 68 02 EF 3E 9A 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:18 [  48094] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:18 [  48094] up=37s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 1C 03 02 19 68 02
+00:59:19 [  48348] tp32 1D 03 02 19 68 02 59 3E C5 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:19 [  48615] tp32 1C 03 02 19 68 02 CE 3E E8 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:19 [  48875] tp32 1D 03 02 19 68 02 65 3E 0F 3C 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:19 [  49136] tp32 1D 03 02 19 68 02 67 3E 31 3C 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:20 [  49419] tp32 12 03 02 19 68 01 1D 3E 54 3C 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:20 [  49420] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:20 [  49420] up=38s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 15 03 02 19 68 01
+00:59:20 [  49687] tp32 FF 02 00 19 68 01 D5 34 57 3C 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:20 [  49942] tp32 FF 02 00 19 68 01 BD 34 8F 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:20 [  50210] tp32 53 03 02 19 68 03 AF 36 96 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:21 [  50493] tp32 3D 03 02 19 68 03 FD 3A DF 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:21 [  50761] tp32 38 03 02 19 68 03 A4 3B 3B 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:21 [  50762] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:21 [  50762] up=39s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 38 03 02 19 68 03
+00:59:21 [  51030] tp32 35 03 02 19 68 03 78 3C 99 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:22 [  51315] tp32 2D 03 02 19 68 02 DB 3C 02 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:22 [  51569] tp32 2C 03 02 19 68 02 67 3D 5C 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:22 [  51832] tp32 2C 03 02 19 68 02 F0 3C B9 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:22 [  52090] tp32 2C 03 02 19 68 02 70 3D 0B 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:22 [  52091] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:22 [  52091] up=40s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 2C 03 02 19 68 02
+00:59:23 [  52345] tp32 2C 03 02 19 68 02 4E 3D 54 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:23 [  52599] tp32 2C 03 02 19 68 02 F7 3C A4 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:23 [  52868] tp32 2B 03 02 19 68 02 06 3D F1 37 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:23 [  53135] tp32 2C 03 02 19 68 02 0A 3D 39 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:24 [  53407] tp32 24 03 02 19 68 02 F6 3C 7E 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:24 [  53407] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:24 [  53408] up=41s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 24 03 02 19 68 02
+00:59:24 [  53661] tp32 24 03 02 19 68 02 7D 3D BA 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:24 [  53916] tp32 24 03 02 19 68 02 7E 3D F4 38 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:24 [  54179] tp32 2E 03 02 19 68 02 EF 3C 2F 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:25 [  54455] tp32 33 03 02 19 68 02 F7 3C 64 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:25 [  54733] tp32 32 03 02 19 68 02 EE 3C 9C 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:25 [  54733] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:25 [  54734] up=42s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 32 03 02 19 68 02
+00:59:25 [  54987] tp32 31 03 02 19 68 02 59 3D C8 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:25 [  55265] tp32 25 03 02 19 68 02 72 3D F8 39 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:26 [  55543] tp32 31 03 02 19 68 02 F1 3C 28 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:26 [  55821] tp32 31 03 02 19 68 02 22 3D 52 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:26 [  56094] tp32 24 03 02 19 68 02 72 3D 7B 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:26 [  56094] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:26 [  56095] up=43s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 25 03 02 19 68 02
+00:59:27 [  56373] tp32 33 03 02 19 68 02 02 3D A6 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:27 [  56660] tp32 32 03 02 19 68 02 03 3D CB 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:27 [  56947] tp32 34 03 02 19 68 02 ED 3C EE 3A 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:27 [  57222] tp32 24 03 02 19 68 02 74 3D 0D 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:28 [  57510] tp32 34 03 02 19 68 02 F7 3C 2E 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:28 [  57510] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:28 [  57511] up=44s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 24 03 02 19 68 02
+00:59:28 [  57787] tp32 35 03 02 19 68 02 0B 3D 4C 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:28 [  58063] tp32 24 03 02 19 68 02 6C 3D 66 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:29 [  58326] tp32 37 03 02 19 68 02 00 3D 7F 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:29 [  58600] tp32 37 03 02 19 68 01 F6 3C 96 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:29 [  58879] tp32 24 03 02 19 68 02 79 3D AD 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:29 [  58880] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:29 [  58880] up=45s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 24 03 02 19 68 02
+00:59:29 [  59158] tp32 39 03 02 19 68 01 EA 3C C4 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:30 [  59447] tp32 FF 02 00 19 68 01 D0 37 D4 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:30 [  59701] tp32 FF 02 00 19 68 01 EE 34 D4 3B 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:30 [  59956] tp32 FF 02 00 19 68 01 DF 34 60 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:30 [  60246] tp32 5A 03 02 19 68 03 07 36 71 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:30 [  60246] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:30 [  60247] up=46s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 5B 03 02 19 68 03
+00:59:31 [  60520] tp32 57 03 02 19 68 02 E3 35 89 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:31 [  60798] tp32 54 03 02 19 68 03 C0 36 A3 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:31 [  61061] tp32 56 03 02 19 68 03 3A 36 BD 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:32 [  61344] tp32 56 03 02 19 68 03 55 36 D8 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:32 [  61601] tp32 55 03 02 19 68 03 DC 36 EE 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:32 [  61602] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:32 [  61602] up=47s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 55 03 02 19 68 03
+00:59:32 [  61864] tp32 56 03 02 19 68 02 63 36 06 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:32 [  62144] tp32 54 03 02 19 68 03 E6 36 1D 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:33 [  62422] tp32 56 03 02 19 68 02 70 36 36 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:33 [  62700] tp32 55 03 02 19 68 02 9C 36 4A 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:33 [  62968] tp32 57 03 02 19 68 02 74 36 5F 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:33 [  62969] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:33 [  62969] up=48s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 54 03 02 19 68 03
+00:59:33 [  63247] tp32 57 03 02 19 68 02 7E 36 75 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:34 [  63534] tp32 57 03 02 19 68 02 85 36 88 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:34 [  63812] tp32 57 03 02 19 68 02 89 36 99 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:34 [  64092] tp32 58 03 02 19 68 02 7E 36 AA 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:35 [  64379] tp32 58 03 02 19 68 02 7D 36 BA 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:35 [  64380] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:35 [  64380] up=49s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 53 03 02 19 68 02
+00:59:35 [  64646] tp32 59 03 02 19 68 02 90 36 C9 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:35 [  64922] tp32 59 03 02 19 68 02 8F 36 D7 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:35 [  65209] tp32 5A 03 02 19 68 02 91 36 E5 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:36 [  65486] tp32 54 03 02 19 68 02 14 37 F2 35 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:36 [  65751] tp32 54 03 02 19 68 02 18 37 01 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:36 [  65752] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:36 [  65752] up=50s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 55 03 02 19 68 02
+00:59:36 [  66020] tp32 54 03 02 19 68 02 15 37 0D 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:36 [  66300] tp32 5B 03 02 19 68 02 9E 36 19 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:37 [  66576] tp32 54 03 02 19 68 02 17 37 24 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:37 [  66867] tp32 FF 02 00 19 68 01 AA 34 2C 36 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:37 [  67125] tp32 FF 02 00 19 68 01 46 34 46 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:37 [  67125] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:37 [  67126] up=51s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:38 ERROR
+00:59:38 [  67382] tp32 FF 02 00 19 68 01 D0 34 49 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:38 [  67931] tp32 77 03 02 19 68 02 4D 34 51 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:38 [  68199] tp32 75 03 02 19 68 02 63 34 54 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:39 [  68464] tp32 74 03 02 19 68 02 EA 34 58 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:40 [  69495] tp32 72 03 02 19 68 02 DF 34 67 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:40 [  69760] up=53s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 71 03 02 19 68 02
+00:59:41 ERROR
+00:59:41 [  70791] tp32 77 03 02 19 68 02 5D 34 78 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:41 [  71075] tp32 8F 03 02 19 68 01 CC 34 7A 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:41 [  71076] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:41 [  71076] up=54s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:59:41 [  71330] tp32 8F 03 02 19 68 01 43 34 7B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:42 [  71585] tp32 8F 03 02 19 68 01 C9 34 7C 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:43 [  72858] tp32 8F 03 02 19 68 01 DB 34 83 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:44 [  73625] tp32 8F 03 02 19 68 01 D4 34 86 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:44 [  73626] up=56s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:59:48 [  77530] tp32 FF 02 00 19 68 01 B9 34 91 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:48 [  77531] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:48 [  77531] up=59s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:48 [  77784] tp32 FF 02 00 19 68 01 42 34 91 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:48 [  78039] tp32 FF 02 00 19 68 01 CE 34 91 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:49 ERROR
+00:59:49 [  78560] tp32 90 03 02 19 68 01 D7 34 92 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:49 [  78838] tp32 8D 03 02 19 68 01 4D 34 93 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:49 [  78839] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:49 [  78839] up=60s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8D 03 02 19 68 01
+00:59:49 [  79100] tp32 8C 03 02 19 68 01 DA 34 94 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:50 [  79355] tp32 8C 03 02 19 68 01 41 34 94 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:50 [  79616] tp32 8F 03 02 19 68 01 D7 34 94 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:50 [  79871] tp32 8F 03 02 19 68 01 BA 34 95 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:50 [  80128] tp32 8F 03 02 19 68 01 41 34 95 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:50 [  80128] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:50 [  80129] up=61s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:59:51 [  80890] tp32 8F 03 02 19 68 01 42 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:52 [  81402] tp32 8F 03 02 19 68 01 D6 34 97 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:52 [  81403] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:52 [  81404] up=62s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok 8F 03 02 19 68 01
+00:59:52 [  81657] tp32 8F 03 02 19 68 01 40 34 97 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:52 [  81912] tp32 8F 03 02 19 68 01 40 34 96 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:52 [  82179] tp32 FF 02 00 19 68 01 3C 34 95 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:53 [  82435] tp32 FF 02 00 19 68 01 C3 34 94 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:53 [  82690] tp32 FF 02 00 19 68 01 D7 34 95 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:53 [  82691] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:53 [  82692] up=63s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:53 [  82946] tp32 FF 02 00 19 68 01 48 34 95 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:53 [  83201] tp32 FF 02 00 19 68 01 76 34 94 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:54 [  83456] tp32 FF 02 00 19 68 01 E2 34 95 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:54 [  83709] tp32 FF 02 00 19 68 01 DE 34 97 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:54 [  83966] tp32 FF 02 00 19 68 01 48 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:54 [  83967] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:54 [  83967] up=64s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:54 [  84221] tp32 FF 02 00 19 68 01 CD 34 97 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:55 [  84475] tp32 FF 02 00 19 68 01 E1 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:55 [  84730] tp32 FF 02 00 19 68 01 BE 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:55 [  84985] tp32 FF 02 00 19 68 01 49 34 99 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:55 [  85243] tp32 FF 02 00 19 68 01 CC 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:55 [  85244] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:55 [  85244] up=65s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:56 [  85497] tp32 FF 02 00 19 68 01 C1 34 99 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:56 [  85751] tp32 FF 02 00 19 68 01 47 34 99 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:56 [  86006] tp32 FF 02 00 19 68 01 77 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:56 [  86261] tp32 FF 02 00 19 68 01 DD 34 98 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:57 [  86517] tp32 FF 02 00 19 68 01 E1 34 9A 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:57 [  86518] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:57 [  86518] up=66s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:57 [  86773] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:57 [  87028] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:57 [  87283] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:58 [  87538] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:58 [  87796] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:58 [  87797] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:58 [  87797] up=67s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:58 [  88051] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:58 [  88306] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:59 [  88561] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:59 [  88816] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:59 [  89074] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+00:59:59 [  89075] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+00:59:59 [  89075] up=68s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+00:59:59 [  89329] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:00 [  89584] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:00 [  89839] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:00 [  90094] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:00 [  90351] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:00 [  90352] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:00 [  90352] up=69s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:01 [  90605] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:01 [  90860] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:01 [  91115] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:01 [  91370] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:02 [  91628] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:02 [  91629] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:02 [  91629] up=70s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:02 [  91883] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:02 [  92138] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:02 [  92393] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:03 [  92648] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:03 [  92906] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:03 [  92906] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:03 [  92907] up=71s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:03 [  93160] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:04 [  93415] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:04 [  93670] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:04 [  93924] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:04 [  94182] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:04 [  94182] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:04 [  94183] up=72s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:05 [  94437] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:05 [  94692] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:05 [  94947] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:05 [  95202] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:06 [  95460] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:06 [  95460] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:06 [  95461] up=73s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:06 [  95714] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:06 [  95969] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:06 [  96223] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:07 [  96478] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:07 [  96736] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:07 [  96737] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:07 [  96737] up=74s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:07 [  96991] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:07 [  97246] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:08 [  97501] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:08 [  97756] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:08 [  98014] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:08 [  98015] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:08 [  98015] up=75s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:08 [  98269] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:09 [  98524] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:09 [  98779] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:09 [  99034] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:09 [  99291] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:09 [  99292] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:09 [  99292] up=76s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:10 [  99547] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:10 [  99802] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:10 [ 100057] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:10 [ 100312] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:11 [ 100571] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:11 [ 100572] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:11 [ 100572] up=77s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:11 [ 100826] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:11 [ 101082] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:11 [ 101337] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:12 [ 101592] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:12 [ 101851] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:12 [ 101852] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:12 [ 101852] up=78s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:12 [ 102106] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:12 [ 102361] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:13 [ 102617] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:13 [ 102872] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:13 [ 103129] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:13 [ 103130] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:13 [ 103130] up=79s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:13 [ 103385] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:14 [ 103640] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:14 [ 103896] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:14 [ 104152] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:14 [ 104410] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:14 [ 104411] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:14 [ 104411] up=80s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:15 [ 104666] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:15 [ 104922] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:15 [ 105177] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:15 [ 105433] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:16 [ 105692] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:16 [ 105692] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:16 [ 105693] up=81s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:16 [ 105947] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:16 [ 106202] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:16 [ 106457] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:17 [ 106713] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:17 [ 106970] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:17 [ 106970] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:17 [ 106971] up=82s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:17 [ 107226] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:18 [ 107481] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:18 [ 107737] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:18 [ 107993] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:18 [ 108251] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:18 [ 108251] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:18 [ 108252] up=83s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:19 [ 108507] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:19 [ 108762] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:19 [ 109018] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:19 [ 109274] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:20 [ 109532] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:20 [ 109533] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:20 [ 109533] up=84s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:20 [ 109788] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:20 [ 110043] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:20 [ 110298] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:21 [ 110554] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:21 [ 110813] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:21 [ 110814] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:21 [ 110814] up=85s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:21 [ 111068] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:21 [ 111323] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:22 [ 111578] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:22 [ 111833] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:22 [ 112091] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:22 [ 112092] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:22 [ 112092] up=86s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:22 [ 112348] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:23 [ 112603] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:23 [ 112859] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:23 [ 113115] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:23 [ 113374] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:23 [ 113375] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:23 [ 113375] up=87s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:24 [ 113629] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:24 [ 113885] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:24 [ 114140] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:24 [ 114395] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:25 [ 114654] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:25 [ 114655] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:25 [ 114655] up=88s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:25 [ 114909] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:25 [ 115165] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:25 [ 115421] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:26 [ 115676] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:26 [ 115933] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:26 [ 115934] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:26 [ 115934] up=89s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:26 [ 116188] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:26 [ 116443] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:27 [ 116699] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:27 [ 116953] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:27 [ 117210] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:27 [ 117211] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:27 [ 117211] up=90s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:27 [ 117467] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:28 [ 117723] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:28 [ 117978] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:28 [ 118234] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:29 [ 118493] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:29 [ 118493] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:29 [ 118494] up=91s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01
+01:00:29 [ 118748] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:29 [ 119004] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:29 [ 119259] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:30 [ 119515] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:30 [ 119774] tp32 FF 02 00 19 68 01 BC 34 9B 34 7C 01 E8 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+01:00:30 [ 119774] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+01:00:30 [ 119775] up=92s boot=2 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 19 68 01

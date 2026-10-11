@@ -1,0 +1,1984 @@
+19:05:09 --- port /dev/ttyACM0 open
+19:05:10 [  78658] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:10 [  78658] up=47s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:10 [  79066] gnss n=627 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:10 [  79066] nmea $GNRMC,000058.858,V,,,,,0.00,0.00,060180,,,N*54
+19:05:10 [  79066] nmea $GNGGA,000058.858,,,,,0,0,,,M,,M,,*5E
+19:05:10 [  79476] bhi pedo n=9 len=2 raw 18 00 
+19:05:10 [  79476] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -15 -340 mg gyr=0 0 0 dps ang=-18454 19841 8845 mdeg steps=24 n=1904/19
+19:05:10 [  79883] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:10 [  80297] bhi pedo n=9 len=2 raw 18 00 
+19:05:10 [  80297] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -14 -332 mg gyr=0 0 0 dps ang=-18464 19804 8828 mdeg steps=24 n=1924/19
+19:05:10 [  80298] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:10 [  80298] up=48s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:10 [  80705] gnss n=643 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:10 [  80705] nmea $GNRMC,000100.858,V,,,,,0.00,0.00,060180,,,N*58
+19:05:10 [  80705] nmea $GNGGA,000100.858,,,,,0,0,,,M,,M,,*52
+19:05:10 [  81112] bhi pedo n=9 len=2 raw 18 00 
+19:05:10 [  81113] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -13 -332 mg gyr=0 0 0 dps ang=-18488 19777 8801 mdeg steps=24 n=1945/19
+19:05:10 [  81521] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:10 [  81928] bhi pedo n=9 len=2 raw 18 00 
+19:05:10 [  81929] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -15 -345 mg gyr=0 0 0 dps ang=-18496 19756 8794 mdeg steps=24 n=1965/19
+19:05:10 [  81929] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:10 [  81930] up=49s boot=9 wdt_sta=0000 pmu=10A07FFF0[ 130160] bhi pedo n=9 len=2 raw 18 00 
+19:05:10 [ 130160] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -22 -340 mg gyr=0 0 0 dps ang=-19013 18235 7532 mdeg steps=24 n=3163/31
+19:05:10 [ 130566] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:11 [ 130975] bhi pedo n=9 len=2 raw 18 00 
+19:05:11 [ 130976] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -21 -348 mg gyr=0 0 0 dps ang=-19035 18237 7524 mdeg steps=24 n=3184/31
+19:05:11 [ 130977] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:11 [ 130977] up=79s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:11 [ 131388] gnss n=1051 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:11 [ 131388] nmea $GNRMC,000151.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:05:11 [ 131389] nmea $GNGGA,000151.859,,,,,0,0,,,M,,M,,*57
+19:05:12 [ 131797] bhi pedo n=9 len=2 raw 18 00 
+19:05:12 [ 131797] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -17 -342 mg gyr=0 0 0 dps ang=-19030 18225 7507 mdeg steps=24 n=3205/32
+19:05:12 [ 132208] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:12 [ 132618] bhi pedo n=9 len=2 raw 18 00 
+19:05:12 [ 132619] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -20 -344 mg gyr=0 0 0 dps ang=-19028 18183 7500 mdeg steps=24 n=3225/32
+19:05:12 [ 132620] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:12 [ 132620] up=80s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:13 [ 133026] gnss n=1059 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:13 [ 133026] nmea $GNRMC,000152.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:05:13 [ 133027] nmea $GNGGA,000152.859,,,,,0,0,,,M,,M,,*54
+19:05:13 [ 133435] bhi pedo n=9 len=2 raw 18 00 
+19:05:13 [ 133435] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -24 -337 mg gyr=0 0 0 dps ang=-19025 18137 7485 mdeg steps=24 n=3245/32
+19:05:15 --- port /dev/ttyACM0 open
+19:05:15 [ 134258] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:15 [ 134259] up=81s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:15 [ 134666] gnss n=1075 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:15 [ 134666] nmea $GNRMC,000154.859,V,,,,,0.00,0.00,060180,,,N*58
+19:05:15 [ 134666] nmea $GNGGA,000154.859,,,,,0,0,,,M,,M,,*52
+19:05:15 [ 135072] bhi pedo n=9 len=2 raw 18 00 
+19:05:15 [ 135072] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -17 -336 mg gyr=0 0 0 dps ang=-19045 18113 7429 mdeg steps=24 n=3286/32
+19:05:15 [ 135480] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:16 [ 135889] bhi pedo n=9 len=2 raw 18 00 
+19:05:16 [ 135889] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -16 -347 mg gyr=0 0 0 dps ang=-19035 18074 7424 mdeg steps=24 n=3306/33
+19:05:16 [ 135891] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:16 [ 135891] up=82s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:16 [ 136299] gnss n=1091 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:16 [ 136299] nmea $GNRMC,000156.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:05:16 [ 136300] nmea $GNGGA,000156.859,,,,,0,0,,,M,,M,,*50
+19:05:16 [ 136707] bhi pedo n=9 len=2 raw 18 00 
+19:05:16 [ 136707] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -21 -344 mg gyr=0 0 0 dps ang=-19037 18049 7388 mdeg steps=24 n=3326/33
+19:05:17 [ 137113] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:17 [ 137524] bhi pedo n=9 len=2 raw 18 00 
+19:05:17 [ 137524] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -19 -348 mg gyr=0 0 0 dps ang=-19054 18149 7410 mdeg steps=24 n=3347/33
+19:05:17 [ 137526] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:17 [ 137526] up=83s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:18 [ 137932] gnss n=1099 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:18 [ 137932] nmea $GNRMC,000157.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:05:18 [ 137933] nmea $GNGGA,000157.859,,,,,0,0,,,M,,M,,*51
+19:05:18 [ 138344] bhi pedo n=9 len=2 raw 18 00 
+19:05:18 [ 138344] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -26 -337 mg gyr=0 0 0 dps ang=-19137 18537 7610 mdeg steps=24 n=3367/33
+19:05:19 [ 138750] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:19 [ 139160] bhi pedo n=9 len=2 raw 18 00 
+19:05:19 [ 139160] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -22 -342 mg gyr=0 0 0 dps ang=-19145 18572 7607 mdeg steps=24 n=3387/33
+19:05:19 [ 139161] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:19 [ 139162] up=84s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:19 [ 139569] gnss n=1115 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:19 [ 139569] nmea $GNRMC,000159.859,V,,,,,0.00,0.00,060180,,,N*55
+19:05:19 [ 139569] nmea $GNGGA,000159.859,,,,,0,0,,,M,,M,,*5F
+19:05:20 [ 139976] bhi pedo n=9 len=2 raw 18 00 
+19:05:20 [ 139976] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -21 -344 mg gyr=0 0 0 dps ang=-19164 18557 7573 mdeg steps=24 n=3408/34
+19:05:20 [ 140386] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:21 [ 140793] bhi pedo n=9 len=2 raw 18 00 
+19:05:21 [ 140794] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -17 -347 mg gyr=0 0 0 dps ang=-19169 18552 7551 mdeg steps=24 n=3428/34
+19:05:21 [ 140795] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:21 [ 140795] up=85s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:21 [ 141206] gnss n=1131 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:21 [ 141206] nmea $GNRMC,000201.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:05:21 [ 141206] nmea $GNGGA,000201.859,,,,,0,0,,,M,,M,,*51
+19:05:21 [ 141615] bhi pedo n=9 len=2 raw 18 00 
+19:05:21 [ 141615] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -20 -338 mg gyr=0 0 0 dps ang=-19181 18523 7537 mdeg steps=24 n=3449/34
+19:05:22 [ 142022] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:22 [ 142435] bhi pedo n=9 len=2 raw 18 00 
+19:05:22 [ 142435] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -21 -337 mg gyr=0 0 0 dps ang=-19196 18476 7505 mdeg steps=24 n=3469/34
+19:05:22 [ 142436] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:22 [ 142436] up=86s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:22 [ 142845] gnss n=1139 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:22 [ 142845] nmea $GNRMC,000202.859,V,,,,,0.00,0.00,060180,,,N*58
+19:05:22 [ 142846] nmea $GNGGA,000202.859,,,,,0,0,,,M,,M,,*52
+19:05:23 [ 143257] bhi pedo n=9 len=2 raw 18 00 
+19:05:23 [ 143257] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -18 -330 mg gyr=0 0 0 dps ang=-19208 18457 7493 mdeg steps=24 n=3489/34
+19:05:23 [ 143667] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:24 [ 144076] bhi pedo n=9 len=2 raw 18 00 
+19:05:24 [ 144077] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -10 -339 mg gyr=0 0 0 dps ang=-19211 18437 7468 mdeg steps=24 n=3510/35
+19:05:24 [ 144078] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:24 [ 144078] up=87s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:24 [ 144487] gnss n=1155 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:24 [ 144487] nmea $GNRMC,000204.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:05:24 [ 144487] nmea $GNGGA,000204.859,,,,,0,0,,,M,,M,,*54
+19:05:25 [ 144894] bhi pedo n=9 len=2 raw 18 00 
+19:05:25 [ 144894] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -19 -349 mg gyr=0 0 0 dps ang=-19216 18386 7405 mdeg steps=24 n=3530/35
+19:05:25 [ 145302] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:25 [ 145710] bhi pedo n=9 len=2 raw 18 00 
+19:05:25 [ 145711] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -17 -349 mg gyr=0 0 0 dps ang=-19230 18345 7373 mdeg steps=24 n=3550/35
+19:05:25 [ 145712] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:25 [ 145712] up=88s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:26 [ 146121] gnss n=1163 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:26 [ 146122] nmea $GNRMC,000205.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:05:26 [ 146122] nmea $GNGGA,000205.859,,,,,0,0,,,M,,M,,*55
+19:05:26 [ 146530] bhi pedo n=9 len=2 raw 18 00 
+19:05:26 [ 146530] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -20 -336 mg gyr=0 0 0 dps ang=-19245 18362 7358 mdeg steps=24 n=3571/35
+19:05:27 [ 146936] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:27 [ 147347] bhi pedo n=9 len=2 raw 18 00 
+19:05:27 [ 147348] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=965 -22 -344 mg gyr=0 0 0 dps ang=-19250 18337 7339 mdeg steps=24 n=3591/35
+19:05:27 [ 147349] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:27 [ 147349] up=89s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:28 [ 147755] gnss n=1179 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:28 [ 147755] nmea $GNRMC,000207.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:05:28 [ 147756] nmea $GNGGA,000207.859,,,,,0,0,,,M,,M,,*57
+19:05:28 [ 148164] bhi pedo n=9 len=2 raw 18 00 
+19:05:28 [ 148165] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -17 -336 mg gyr=0 0 0 dps ang=-19264 18335 7319 mdeg steps=24 n=3611/36
+19:05:28 [ 148570] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:29 [ 148980] bhi pedo n=9 len=2 raw 18 00 
+19:05:29 [ 148980] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -22 -347 mg gyr=0 0 0 dps ang=-19286 18301 7290 mdeg steps=24 n=3632/36
+19:05:29 [ 148981] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:29 [ 148982] up=90s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:29 [ 149392] gnss n=1195 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:29 [ 149392] nmea $GNRMC,000209.859,V,,,,,0.00,0.00,060180,,,N*53
+19:05:29 [ 149393] nmea $GNGGA,000209.859,,,,,0,0,,,M,,M,,*59
+19:05:30 [ 149799] bhi pedo n=9 len=2 raw 18 00 
+19:05:30 [ 149799] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -20 -337 mg gyr=0 0 0 dps ang=-19299 18269 7273 mdeg steps=24 n=3652/36
+19:05:30 [ 150207] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:30 [ 150618] bhi pedo n=9 len=2 raw 18 00 
+19:05:30 [ 150618] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -8 -343 mg gyr=0 0 0 dps ang=-19308 18249 7248 mdeg steps=24 n=3672/367
+19:05:30 [ 150620] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:30 [ 150620] up=91s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:31 [ 151025] gnss n=1203 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:31 [ 151025] nmea $GNRMC,000210.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:05:31 [ 151026] nmea $GNGGA,000210.859,,,,,0,0,,,M,,M,,*51
+19:05:31 [ 151435] bhi pedo n=9 len=2 raw 18 00 
+19:05:31 [ 151435] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -14 -340 mg gyr=0 0 0 dps ang=-19303 18254 7241 mdeg steps=24 n=3693/36
+19:05:31 [ 151842] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:32 [ 152252] bhi pedo n=9 len=2 raw 18 00 
+19:05:32 [ 152252] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -22 -341 mg gyr=0 0 0 dps ang=-19311 18262 7207 mdeg steps=24 n=3713/37
+19:05:32 [ 152254] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:32 [ 152254] up=92s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:32 [ 152661] gnss n=1219 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:32 [ 152661] nmea $GNRMC,000212.859,V,,,,,0.00,0.00,060180,,,N*59
+19:05:32 [ 152661] nmea $GNGGA,000212.859,,,,,0,0,,,M,,M,,*53
+19:05:33 [ 153069] bhi pedo n=9 len=2 raw 18 00 
+19:05:33 [ 153069] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -20 -337 mg gyr=0 0 0 dps ang=-19321 18232 7190 mdeg steps=24 n=3733/37
+19:05:33 [ 153479] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:34 [ 153887] bhi pedo n=9 len=2 raw 18 00 
+19:05:34 [ 153887] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -22 -348 mg gyr=0 0 0 dps ang=-19330 18230 7165 mdeg steps=24 n=3754/37
+19:05:34 [ 153889] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:34 [ 153889] up=93s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:34 [ 154300] gnss n=1235 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:34 [ 154300] nmea $GNRMC,000214.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:05:34 [ 154301] nmea $GNGGA,000214.859,,,,,0,0,,,M,,M,,*55
+19:05:34 [ 154708] bhi pedo n=9 len=2 raw 18 00 
+19:05:34 [ 154708] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -20 -341 mg gyr=0 0 0 dps ang=-19343 18208 7146 mdeg steps=24 n=3774/37
+19:05:35 [ 155114] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:35 [ 155526] bhi pedo n=9 len=2 raw 18 00 
+19:05:35 [ 155527] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -17 -347 mg gyr=0 0 0 dps ang=-19352 18176 7122 mdeg steps=24 n=3794/37
+19:05:35 [ 155528] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:35 [ 155528] up=94s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:36 [ 155935] gnss n=1243 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:36 [ 155935] nmea $GNRMC,000215.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:05:36 [ 155935] nmea $GNGGA,000215.859,,,,,0,0,,,M,,M,,*54
+19:05:36 [ 156344] bhi pedo n=9 len=2 raw 18 00 
+19:05:36 [ 156344] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -29 -349 mg gyr=0 0 0 dps ang=-19357 18161 7097 mdeg steps=24 n=3815/38
+19:05:37 [ 156754] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:37 [ 157164] bhi pedo n=9 len=2 raw 18 00 
+19:05:37 [ 157164] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -11 -347 mg gyr=0 0 0 dps ang=-19355 18152 7075 mdeg steps=24 n=3835/38
+19:05:37 [ 157165] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:37 [ 157165] up=95s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:37 [ 157572] gnss n=1259 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:37 [ 157572] nmea $GNRMC,000217.859,V,,,,,0.00,0.00,060180,,,N*5C
+19:05:37 [ 157573] nmea $GNGGA,000217.859,,,,,0,0,,,M,,M,,*56
+19:05:38 [ 157979] bhi pedo n=9 len=2 raw 18 00 
+19:05:38 [ 157979] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -24 -346 mg gyr=0 0 0 dps ang=-19355 18130 7063 mdeg steps=24 n=3855/38
+19:05:38 [ 158392] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:39 [ 158800] bhi pedo n=9 len=2 raw 18 00 
+19:05:39 [ 158800] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -19 -338 mg gyr=0 0 0 dps ang=-19360 18132 7043 mdeg steps=24 n=3876/38
+19:05:39 [ 158801] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:39 [ 158801] up=96s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:39 [ 159210] gnss n=1275 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:39 [ 159210] nmea $GNRMC,000219.859,V,,,,,0.00,0.00,060180,,,N*52
+19:05:39 [ 159210] nmea $GNGGA,000219.859,,,,,0,0,,,M,,M,,*58
+19:05:39 [ 159617] bhi pedo n=9 len=2 raw 18 00 
+19:05:39 [ 159617] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -10 -350 mg gyr=0 0 0 dps ang=-19379 18120 7019 mdeg steps=24 n=3896/38
+19:05:40 [ 160023] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:40 [ 160433] bhi pedo n=9 len=2 raw 18 00 
+19:05:40 [ 160434] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=965 -13 -345 mg gyr=0 0 0 dps ang=-19389 18159 7002 mdeg steps=24 n=3916/39
+19:05:40 [ 160435] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:40 [ 160435] up=97s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:41 [ 160842] gnss n=1283 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:41 [ 160842] nmea $GNRMC,000220.859,V,,,,,0.00,0.00,060180,,,N*58
+19:05:41 [ 160842] nmea $GNGGA,000220.859,,,,,0,0,,,M,,M,,*52
+19:05:41 [ 161254] bhi pedo n=9 len=2 raw 18 00 
+19:05:41 [ 161254] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -10 -350 mg gyr=0 0 0 dps ang=-19404 18147 6985 mdeg steps=24 n=3937/39
+19:05:41 [ 161665] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:42 [ 162073] bhi pedo n=9 len=2 raw 18 00 
+19:05:42 [ 162074] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -21 -336 mg gyr=0 0 0 dps ang=-19411 18139 6975 mdeg steps=24 n=3956/39
+19:05:42 [ 162075] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:42 [ 162075] up=98s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:42 [ 162486] gnss n=1299 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:42 [ 162486] nmea $GNRMC,000222.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:05:42 [ 162487] nmea $GNGGA,000222.859,,,,,0,0,,,M,,M,,*50
+19:05:43 [ 162895] bhi pedo n=9 len=2 raw 18 00 
+19:05:43 [ 162895] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -15 -349 mg gyr=0 0 0 dps ang=-19404 18098 6956 mdeg steps=24 n=3978/39
+19:05:43 [ 163304] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:44 [ 163713] bhi pedo n=9 len=2 raw 18 00 
+19:05:44 [ 163714] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -24 -343 mg gyr=0 0 0 dps ang=-19413 18061 6917 mdeg steps=24 n=3998/39
+19:05:44 [ 163715] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:44 [ 163715] up=99s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:44 [ 164122] gnss n=1307 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:44 [ 164123] nmea $GNRMC,000223.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:05:44 [ 164123] nmea $GNGGA,000223.859,,,,,0,0,,,M,,M,,*51
+19:05:44 [ 164535] bhi pedo n=9 len=2 raw 18 00 
+19:05:44 [ 164535] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -21 -345 mg gyr=0 0 0 dps ang=-19421 18013 6877 mdeg steps=24 n=4018/40
+19:05:45 [ 164942] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:45 [ 165354] bhi pedo n=9 len=2 raw 18 00 
+19:05:45 [ 165355] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -19 -337 mg gyr=0 0 0 dps ang=-19428 18027 6863 mdeg steps=24 n=4039/40
+19:05:45 [ 165356] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:45 [ 165356] up=100s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:46 [ 165763] gnss n=1323 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:46 [ 165763] nmea $GNRMC,000225.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:05:46 [ 165763] nmea $GNGGA,000225.859,,,,,0,0,,,M,,M,,*57
+19:05:46 [ 166172] bhi pedo n=9 len=2 raw 18 00 
+19:05:46 [ 166172] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -21 -347 mg gyr=0 0 0 dps ang=-19433 18017 6853 mdeg steps=24 n=4059/40
+19:05:46 [ 166581] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:47 [ 166990] bhi pedo n=9 len=2 raw 18 00 
+19:05:47 [ 166990] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -24 -342 mg gyr=0 0 0 dps ang=-19443 17991 6843 mdeg steps=24 n=4079/40
+19:05:47 [ 166991] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:47 [ 166992] up=101s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:47 [ 167402] gnss n=1339 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:47 [ 167402] nmea $GNRMC,000227.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:05:47 [ 167403] nmea $GNGGA,000227.859,,,,,0,0,,,M,,M,,*55
+19:05:48 [ 167812] bhi pedo n=9 len=2 raw 18 00 
+19:05:48 [ 167812] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -21 -338 mg gyr=0 0 0 dps ang=-19457 17991 6838 mdeg steps=24 n=4100/41
+19:05:48 [ 168223] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:48 [ 168634] bhi pedo n=9 len=2 raw 18 00 
+19:05:48 [ 168634] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -17 -345 mg gyr=0 0 0 dps ang=-19467 17981 6819 mdeg steps=24 n=4120/41
+19:05:48 [ 168636] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:48 [ 168636] up=102s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:49 [ 169043] gnss n=1347 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:49 [ 169043] nmea $GNRMC,000228.859,V,,,,,0.00,0.00,060180,,,N*50
+19:05:49 [ 169044] nmea $GNGGA,000228.859,,,,,0,0,,,M,,M,,*5A
+19:05:49 [ 169454] bhi pedo n=9 len=2 raw 18 00 
+19:05:49 [ 169454] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -20 -345 mg gyr=0 0 0 dps ang=-19469 17971 6787 mdeg steps=24 n=4141/41
+19:05:50 [ 169860] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:50 [ 170270] bhi pedo n=9 len=2 raw 18 00 
+19:05:50 [ 170270] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -24 -351 mg gyr=0 0 0 dps ang=-19491 17947 6768 mdeg steps=24 n=4161/41
+19:05:50 [ 170272] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:50 [ 170272] up=103s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:50 [ 170678] gnss n=1363 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:50 [ 170678] nmea $GNRMC,000230.859,V,,,,,0.00,0.00,060180,,,N*59
+19:05:50 [ 170678] nmea $GNGGA,000230.859,,,,,0,0,,,M,,M,,*53
+19:05:51 [ 171084] bhi pedo n=9 len=2 raw 18 00 
+19:05:51 [ 171084] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -22 -343 mg gyr=0 0 0 dps ang=-19504 17951 6748 mdeg steps=24 n=4181/41
+19:05:51 [ 171494] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:52 [ 171904] bhi pedo n=9 len=2 raw 18 00 
+19:05:52 [ 171905] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -24 -349 mg gyr=0 0 0 dps ang=-19518 17903 6729 mdeg steps=24 n=4201/42
+19:05:52 [ 171906] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:52 [ 171906] up=104s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:52 [ 172315] gnss n=1379 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:52 [ 172315] nmea $GNRMC,000232.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:05:52 [ 172315] nmea $GNGGA,000232.859,,,,,0,0,,,M,,M,,*51
+19:05:53 [ 172722] bhi pedo n=9 len=2 raw 18 00 
+19:05:53 [ 172722] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -17 -342 mg gyr=0 0 0 dps ang=-19530 17876 6692 mdeg steps=24 n=4222/42
+19:05:53 [ 173130] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:53 [ 173540] bhi pedo n=9 len=2 raw 18 00 
+19:05:53 [ 173541] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -14 -343 mg gyr=0 0 0 dps ang=-19535 17881 6675 mdeg steps=24 n=4242/42
+19:05:53 [ 173542] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:53 [ 173542] up=105s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:54 [ 173951] gnss n=1387 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:54 [ 173951] nmea $GNRMC,000233.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:05:54 [ 173951] nmea $GNGGA,000233.859,,,,,0,0,,,M,,M,,*50
+19:05:54 [ 174363] bhi pedo n=9 len=2 raw 18 00 
+19:05:54 [ 174363] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -12 -344 mg gyr=0 0 0 dps ang=-19552 17876 6648 mdeg steps=24 n=4263/42
+19:05:55 [ 174773] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:55 [ 175183] bhi pedo n=9 len=2 raw 18 00 
+19:05:55 [ 175183] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -26 -350 mg gyr=0 0 0 dps ang=-19557 17859 6636 mdeg steps=24 n=4283/42
+19:05:55 [ 175184] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:55 [ 175185] up=106s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:55 [ 175592] gnss n=1403 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:55 [ 175592] nmea $GNRMC,000235.859,V,,,,,0.00,0.00,060180,,,N*5C
+19:05:55 [ 175592] nmea $GNGGA,000235.859,,,,,0,0,,,M,,M,,*56
+19:05:56 [ 176000] bhi pedo n=9 len=2 raw 18 00 
+19:05:56 [ 176000] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -19 -338 mg gyr=0 0 0 dps ang=-19577 17844 6633 mdeg steps=24 n=4303/43
+19:05:56 [ 176412] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:56 [ 176821] bhi pedo n=9 len=2 raw 18 00 
+19:05:56 [ 176822] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -18 -338 mg gyr=0 0 0 dps ang=-19584 17851 6619 mdeg steps=24 n=4324/43
+19:05:56 [ 176823] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:56 [ 176823] up=107s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:57 [ 177231] gnss n=1419 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:57 [ 177231] nmea $GNRMC,000237.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:05:57 [ 177232] nmea $GNGGA,000237.859,,,,,0,0,,,M,,M,,*54
+19:05:57 [ 177641] bhi pedo n=9 len=2 raw 18 00 
+19:05:57 [ 177641] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -14 -345 mg gyr=0 0 0 dps ang=-19596 17859 6592 mdeg steps=24 n=4344/43
+19:05:58 [ 178052] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:05:58 [ 178465] bhi pedo n=9 len=2 raw 18 00 
+19:05:58 [ 178466] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -18 -339 mg gyr=0 0 0 dps ang=-19594 17837 6567 mdeg steps=24 n=4365/43
+19:05:58 [ 178467] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:05:58 [ 178467] up=108s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:05:59 [ 178873] gnss n=1427 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:05:59 [ 178873] nmea $GNRMC,000238.859,V,,,,,0.00,0.00,060180,,,N*51
+19:05:59 [ 178873] nmea $GNGGA,000238.859,,,,,0,0,,,M,,M,,*5B
+19:05:59 [ 179283] bhi pedo n=9 len=2 raw 18 00 
+19:05:59 [ 179283] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -23 -352 mg gyr=0 0 0 dps ang=-19599 17812 6553 mdeg steps=24 n=4385/43
+19:05:59 [ 179690] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:00 [ 180097] bhi pedo n=9 len=2 raw 18 00 
+19:06:00 [ 180098] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -19 -344 mg gyr=0 0 0 dps ang=-19621 17815 6541 mdeg steps=24 n=4405/44
+19:06:00 [ 180099] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:00 [ 180099] up=109s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:00 [ 180509] gnss n=1443 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:00 [ 180509] nmea $GNRMC,000240.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:06:00 [ 180509] nmea $GNGGA,000240.859,,,,,0,0,,,M,,M,,*54
+19:06:01 [ 180915] bhi pedo n=9 len=2 raw 18 00 
+19:06:01 [ 180915] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -16 -347 mg gyr=0 0 0 dps ang=-19638 17803 6511 mdeg steps=24 n=4425/44
+19:06:01 [ 181327] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:02 [ 181735] bhi pedo n=9 len=2 raw 18 00 
+19:06:02 [ 181736] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -19 -342 mg gyr=0 0 0 dps ang=-19655 17785 6492 mdeg steps=24 n=4446/44
+19:06:02 [ 181737] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:02 [ 181737] up=110s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:02 [ 182146] gnss n=1451 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:02 [ 182146] nmea $GNRMC,000241.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:06:02 [ 182146] nmea $GNGGA,000241.859,,,,,0,0,,,M,,M,,*55
+19:06:02 [ 182553] bhi pedo n=9 len=2 raw 18 00 
+19:06:02 [ 182553] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -22 -345 mg gyr=0 0 0 dps ang=-19660 17756 6475 mdeg steps=24 n=4466/44
+19:06:03 [ 182961] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:03 [ 183369] bhi pedo n=9 len=2 raw 18 00 
+19:06:03 [ 183369] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -14 -350 mg gyr=0 0 0 dps ang=-19670 17737 6448 mdeg steps=24 n=4486/44
+19:06:03 [ 183371] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:03 [ 183371] up=111s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:04 [ 183777] gnss n=1467 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:04 [ 183777] nmea $GNRMC,000243.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:06:04 [ 183777] nmea $GNGGA,000243.859,,,,,0,0,,,M,,M,,*57
+19:06:04 [ 184186] bhi pedo n=9 len=2 raw 18 00 
+19:06:04 [ 184186] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -29 -348 mg gyr=0 0 0 dps ang=-19684 17746 6431 mdeg steps=24 n=4507/45
+19:06:04 [ 184592] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:05 [ 185001] bhi pedo n=9 len=2 raw 18 00 
+19:06:05 [ 185001] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -14 -351 mg gyr=0 0 0 dps ang=-19692 17742 6419 mdeg steps=24 n=4527/45
+19:06:05 [ 185003] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:05 [ 185003] up=112s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:05 [ 185413] gnss n=1483 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:05 [ 185413] nmea $GNRMC,000245.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:06:05 [ 185413] nmea $GNGGA,000245.859,,,,,0,0,,,M,,M,,*51
+19:06:05 [ 185823] bhi pedo n=9 len=2 raw 18 00 
+19:06:05 [ 185823] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -15 -348 mg gyr=0 -1 0 dps ang=-19679 17785 6541 mdeg steps=24 n=4547/4
+19:06:06 [ 186232] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:06 [ 186641] bhi pedo n=9 len=2 raw 18 00 
+19:06:06 [ 186641] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -19 -353 mg gyr=0 0 0 dps ang=-19694 17746 6521 mdeg steps=24 n=4568/45
+19:06:06 [ 186643] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:06 [ 186643] up=113s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:07 [ 187050] gnss n=1491 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:07 [ 187050] nmea $GNRMC,000246.859,V,,,,,0.00,0.00,060180,,,N*58
+19:06:07 [ 187051] nmea $GNGGA,000246.859,,,,,0,0,,,M,,M,,*52
+19:06:07 [ 187459] bhi pedo n=9 len=2 raw 18 00 
+19:06:07 [ 187459] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -22 -346 mg gyr=0 0 0 dps ang=-19728 17732 6499 mdeg steps=24 n=4587/45
+19:06:08 [ 187869] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:08 [ 188279] bhi pedo n=9 len=2 raw 18 00 
+19:06:08 [ 188280] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -28 -343 mg gyr=0 0 0 dps ang=-19743 17705 6484 mdeg steps=24 n=4608/46
+19:06:08 [ 188281] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:08 [ 188281] up=114s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:08 [ 188688] gnss n=1507 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:08 [ 188688] nmea $GNRMC,000248.859,V,,,,,0.00,0.00,060180,,,N*56
+19:06:08 [ 188688] nmea $GNGGA,000248.859,,,,,0,0,,,M,,M,,*5C
+19:06:09 [ 189094] bhi pedo n=9 len=2 raw 18 00 
+19:06:09 [ 189094] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -17 -340 mg gyr=0 0 0 dps ang=-19743 17685 6462 mdeg steps=24 n=4629/46
+19:06:09 [ 189507] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:10 [ 189914] bhi pedo n=9 len=2 raw 18 00 
+19:06:10 [ 189915] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -18 -350 mg gyr=0 0 0 dps ang=-19748 17654 6436 mdeg steps=24 n=4648/46
+19:06:10 [ 189916] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:10 [ 189916] up=115s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:10 [ 190326] gnss n=1523 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:10 [ 190326] nmea $GNRMC,000250.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:06:10 [ 190327] nmea $GNGGA,000250.859,,,,,0,0,,,M,,M,,*55
+19:06:11 [ 190733] bhi pedo n=9 len=2 raw 18 00 
+19:06:11 [ 190733] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -26 -343 mg gyr=0 0 0 dps ang=-19762 17632 6419 mdeg steps=24 n=4669/46
+19:06:11 [ 191143] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:11 [ 191551] bhi pedo n=9 len=2 raw 18 00 
+19:06:11 [ 191551] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -26 -348 mg gyr=0 0 0 dps ang=-19794 17644 6401 mdeg steps=24 n=4690/46
+19:06:11 [ 191552] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:11 [ 191553] up=116s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:12 [ 191960] gnss n=1531 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:12 [ 191960] nmea $GNRMC,000251.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:06:12 [ 191961] nmea $GNGGA,000251.859,,,,,0,0,,,M,,M,,*54
+19:06:12 [ 192372] bhi pedo n=9 len=2 raw 18 00 
+19:06:12 [ 192372] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -22 -345 mg gyr=0 0 0 dps ang=-19804 17615 6389 mdeg steps=24 n=4710/47
+19:06:13 [ 192781] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:13 [ 193190] bhi pedo n=9 len=2 raw 18 00 
+19:06:13 [ 193190] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -21 -356 mg gyr=0 0 0 dps ang=-19809 17588 6384 mdeg steps=24 n=4731/47
+19:06:13 [ 193191] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:13 [ 193192] up=117s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:13 [ 193597] gnss n=1547 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:13 [ 193597] nmea $GNRMC,000253.859,V,,,,,0.00,0.00,060180,,,N*5C
+19:06:13 [ 193598] nmea $GNGGA,000253.859,,,,,0,0,,,M,,M,,*56
+19:06:14 [ 194006] bhi pedo n=9 len=2 raw 18 00 
+19:06:14 [ 194006] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -19 -351 mg gyr=0 0 0 dps ang=-19816 17571 6375 mdeg steps=24 n=4751/47
+19:06:14 [ 194416] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:14 [ 194827] bhi pedo n=9 len=2 raw 18 00 
+19:06:14 [ 194828] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -20 -346 mg gyr=0 0 0 dps ang=-19831 17566 6362 mdeg steps=24 n=4771/47
+19:06:14 [ 194829] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:14 [ 194829] up=118s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:15 [ 195237] gnss n=1563 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:15 [ 195237] nmea $GNRMC,000255.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:06:15 [ 195238] nmea $GNGGA,000255.859,,,,,0,0,,,M,,M,,*50
+19:06:15 [ 195645] bhi pedo n=9 len=2 raw 18 00 
+19:06:15 [ 195645] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -18 -347 mg gyr=0 0 0 dps ang=-19858 17549 6345 mdeg steps=24 n=4792/47
+19:06:16 [ 196052] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:16 [ 196462] bhi pedo n=9 len=2 raw 18 00 
+19:06:16 [ 196463] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -19 -343 mg gyr=0 0 0 dps ang=-19880 17515 6326 mdeg steps=24 n=4812/48
+19:06:16 [ 196464] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:16 [ 196464] up=119s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:17 [ 196870] gnss n=1571 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:17 [ 196870] nmea $GNRMC,000256.859,V,,,,,0.00,0.00,060180,,,N*59
+19:06:17 [ 196870] nmea $GNGGA,000256.859,,,,,0,0,,,M,,M,,*53
+19:06:17 [ 197280] bhi pedo n=9 len=2 raw 18 00 
+19:06:17 [ 197280] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -30 -344 mg gyr=0 0 0 dps ang=-19884 17515 6318 mdeg steps=24 n=4832/48
+19:06:18 [ 197689] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:18 [ 198098] bhi pedo n=9 len=2 raw 18 00 
+19:06:18 [ 198099] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -24 -344 mg gyr=0 0 0 dps ang=-19897 17505 6299 mdeg steps=24 n=4853/48
+19:06:18 [ 198100] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:18 [ 198101] up=120s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:18 [ 198510] gnss n=1587 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:18 [ 198510] nmea $GNRMC,000258.859,V,,,,,0.00,0.00,060180,,,N*57
+19:06:18 [ 198511] nmea $GNGGA,000258.859,,,,,0,0,,,M,,M,,*5D
+19:06:19 [ 198916] bhi pedo n=9 len=2 raw 18 00 
+19:06:19 [ 198916] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -20 -337 mg gyr=0 0 0 dps ang=-19919 17583 6304 mdeg steps=24 n=4873/48
+19:06:19 [ 199328] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:20 [ 199735] bhi pedo n=9 len=2 raw 18 00 
+19:06:20 [ 199735] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -17 -343 mg gyr=0 0 0 dps ang=-19904 17507 6265 mdeg steps=24 n=4892/48
+19:06:20 [ 199737] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:20 [ 199737] up=121s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:20 [ 200148] gnss n=1595 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:20 [ 200148] nmea $GNRMC,000259.859,V,,,,,0.00,0.00,060180,,,N*56
+19:06:20 [ 200148] nmea $GNGGA,000259.859,,,,,0,0,,,M,,M,,*5C
+19:06:20 [ 200555] bhi pedo n=9 len=2 raw 18 00 
+19:06:20 [ 200555] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -17 -343 mg gyr=0 0 0 dps ang=-19919 17451 6238 mdeg steps=24 n=4914/49
+19:06:21 [ 200966] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:21 [ 201376] bhi pedo n=9 len=2 raw 18 00 
+19:06:21 [ 201376] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=947 -24 -341 mg gyr=0 0 0 dps ang=-19921 17478 6226 mdeg steps=24 n=4934/49
+19:06:21 [ 201378] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:21 [ 201378] up=122s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:21 [ 201788] gnss n=1611 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:21 [ 201788] nmea $GNRMC,000301.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:06:21 [ 201788] nmea $GNGGA,000301.859,,,,,0,0,,,M,,M,,*50
+19:06:22 [ 202201] bhi pedo n=9 len=2 raw 18 00 
+19:06:22 [ 202201] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -12 -339 mg gyr=0 0 0 dps ang=-19921 17412 6199 mdeg steps=24 n=4954/49
+19:06:22 [ 202606] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:23 [ 203017] bhi pedo n=9 len=2 raw 18 00 
+19:06:23 [ 203017] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -21 -352 mg gyr=0 0 0 dps ang=-19936 17388 6170 mdeg steps=24 n=4975/49
+19:06:23 [ 203019] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:23 [ 203019] up=123s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:23 [ 203426] gnss n=1627 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:23 [ 203426] nmea $GNRMC,000303.859,V,,,,,0.00,0.00,060180,,,N*58
+19:06:23 [ 203426] nmea $GNGGA,000303.859,,,,,0,0,,,M,,M,,*52
+19:06:24 [ 203834] bhi pedo n=9 len=2 raw 18 00 
+19:06:24 [ 203834] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -21 -346 mg gyr=0 0 0 dps ang=-19943 17353 6138 mdeg steps=24 n=4995/49
+19:06:24 [ 204244] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:24 [ 204651] bhi pedo n=9 len=2 raw 18 00 
+19:06:24 [ 204652] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -20 -356 mg gyr=0 0 0 dps ang=-19955 17346 6116 mdeg steps=24 n=5015/50
+19:06:24 [ 204653] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:24 [ 204653] up=124s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:25 [ 205063] gnss n=1635 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:25 [ 205063] nmea $GNRMC,000304.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:06:25 [ 205063] nmea $GNGGA,000304.859,,,,,0,0,,,M,,M,,*55
+19:06:25 [ 205474] bhi pedo n=9 len=2 raw 18 00 
+19:06:25 [ 205474] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -14 -345 mg gyr=0 0 0 dps ang=-19970 17344 6087 mdeg steps=24 n=5036/50
+19:06:26 [ 205882] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:26 [ 206293] bhi pedo n=9 len=2 raw 18 00 
+19:06:26 [ 206294] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -25 -345 mg gyr=0 0 0 dps ang=-19970 17331 6079 mdeg steps=24 n=5056/50
+19:06:26 [ 206295] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:26 [ 206295] up=125s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:27 [ 206702] gnss n=1651 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:27 [ 206702] nmea $GNRMC,000306.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:06:27 [ 206703] nmea $GNGGA,000306.859,,,,,0,0,,,M,,M,,*57
+19:06:27 [ 207110] bhi pedo n=9 len=2 raw 18 00 
+19:06:27 [ 207111] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -18 -354 mg gyr=0 0 0 dps ang=-19992 17297 6052 mdeg steps=24 n=5077/50
+19:06:27 [ 207519] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:28 [ 207927] bhi pedo n=9 len=2 raw 18 00 
+19:06:28 [ 207927] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -19 -343 mg gyr=0 0 0 dps ang=-19987 17263 6030 mdeg steps=24 n=5097/50
+19:06:28 [ 207928] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:28 [ 207928] up=126s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:28 [ 208338] gnss n=1667 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:28 [ 208338] nmea $GNRMC,000308.859,V,,,,,0.00,0.00,060180,,,N*53
+19:06:28 [ 208339] nmea $GNGGA,000308.859,,,,,0,0,,,M,,M,,*59
+19:06:29 [ 208744] bhi pedo n=9 len=2 raw 18 00 
+19:06:29 [ 208744] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -7 -349 mg gyr=0 0 0 dps ang=-19985 17202 5996 mdeg steps=24 n=5117/511
+19:06:29 [ 209155] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:29 [ 209565] bhi pedo n=9 len=2 raw 18 00 
+19:06:29 [ 209566] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -17 -344 mg gyr=0 0 0 dps ang=-19997 17187 5967 mdeg steps=24 n=5138/51
+19:06:29 [ 209567] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:29 [ 209567] up=127s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:30 [ 209973] gnss n=1675 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:30 [ 209973] nmea $GNRMC,000309.859,V,,,,,0.00,0.00,060180,,,N*52
+19:06:30 [ 209974] nmea $GNGGA,000309.859,,,,,0,0,,,M,,M,,*58
+19:06:30 [ 210382] bhi pedo n=9 len=2 raw 18 00 
+19:06:30 [ 210382] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -22 -340 mg gyr=0 0 0 dps ang=-20009 17183 5957 mdeg steps=24 n=5158/51
+19:06:30 [ 210789] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:31 [ 211203] bhi pedo n=9 len=2 raw 18 00 
+19:06:31 [ 211203] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -17 -346 mg gyr=0 0 0 dps ang=-20028 17190 5945 mdeg steps=24 n=5178/51
+19:06:31 [ 211204] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:31 [ 211205] up=128s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:31 [ 211610] gnss n=1691 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:31 [ 211610] nmea $GNRMC,000311.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:06:31 [ 211611] nmea $GNGGA,000311.859,,,,,0,0,,,M,,M,,*51
+19:06:32 [ 212016] bhi pedo n=9 len=2 raw 18 00 
+19:06:32 [ 212016] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -14 -341 mg gyr=0 0 0 dps ang=-20041 17180 5923 mdeg steps=24 n=5199/51
+19:06:32 [ 212427] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:33 [ 212834] bhi pedo n=9 len=2 raw 18 00 
+19:06:33 [ 212835] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -14 -341 mg gyr=0 0 0 dps ang=-20053 17161 5896 mdeg steps=24 n=5219/52
+19:06:33 [ 212836] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:33 [ 212836] up=129s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:33 [ 213243] gnss n=1707 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:33 [ 213243] nmea $GNRMC,000313.859,V,,,,,0.00,0.00,060180,,,N*59
+19:06:33 [ 213244] nmea $GNGGA,000313.859,,,,,0,0,,,M,,M,,*53
+19:06:33 [ 213650] bhi pedo n=9 len=2 raw 18 00 
+19:06:33 [ 213650] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -15 -352 mg gyr=0 0 0 dps ang=-20060 17141 5886 mdeg steps=24 n=5239/52
+19:06:34 [ 214059] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:34 [ 214471] bhi pedo n=9 len=2 raw 18 00 
+19:06:34 [ 214472] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -15 -348 mg gyr=0 0 0 dps ang=-20058 17126 5867 mdeg steps=24 n=5260/52
+19:06:34 [ 214473] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:34 [ 214473] up=130s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:35 [ 214880] gnss n=1715 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:35 [ 214880] nmea $GNRMC,000314.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:06:35 [ 214880] nmea $GNGGA,000314.859,,,,,0,0,,,M,,M,,*54
+19:06:35 [ 215290] bhi pedo n=9 len=2 raw 18 00 
+19:06:35 [ 215290] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -17 -343 mg gyr=0 0 0 dps ang=-20063 17104 5847 mdeg steps=24 n=5280/52
+19:06:36 [ 215700] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:36 [ 216109] bhi pedo n=9 len=2 raw 18 00 
+19:06:36 [ 216109] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=945 -20 -342 mg gyr=0 0 0 dps ang=-20068 17085 5820 mdeg steps=24 n=5300/53
+19:06:36 [ 216110] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:36 [ 216110] up=131s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:36 [ 216520] gnss n=1731 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:36 [ 216520] nmea $GNRMC,000316.859,V,,,,,0.00,0.00,060180,,,N*5C
+19:06:36 [ 216521] nmea $GNGGA,000316.859,,,,,0,0,,,M,,M,,*56
+19:06:37 [ 216928] bhi pedo n=9 len=2 raw 18 00 
+19:06:37 [ 216928] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -21 -349 mg gyr=0 0 0 dps ang=-20072 17068 5799 mdeg steps=24 n=5321/53
+19:06:37 [ 217338] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:37 [ 217745] bhi pedo n=9 len=2 raw 18 00 
+19:06:37 [ 217745] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=947 -15 -337 mg gyr=0 0 0 dps ang=-20072 17053 5779 mdeg steps=24 n=5341/53
+19:06:37 [ 217747] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:38 [ 217747] up=132s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:38 [ 218155] gnss n=1739 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:38 [ 218155] nmea $GNRMC,000317.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:06:38 [ 218155] nmea $GNGGA,000317.859,,,,,0,0,,,M,,M,,*57
+19:06:38 [ 218560] bhi pedo n=9 len=2 raw 18 00 
+19:06:38 [ 218560] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -17 -346 mg gyr=0 0 0 dps ang=-20075 17021 5755 mdeg steps=24 n=5361/53
+19:06:39 [ 218966] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:39 [ 219378] bhi pedo n=9 len=2 raw 18 00 
+19:06:39 [ 219378] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -15 -342 mg gyr=0 0 0 dps ang=-20085 16995 5730 mdeg steps=24 n=5382/53
+19:06:39 [ 219380] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:39 [ 219380] up=133s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:39 [ 219786] gnss n=1755 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:39 [ 219786] nmea $GNRMC,000319.859,V,,,,,0.00,0.00,060180,,,N*53
+19:06:39 [ 219787] nmea $GNGGA,000319.859,,,,,0,0,,,M,,M,,*59
+19:06:40 [ 220198] bhi pedo n=9 len=2 raw 18 00 
+19:06:40 [ 220198] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -22 -345 mg gyr=0 0 0 dps ang=-20097 16973 5718 mdeg steps=24 n=5402/54
+19:06:40 [ 220608] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:41 [ 221015] bhi pedo n=9 len=2 raw 18 00 
+19:06:41 [ 221016] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -22 -350 mg gyr=0 0 0 dps ang=-20111 16960 5691 mdeg steps=24 n=5421/54
+19:06:41 [ 221017] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:41 [ 221017] up=134s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:41 [ 221427] gnss n=1771 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:41 [ 221427] nmea $GNRMC,000321.859,V,,,,,0.00,0.00,060180,,,N*58
+19:06:41 [ 221428] nmea $GNGGA,000321.859,,,,,0,0,,,M,,M,,*52
+19:06:42 [ 221835] bhi pedo n=9 len=2 raw 18 00 
+19:06:42 [ 221835] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -13 -348 mg gyr=0 0 0 dps ang=-20126 16965 5674 mdeg steps=24 n=5442/54
+19:06:42 [ 222247] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:42 [ 222658] bhi pedo n=9 len=2 raw 18 00 
+19:06:42 [ 222659] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -26 -341 mg gyr=0 0 0 dps ang=-20141 16926 5652 mdeg steps=24 n=5463/54
+19:06:42 [ 222660] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:42 [ 222660] up=135s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:43 [ 223065] gnss n=1779 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:43 [ 223065] nmea $GNRMC,000322.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:06:43 [ 223065] nmea $GNGGA,000322.859,,,,,0,0,,,M,,M,,*51
+19:06:43 [ 223477] bhi pedo n=9 len=2 raw 18 00 
+19:06:43 [ 223477] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -27 -355 mg gyr=0 0 0 dps ang=-20146 16899 5633 mdeg steps=24 n=5483/54
+19:06:44 [ 223885] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:44 [ 224302] bhi pedo n=9 len=2 raw 18 00 
+19:06:44 [ 224302] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -26 -338 mg gyr=0 0 0 dps ang=-20148 16880 5608 mdeg steps=24 n=5503/55
+19:06:44 [ 224303] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:44 [ 224304] up=136s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:45 [ 224709] gnss n=1795 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:45 [ 224709] nmea $GNRMC,000324.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:06:45 [ 224710] nmea $GNGGA,000324.859,,,,,0,0,,,M,,M,,*57
+19:06:45 [ 225117] bhi pedo n=9 len=2 raw 18 00 
+19:06:45 [ 225118] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -19 -348 mg gyr=0 0 0 dps ang=-20150 16855 5593 mdeg steps=24 n=5524/55
+19:06:45 [ 225526] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:46 [ 225937] bhi pedo n=9 len=2 raw 18 00 
+19:06:46 [ 225938] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -10 -349 mg gyr=0 0 0 dps ang=-20163 16836 5574 mdeg steps=24 n=5545/55
+19:06:46 [ 225939] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:46 [ 225939] up=137s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:46 [ 226349] gnss n=1811 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:46 [ 226349] nmea $GNRMC,000326.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:06:46 [ 226350] nmea $GNGGA,000326.859,,,,,0,0,,,M,,M,,*55
+19:06:46 [ 226756] bhi pedo n=9 len=2 raw 18 00 
+19:06:46 [ 226756] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -19 -341 mg gyr=0 0 0 dps ang=-20170 16807 5550 mdeg steps=24 n=5564/55
+19:06:47 [ 227166] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:47 [ 227576] bhi pedo n=9 len=2 raw 18 00 
+19:06:47 [ 227577] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -19 -344 mg gyr=0 0 0 dps ang=-20177 16780 5532 mdeg steps=24 n=5585/55
+19:06:47 [ 227578] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:47 [ 227578] up=138s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:48 [ 227986] gnss n=1819 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:48 [ 227986] nmea $GNRMC,000327.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:06:48 [ 227986] nmea $GNGGA,000327.859,,,,,0,0,,,M,,M,,*54
+19:06:48 [ 228395] bhi pedo n=9 len=2 raw 18 00 
+19:06:48 [ 228395] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -17 -337 mg gyr=0 0 0 dps ang=-20194 16758 5513 mdeg steps=24 n=5605/56
+19:06:48 [ 228801] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:49 [ 229212] bhi pedo n=9 len=2 raw 18 00 
+19:06:49 [ 229212] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -17 -349 mg gyr=0 0 0 dps ang=-20190 16675 5476 mdeg steps=24 n=5626/56
+19:06:49 [ 229213] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:49 [ 229214] up=139s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:49 [ 229620] gnss n=1835 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:49 [ 229620] nmea $GNRMC,000329.859,V,,,,,0.00,0.00,060180,,,N*50
+19:06:49 [ 229621] nmea $GNGGA,000329.859,,,,,0,0,,,M,,M,,*5A
+19:06:50 [ 230027] bhi pedo n=9 len=2 raw 18 00 
+19:06:50 [ 230027] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -22 -349 mg gyr=0 0 0 dps ang=-20197 16682 5457 mdeg steps=24 n=5646/56
+19:06:50 [ 230437] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:51 [ 230847] bhi pedo n=9 len=2 raw 18 00 
+19:06:51 [ 230848] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -15 -355 mg gyr=0 0 0 dps ang=-20202 16670 5430 mdeg steps=24 n=5667/56
+19:06:51 [ 230849] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:51 [ 230849] up=140s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:51 [ 231256] gnss n=1851 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:51 [ 231256] nmea $GNRMC,000331.859,V,,,,,0.00,0.00,060180,,,N*59
+19:06:51 [ 231257] nmea $GNGGA,000331.859,,,,,0,0,,,M,,M,,*53
+19:06:51 [ 231662] bhi pedo n=9 len=2 raw 18 00 
+19:06:51 [ 231662] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -22 -336 mg gyr=0 0 0 dps ang=-20192 16677 5415 mdeg steps=24 n=5687/56
+19:06:52 [ 232070] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:52 [ 232481] bhi pedo n=9 len=2 raw 18 00 
+19:06:52 [ 232481] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -20 -334 mg gyr=0 0 0 dps ang=-20209 16645 5391 mdeg steps=24 n=5707/57
+19:06:52 [ 232483] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:52 [ 232483] up=141s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:53 [ 232890] gnss n=1859 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:53 [ 232890] nmea $GNRMC,000332.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:06:53 [ 232891] nmea $GNGGA,000332.859,,,,,0,0,,,M,,M,,*50
+19:06:53 [ 233298] bhi pedo n=9 len=2 raw 18 00 
+19:06:53 [ 233298] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -20 -355 mg gyr=0 0 0 dps ang=-20212 16641 5374 mdeg steps=24 n=5728/57
+19:06:54 [ 233708] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:54 [ 234116] bhi pedo n=9 len=2 raw 18 00 
+19:06:54 [ 234116] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -24 -336 mg gyr=0 0 0 dps ang=-20226 16619 5359 mdeg steps=24 n=5748/57
+19:06:54 [ 234117] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:54 [ 234117] up=142s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:54 [ 234527] gnss n=1875 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:54 [ 234527] nmea $GNRMC,000334.859,V,,,,,0.00,0.00,060180,,,N*5C
+19:06:54 [ 234527] nmea $GNGGA,000334.859,,,,,0,0,,,M,,M,,*56
+19:06:55 [ 234934] bhi pedo n=9 len=2 raw 18 00 
+19:06:55 [ 234934] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -17 -340 mg gyr=0 0 0 dps ang=-20238 16621 5349 mdeg steps=24 n=5768/57
+19:06:55 [ 235343] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:55 [ 235752] bhi pedo n=9 len=2 raw 18 00 
+19:06:55 [ 235752] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -11 -343 mg gyr=0 0 0 dps ang=-20241 16609 5327 mdeg steps=24 n=5789/57
+19:06:55 [ 235754] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:55 [ 235754] up=143s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:56 [ 236164] gnss n=1883 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:56 [ 236164] nmea $GNRMC,000335.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:06:56 [ 236165] nmea $GNGGA,000335.859,,,,,0,0,,,M,,M,,*57
+19:06:56 [ 236571] bhi pedo n=9 len=2 raw 18 00 
+19:06:56 [ 236571] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -23 -342 mg gyr=0 0 0 dps ang=-20248 16611 5318 mdeg steps=24 n=5809/58
+19:06:57 [ 236977] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:57 [ 237389] bhi pedo n=9 len=2 raw 18 00 
+19:06:57 [ 237390] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -14 -340 mg gyr=0 0 0 dps ang=-20260 16536 5279 mdeg steps=24 n=5829/58
+19:06:57 [ 237391] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:57 [ 237391] up=144s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:58 [ 237800] gnss n=1899 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:58 [ 237800] nmea $GNRMC,000337.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:06:58 [ 237801] nmea $GNGGA,000337.859,,,,,0,0,,,M,,M,,*55
+19:06:58 [ 238212] bhi pedo n=9 len=2 raw 18 00 
+19:06:58 [ 238212] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -22 -349 mg gyr=0 0 0 dps ang=-20263 16528 5257 mdeg steps=24 n=5850/58
+19:06:58 [ 238617] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:06:59 [ 239024] bhi pedo n=9 len=2 raw 18 00 
+19:06:59 [ 239025] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -22 -339 mg gyr=0 0 0 dps ang=-20273 16499 5222 mdeg steps=24 n=5869/58
+19:06:59 [ 239026] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:06:59 [ 239026] up=145s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:06:59 [ 239437] gnss n=1915 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:06:59 [ 239437] nmea $GNRMC,000339.859,V,,,,,0.00,0.00,060180,,,N*51
+19:06:59 [ 239438] nmea $GNGGA,000339.859,,,,,0,0,,,M,,M,,*5B
+19:07:00 [ 239847] bhi pedo n=9 len=2 raw 18 00 
+19:07:00 [ 239847] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -16 -337 mg gyr=0 0 0 dps ang=-20280 16472 5196 mdeg steps=24 n=5890/58
+19:07:00 [ 240258] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:01 [ 240665] bhi pedo n=9 len=2 raw 18 00 
+19:07:01 [ 240665] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -20 -339 mg gyr=0 0 0 dps ang=-20282 16448 5171 mdeg steps=24 n=5911/59
+19:07:01 [ 240666] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:01 [ 240666] up=146s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:01 [ 241072] gnss n=1923 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:01 [ 241072] nmea $GNRMC,000340.859,V,,,,,0.00,0.00,060180,,,N*5F
+19:07:01 [ 241073] nmea $GNGGA,000340.859,,,,,0,0,,,M,,M,,*55
+19:07:01 [ 241480] bhi pedo n=9 len=2 raw 18 00 
+19:07:01 [ 241480] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -22 -343 mg gyr=0 0 0 dps ang=-20285 16445 5157 mdeg steps=24 n=5931/59
+19:07:02 [ 241889] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:02 [ 242301] bhi pedo n=9 len=2 raw 18 00 
+19:07:02 [ 242302] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -22 -340 mg gyr=0 0 0 dps ang=-20290 16404 5132 mdeg steps=24 n=5951/59
+19:07:02 [ 242303] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:02 [ 242303] up=147s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:02 [ 242711] gnss n=1939 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:02 [ 242711] nmea $GNRMC,000342.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:07:02 [ 242712] nmea $GNGGA,000342.859,,,,,0,0,,,M,,M,,*57
+19:07:03 [ 243118] bhi pedo n=9 len=2 raw 18 00 
+19:07:03 [ 243119] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -15 -356 mg gyr=0 0 0 dps ang=-20307 16392 5120 mdeg steps=24 n=5972/59
+19:07:03 [ 243527] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:04 [ 243934] bhi pedo n=9 len=2 raw 18 00 
+19:07:04 [ 243935] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -25 -341 mg gyr=0 0 0 dps ang=-20316 16362 5110 mdeg steps=24 n=5992/59
+19:07:04 [ 243936] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:04 [ 243936] up=148s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:04 [ 244344] gnss n=1955 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:04 [ 244344] nmea $GNRMC,000344.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:07:04 [ 244345] nmea $GNGGA,000344.859,,,,,0,0,,,M,,M,,*51
+19:07:04 [ 244751] bhi pedo n=9 len=2 raw 18 00 
+19:07:04 [ 244751] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -20 -352 mg gyr=0 0 0 dps ang=-20324 16328 5078 mdeg steps=24 n=6012/60
+19:07:05 [ 245164] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:05 [ 245572] bhi pedo n=9 len=2 raw 18 00 
+19:07:05 [ 245573] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -22 -348 mg gyr=0 0 0 dps ang=-20346 16265 5047 mdeg steps=24 n=6033/60
+19:07:05 [ 245574] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:05 [ 245574] up=149s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:06 [ 245982] gnss n=1963 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:06 [ 245982] nmea $GNRMC,000345.859,V,,,,,0.00,0.00,060180,,,N*5A
+19:07:06 [ 245982] nmea $GNGGA,000345.859,,,,,0,0,,,M,,M,,*50
+19:07:06 [ 246392] bhi pedo n=9 len=2 raw 18 00 
+19:07:06 [ 246392] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -22 -346 mg gyr=0 0 0 dps ang=-20363 16270 5017 mdeg steps=24 n=6053/60
+19:07:07 [ 246799] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:07 [ 247212] bhi pedo n=9 len=2 raw 18 00 
+19:07:07 [ 247212] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -24 -345 mg gyr=0 0 0 dps ang=-20358 16267 5000 mdeg steps=24 n=6073/60
+19:07:07 [ 247213] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:07 [ 247213] up=150s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:07 [ 247619] gnss n=1979 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:07 [ 247619] nmea $GNRMC,000347.859,V,,,,,0.00,0.00,060180,,,N*58
+19:07:07 [ 247620] nmea $GNGGA,000347.859,,,,,0,0,,,M,,M,,*52
+19:07:08 [ 248027] bhi pedo n=9 len=2 raw 18 00 
+19:07:08 [ 248027] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -16 -349 mg gyr=0 0 0 dps ang=-20360 16248 4981 mdeg steps=24 n=6094/60
+19:07:08 [ 248436] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:09 [ 248844] bhi pedo n=9 len=2 raw 18 00 
+19:07:09 [ 248844] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -22 -336 mg gyr=0 0 0 dps ang=-20368 16235 4969 mdeg steps=24 n=6114/61
+19:07:09 [ 248846] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:09 [ 248846] up=151s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:09 [ 249254] gnss n=1995 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:09 [ 249254] nmea $GNRMC,000349.859,V,,,,,0.00,0.00,060180,,,N*56
+19:07:09 [ 249255] nmea $GNGGA,000349.859,,,,,0,0,,,M,,M,,*5C
+19:07:10 [ 249663] bhi pedo n=9 len=2 raw 18 00 
+19:07:10 [ 249663] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -19 -338 mg gyr=0 0 0 dps ang=-20375 16240 4932 mdeg steps=24 n=6134/61
+19:07:10 [ 250071] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:10 [ 250482] bhi pedo n=9 len=2 raw 18 00 
+19:07:10 [ 250482] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -20 -331 mg gyr=0 0 0 dps ang=-20378 16184 4917 mdeg steps=24 n=6155/61
+19:07:10 [ 250484] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:10 [ 250484] up=152s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:11 [ 250893] gnss n=2003 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:11 [ 250893] nmea $GNRMC,000350.859,V,,,,,0.00,0.00,060180,,,N*5E
+19:07:11 [ 250894] nmea $GNGGA,000350.859,,,,,0,0,,,M,,M,,*54
+19:07:11 [ 251304] bhi pedo n=9 len=2 raw 18 00 
+19:07:11 [ 251304] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -26 -338 mg gyr=0 0 0 dps ang=-20378 16162 4898 mdeg steps=24 n=6175/61
+19:07:11 [ 251712] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:12 [ 252121] bhi pedo n=9 len=2 raw 18 00 
+19:07:12 [ 252121] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -16 -356 mg gyr=0 0 0 dps ang=-20387 16162 4886 mdeg steps=24 n=6195/61
+19:07:12 [ 252122] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:12 [ 252122] up=153s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:12 [ 252533] gnss n=2019 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:12 [ 252533] nmea $GNRMC,000352.859,V,,,,,0.00,0.00,060180,,,N*5C
+19:07:12 [ 252534] nmea $GNGGA,000352.859,,,,,0,0,,,M,,M,,*56
+19:07:13 [ 252941] bhi pedo n=9 len=2 raw 18 00 
+19:07:13 [ 252941] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -20 -344 mg gyr=0 0 0 dps ang=-20399 16133 4868 mdeg steps=24 n=6216/62
+19:07:13 [ 253351] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:13 [ 253759] bhi pedo n=9 len=2 raw 18 00 
+19:07:13 [ 253760] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -14 -342 mg gyr=0 0 0 dps ang=-20417 16106 4861 mdeg steps=24 n=6236/62
+19:07:13 [ 253761] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:13 [ 253761] up=154s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:14 [ 254171] gnss n=2027 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:14 [ 254171] nmea $GNRMC,000353.859,V,,,,,0.00,0.00,060180,,,N*5D
+19:07:14 [ 254171] nmea $GNGGA,000353.859,,,,,0,0,,,M,,M,,*57
+19:07:14 [ 254576] bhi pedo n=9 len=2 raw 18 00 
+19:07:14 [ 254576] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=942 -17 -336 mg gyr=0 0 0 dps ang=-20429 16084 4842 mdeg steps=24 n=6256/62
+19:07:15 [ 254984] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:15 [ 255393] bhi pedo n=9 len=2 raw 18 00 
+19:07:15 [ 255394] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -21 -350 mg gyr=0 0 0 dps ang=-20451 16064 4825 mdeg steps=24 n=6277/62
+19:07:15 [ 255395] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:15 [ 255395] up=155s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:16 [ 255801] gnss n=2043 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:16 [ 255801] nmea $GNRMC,000355.859,V,,,,,0.00,0.00,060180,,,N*5B
+19:07:16 [ 255801] nmea $GNGGA,000355.859,,,,,0,0,,,M,,M,,*51
+19:07:16 [ 256209] bhi pedo n=9 len=2 raw 18 00 
+19:07:16 [ 256210] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -20 -342 mg gyr=0 0 0 dps ang=-20458 16042 4812 mdeg steps=24 n=6297/62
+19:07:16 [ 256616] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:17 [ 257023] bhi pedo n=9 len=2 raw 18 00 
+19:07:17 [ 257023] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -20 -340 mg gyr=0 0 0 dps ang=-20473 16033 4800 mdeg steps=24 n=6317/63
+19:07:17 [ 257024] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:17 [ 257024] up=156s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:17 [ 257436] gnss n=2059 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:17 [ 257436] nmea $GNRMC,000357.859,V,,,,,0.00,0.00,060180,,,N*59
+19:07:17 [ 257437] nmea $GNGGA,000357.859,,,,,0,0,,,M,,M,,*53
+19:07:18 [ 257845] bhi pedo n=9 len=2 raw 18 00 
+19:07:18 [ 257845] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=967 -15 -350 mg gyr=0 0 0 dps ang=-20480 16030 4783 mdeg steps=24 n=6338/63
+19:07:18 [ 258258] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:19 [ 258667] bhi pedo n=9 len=2 raw 18 00 
+19:07:19 [ 258668] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -18 -350 mg gyr=0 0 0 dps ang=-20500 16018 4766 mdeg steps=24 n=6358/63
+19:07:19 [ 258669] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:19 [ 258669] up=157s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:19 [ 259077] gnss n=2067 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:19 [ 259077] nmea $GNRMC,000358.858,V,,,,,0.00,0.00,060180,,,N*57
+19:07:19 [ 259078] nmea $GNGGA,000358.858,,,,,0,0,,,M,,M,,*5D
+19:07:19 [ 259486] bhi pedo n=9 len=2 raw 18 00 
+19:07:19 [ 259486] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -16 -335 mg gyr=0 0 0 dps ang=-20507 16011 4749 mdeg steps=24 n=6378/63
+19:07:20 [ 259892] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:20 [ 260303] bhi pedo n=9 len=2 raw 18 00 
+19:07:20 [ 260304] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -20 -351 mg gyr=0 0 0 dps ang=-20504 15989 4732 mdeg steps=24 n=6399/63
+19:07:20 [ 260305] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:20 [ 260305] up=158s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:20 [ 260711] gnss n=2083 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:20 [ 260711] nmea $GNRMC,000400.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:07:20 [ 260712] nmea $GNGGA,000400.858,,,,,0,0,,,M,,M,,*57
+19:07:21 [ 261120] bhi pedo n=9 len=2 raw 18 00 
+19:07:21 [ 261121] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -18 -337 mg gyr=0 0 0 dps ang=-20509 15979 4722 mdeg steps=24 n=6419/64
+19:07:21 [ 261529] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:22 [ 261937] bhi pedo n=9 len=2 raw 18 00 
+19:07:22 [ 261938] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -18 -346 mg gyr=0 0 0 dps ang=-20514 15957 4710 mdeg steps=24 n=6439/64
+19:07:22 [ 261939] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:22 [ 261939] up=159s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:22 [ 262348] gnss n=2099 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:22 [ 262348] nmea $GNRMC,000402.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:07:22 [ 262349] nmea $GNGGA,000402.858,,,,,0,0,,,M,,M,,*55
+19:07:22 [ 262755] bhi pedo n=9 len=2 raw 18 00 
+19:07:22 [ 262755] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -15 -348 mg gyr=0 0 0 dps ang=-20517 15928 4690 mdeg steps=24 n=6460/64
+19:07:23 [ 263162] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:23 [ 263573] bhi pedo n=9 len=2 raw 18 00 
+19:07:23 [ 263574] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=966 -23 -352 mg gyr=0 0 0 dps ang=-20522 15920 4663 mdeg steps=24 n=6480/64
+19:07:23 [ 263575] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:23 [ 263575] up=160s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:24 [ 263982] gnss n=2107 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:24 [ 263982] nmea $GNRMC,000403.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:07:24 [ 263983] nmea $GNGGA,000403.858,,,,,0,0,,,M,,M,,*54
+19:07:24 [ 264393] bhi pedo n=9 len=2 raw 18 00 
+19:07:24 [ 264393] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -11 -343 mg gyr=0 0 0 dps ang=-20543 15908 4644 mdeg steps=24 n=6501/65
+19:07:25 [ 264800] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:25 [ 265212] bhi pedo n=9 len=2 raw 18 00 
+19:07:25 [ 265212] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -22 -336 mg gyr=0 0 0 dps ang=-20543 15884 4629 mdeg steps=24 n=6521/65
+19:07:25 [ 265214] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:25 [ 265214] up=161s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:25 [ 265621] gnss n=2123 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:25 [ 265621] nmea $GNRMC,000405.858,V,,,,,0.00,0.00,060180,,,N*58
+19:07:25 [ 265622] nmea $GNGGA,000405.858,,,,,0,0,,,M,,M,,*52
+19:07:26 [ 266028] bhi pedo n=9 len=2 raw 18 00 
+19:07:26 [ 266028] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=948 -26 -342 mg gyr=0 0 0 dps ang=-20548 15859 4617 mdeg steps=24 n=6541/65
+19:07:26 [ 266438] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:27 [ 266845] bhi pedo n=9 len=2 raw 18 00 
+19:07:27 [ 266845] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -21 -342 mg gyr=0 0 0 dps ang=-20556 15847 4607 mdeg steps=24 n=6561/65
+19:07:27 [ 266847] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:27 [ 266847] up=162s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:27 [ 267257] gnss n=2139 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:27 [ 267257] nmea $GNRMC,000407.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:07:27 [ 267258] nmea $GNGGA,000407.858,,,,,0,0,,,M,,M,,*50
+19:07:27 [ 267667] bhi pedo n=9 len=2 raw 18 00 
+19:07:27 [ 267667] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=948 -20 -346 mg gyr=0 0 0 dps ang=-20563 15837 4598 mdeg steps=24 n=6582/65
+19:07:28 [ 268076] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:28 [ 268488] bhi pedo n=9 len=2 raw 18 00 
+19:07:28 [ 268488] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=967 -17 -349 mg gyr=0 0 0 dps ang=-20565 15833 4573 mdeg steps=24 n=6602/66
+19:07:28 [ 268490] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:28 [ 268490] up=163s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:29 [ 268898] gnss n=2147 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:29 [ 268898] nmea $GNRMC,000408.858,V,,,,,0.00,0.00,060180,,,N*55
+19:07:29 [ 268899] nmea $GNGGA,000408.858,,,,,0,0,,,M,,M,,*5F
+19:07:29 [ 269309] bhi pedo n=9 len=2 raw 18 00 
+19:07:29 [ 269309] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -24 -353 mg gyr=0 0 0 dps ang=-20573 15813 4537 mdeg steps=24 n=6623/66
+19:07:29 [ 269719] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:30 [ 270127] bhi pedo n=9 len=2 raw 18 00 
+19:07:30 [ 270127] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -21 -346 mg gyr=0 0 0 dps ang=-20587 15779 4512 mdeg steps=24 n=6642/66
+19:07:30 [ 270128] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:30 [ 270129] up=164s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:30 [ 270538] gnss n=2163 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:30 [ 270538] nmea $GNRMC,000410.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:07:30 [ 270539] nmea $GNGGA,000410.858,,,,,0,0,,,M,,M,,*56
+19:07:31 [ 270947] bhi pedo n=9 len=2 raw 18 00 
+19:07:31 [ 270947] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -18 -342 mg gyr=0 0 0 dps ang=-20600 15776 4490 mdeg steps=24 n=6663/66
+19:07:31 [ 271359] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:32 [ 271766] bhi pedo n=9 len=2 raw 18 00 
+19:07:32 [ 271767] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -14 -347 mg gyr=0 0 0 dps ang=-20607 15774 4471 mdeg steps=24 n=6683/66
+19:07:32 [ 271768] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:32 [ 271768] up=165s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:32 [ 272179] gnss n=2171 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:32 [ 272179] nmea $GNRMC,000411.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:07:32 [ 272179] nmea $GNGGA,000411.858,,,,,0,0,,,M,,M,,*57
+19:07:32 [ 272586] bhi pedo n=9 len=2 raw 18 00 
+19:07:32 [ 272586] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -18 -335 mg gyr=0 0 0 dps ang=-20609 15752 4458 mdeg steps=24 n=6703/67
+19:07:33 [ 272992] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:33 [ 273403] bhi pedo n=9 len=2 raw 18 00 
+19:07:33 [ 273403] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -14 -353 mg gyr=0 0 0 dps ang=-20619 15740 4432 mdeg steps=24 n=6725/67
+19:07:33 [ 273404] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:33 [ 273404] up=166s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:34 [ 273811] gnss n=2187 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:34 [ 273811] nmea $GNRMC,000413.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:07:34 [ 273812] nmea $GNGGA,000413.858,,,,,0,0,,,M,,M,,*55
+19:07:34 [ 274222] bhi pedo n=9 len=2 raw 18 00 
+19:07:34 [ 274222] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -21 -352 mg gyr=0 0 0 dps ang=-20624 15720 4422 mdeg steps=24 n=6745/67
+19:07:35 [ 274631] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:35 [ 275038] bhi pedo n=9 len=2 raw 18 00 
+19:07:35 [ 275039] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -13 -355 mg gyr=0 0 0 dps ang=-20626 15696 4405 mdeg steps=24 n=6765/67
+19:07:35 [ 275040] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:35 [ 275040] up=167s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:35 [ 275448] gnss n=2203 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:35 [ 275448] nmea $GNRMC,000415.858,V,,,,,0.00,0.00,060180,,,N*59
+19:07:35 [ 275449] nmea $GNGGA,000415.858,,,,,0,0,,,M,,M,,*53
+19:07:36 [ 275854] bhi pedo n=9 len=2 raw 18 00 
+19:07:36 [ 275854] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -16 -347 mg gyr=0 0 0 dps ang=-20653 15693 4390 mdeg steps=24 n=6785/67
+19:07:36 [ 276265] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:36 [ 276674] bhi pedo n=9 len=2 raw 18 00 
+19:07:36 [ 276675] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -15 -352 mg gyr=0 0 0 dps ang=-20666 15649 4375 mdeg steps=24 n=6806/68
+19:07:36 [ 276676] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:36 [ 276676] up=168s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:37 [ 277084] gnss n=2211 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:37 [ 277084] nmea $GNRMC,000416.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:07:37 [ 277084] nmea $GNGGA,000416.858,,,,,0,0,,,M,,M,,*50
+19:07:37 [ 277492] bhi pedo n=9 len=2 raw 18 00 
+19:07:37 [ 277492] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -21 -345 mg gyr=0 0 0 dps ang=-20673 15635 4366 mdeg steps=24 n=6826/68
+19:07:38 [ 277898] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:38 [ 278308] bhi pedo n=9 len=2 raw 18 00 
+19:07:38 [ 278309] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -14 -353 mg gyr=0 0 0 dps ang=-20688 15645 4356 mdeg steps=24 n=6846/68
+19:07:38 [ 278310] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:38 [ 278310] up=169s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:38 [ 278718] gnss n=2227 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:38 [ 278718] nmea $GNRMC,000418.858,V,,,,,0.00,0.00,060180,,,N*54
+19:07:38 [ 278718] nmea $GNGGA,000418.858,,,,,0,0,,,M,,M,,*5E
+19:07:39 [ 279128] bhi pedo n=9 len=2 raw 18 00 
+19:07:39 [ 279129] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -22 -349 mg gyr=0 0 0 dps ang=-20673 15610 4324 mdeg steps=24 n=6867/68
+19:07:39 [ 279540] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:40 [ 279948] bhi pedo n=9 len=2 raw 18 00 
+19:07:40 [ 279949] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -16 -334 mg gyr=0 0 0 dps ang=-20675 15601 4307 mdeg steps=24 n=6887/68
+19:07:40 [ 279950] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:40 [ 279950] up=170s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:40 [ 280360] gnss n=2243 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:40 [ 280360] nmea $GNRMC,000420.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:07:40 [ 280361] nmea $GNGGA,000420.858,,,,,0,0,,,M,,M,,*55
+19:07:41 [ 280767] bhi pedo n=9 len=2 raw 18 00 
+19:07:41 [ 280767] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -24 -345 mg gyr=0 0 0 dps ang=-20690 15588 4285 mdeg steps=24 n=6908/69
+19:07:41 [ 281180] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:41 [ 281591] bhi pedo n=9 len=2 raw 18 00 
+19:07:41 [ 281591] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -19 -344 mg gyr=0 0 0 dps ang=-20697 15574 4266 mdeg steps=24 n=6928/69
+19:07:41 [ 281593] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:41 [ 281593] up=171s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:42 [ 281998] gnss n=2251 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:42 [ 281998] nmea $GNRMC,000421.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:07:42 [ 281999] nmea $GNGGA,000421.858,,,,,0,0,,,M,,M,,*54
+19:07:42 [ 282408] bhi pedo n=9 len=2 raw 18 00 
+19:07:42 [ 282408] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -13 -347 mg gyr=0 0 0 dps ang=-20714 15566 4236 mdeg steps=24 n=6948/69
+19:07:43 [ 282814] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:43 [ 283223] bhi pedo n=9 len=2 raw 18 00 
+19:07:43 [ 283224] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -22 -343 mg gyr=0 0 0 dps ang=-20712 15554 4219 mdeg steps=24 n=6968/69
+19:07:43 [ 283225] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:43 [ 283225] up=172s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:44 [ 283632] gnss n=2267 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:44 [ 283632] nmea $GNRMC,000423.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:07:44 [ 283632] nmea $GNGGA,000423.858,,,,,0,0,,,M,,M,,*56
+19:07:44 [ 284043] bhi pedo n=9 len=2 raw 18 00 
+19:07:44 [ 284043] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -16 -344 mg gyr=0 0 0 dps ang=-20722 15532 4200 mdeg steps=24 n=6989/69
+19:07:44 [ 284458] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:45 [ 284866] bhi pedo n=9 len=2 raw 18 00 
+19:07:45 [ 284866] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -17 -343 mg gyr=0 0 0 dps ang=-20731 15515 4180 mdeg steps=24 n=7009/70
+19:07:45 [ 284868] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:45 [ 284868] up=173s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:45 [ 285277] gnss n=2283 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:45 [ 285277] nmea $GNRMC,000425.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:07:45 [ 285278] nmea $GNGGA,000425.858,,,,,0,0,,,M,,M,,*50
+19:07:45 [ 285688] bhi pedo n=9 len=2 raw 18 00 
+19:07:45 [ 285688] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -17 -344 mg gyr=0 0 0 dps ang=-20741 15501 4158 mdeg steps=24 n=7030/70
+19:07:46 [ 286099] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:46 [ 286509] bhi pedo n=9 len=2 raw 18 00 
+19:07:46 [ 286510] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -20 -331 mg gyr=0 0 0 dps ang=-20751 15481 4141 mdeg steps=24 n=7050/70
+19:07:46 [ 286511] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:46 [ 286511] up=174s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:47 [ 286917] gnss n=2291 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:47 [ 286917] nmea $GNRMC,000426.858,V,,,,,0.00,0.00,060180,,,N*59
+19:07:47 [ 286918] nmea $GNGGA,000426.858,,,,,0,0,,,M,,M,,*53
+19:07:47 [ 287328] bhi pedo n=9 len=2 raw 18 00 
+19:07:47 [ 287328] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -19 -355 mg gyr=0 0 0 dps ang=-20753 15425 4122 mdeg steps=24 n=7071/70
+19:07:47 [ 287734] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:48 [ 288141] bhi pedo n=9 len=2 raw 18 00 
+19:07:48 [ 288142] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -23 -344 mg gyr=0 0 0 dps ang=-20761 15440 4102 mdeg steps=24 n=7090/70
+19:07:48 [ 288143] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:48 [ 288143] up=175s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:48 [ 288552] gnss n=2307 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:48 [ 288552] nmea $GNRMC,000428.858,V,,,,,0.00,0.00,060180,,,N*57
+19:07:48 [ 288552] nmea $GNGGA,000428.858,,,,,0,0,,,M,,M,,*5D
+19:07:49 [ 288960] bhi pedo n=9 len=2 raw 18 00 
+19:07:49 [ 288960] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -25 -345 mg gyr=0 0 0 dps ang=-20763 15400 4070 mdeg steps=24 n=7111/71
+19:07:49 [ 289370] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:50 [ 289778] bhi pedo n=9 len=2 raw 18 00 
+19:07:50 [ 289778] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -17 -346 mg gyr=0 0 0 dps ang=-20770 15396 4063 mdeg steps=24 n=7131/71
+19:07:50 [ 289779] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:50 [ 289779] up=176s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:50 [ 290190] gnss n=2323 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:50 [ 290190] nmea $GNRMC,000430.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:07:50 [ 290191] nmea $GNGGA,000430.858,,,,,0,0,,,M,,M,,*54
+19:07:50 [ 290597] bhi pedo n=9 len=2 raw 18 00 
+19:07:50 [ 290597] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -22 -336 mg gyr=0 0 0 dps ang=-20797 15376 4046 mdeg steps=24 n=7152/71
+19:07:51 [ 291004] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:51 [ 291416] bhi pedo n=9 len=2 raw 18 00 
+19:07:51 [ 291417] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -18 -348 mg gyr=0 0 0 dps ang=-20807 15352 4029 mdeg steps=24 n=7172/71
+19:07:51 [ 291418] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:51 [ 291418] up=177s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:52 [ 291824] gnss n=2331 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:52 [ 291824] nmea $GNRMC,000431.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:07:52 [ 291824] nmea $GNGGA,000431.858,,,,,0,0,,,M,,M,,*55
+19:07:52 [ 292235] bhi pedo n=9 len=2 raw 18 00 
+19:07:52 [ 292235] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -19 -348 mg gyr=0 0 0 dps ang=-20814 15359 4009 mdeg steps=24 n=7193/71
+19:07:52 [ 292644] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:53 [ 293051] bhi pedo n=9 len=2 raw 18 00 
+19:07:53 [ 293052] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -28 -357 mg gyr=0 0 0 dps ang=-20819 15322 3992 mdeg steps=24 n=7213/72
+19:07:53 [ 293053] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:53 [ 293053] up=178s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:53 [ 293461] gnss n=2347 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:53 [ 293461] nmea $GNRMC,000433.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:07:53 [ 293462] nmea $GNGGA,000433.858,,,,,0,0,,,M,,M,,*57
+19:07:54 [ 293868] bhi pedo n=9 len=2 raw 18 00 
+19:07:54 [ 293868] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -24 -338 mg gyr=0 0 0 dps ang=-20834 15300 3985 mdeg steps=24 n=7233/72
+19:07:54 [ 294277] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:54 [ 294684] bhi pedo n=9 len=2 raw 18 00 
+19:07:54 [ 294685] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -19 -346 mg gyr=0 0 0 dps ang=-20841 15278 3956 mdeg steps=24 n=7254/72
+19:07:54 [ 294686] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:54 [ 294686] up=179s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:55 [ 295095] gnss n=2355 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:55 [ 295095] nmea $GNRMC,000434.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:07:55 [ 295095] nmea $GNGGA,000434.858,,,,,0,0,,,M,,M,,*50
+19:07:55 [ 295504] bhi pedo n=9 len=2 raw 18 00 
+19:07:55 [ 295504] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -17 -346 mg gyr=0 0 0 dps ang=-20851 15264 3941 mdeg steps=24 n=7274/72
+19:07:56 [ 295913] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:56 [ 296324] bhi pedo n=9 len=2 raw 18 00 
+19:07:56 [ 296325] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -15 -339 mg gyr=0 0 0 dps ang=-20858 15252 3926 mdeg steps=24 n=7294/72
+19:07:56 [ 296326] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:56 [ 296326] up=180s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:56 [ 296734] gnss n=2371 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:56 [ 296734] nmea $GNRMC,000436.858,V,,,,,0.00,0.00,060180,,,N*58
+19:07:56 [ 296734] nmea $GNGGA,000436.858,,,,,0,0,,,M,,M,,*52
+19:07:57 [ 297141] bhi pedo n=9 len=2 raw 18 00 
+19:07:57 [ 297141] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -19 -352 mg gyr=0 0 0 dps ang=-20871 15254 3904 mdeg steps=24 n=7315/73
+19:07:57 [ 297551] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:58 [ 297959] bhi pedo n=9 len=2 raw 18 00 
+19:07:58 [ 297959] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -19 -351 mg gyr=0 0 0 dps ang=-20878 15230 3885 mdeg steps=24 n=7335/73
+19:07:58 [ 297961] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:58 [ 297961] up=181s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:07:58 [ 298370] gnss n=2387 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:07:58 [ 298370] nmea $GNRMC,000438.858,V,,,,,0.00,0.00,060180,,,N*56
+19:07:58 [ 298371] nmea $GNGGA,000438.858,,,,,0,0,,,M,,M,,*5C
+19:07:59 [ 298780] bhi pedo n=9 len=2 raw 18 00 
+19:07:59 [ 298780] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -19 -339 mg gyr=0 0 0 dps ang=-20888 15203 3868 mdeg steps=24 n=7355/73
+19:07:59 [ 299191] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:07:59 [ 299599] bhi pedo n=9 len=2 raw 18 00 
+19:07:59 [ 299599] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -14 -341 mg gyr=0 0 0 dps ang=-20883 15183 3853 mdeg steps=24 n=7376/73
+19:07:59 [ 299600] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:07:59 [ 299601] up=182s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:00 [ 300010] gnss n=2395 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:00 [ 300010] nmea $GNRMC,000439.858,V,,,,,0.00,0.00,060180,,,N*57
+19:08:00 [ 300010] nmea $GNGGA,000439.858,,,,,0,0,,,M,,M,,*5D
+19:08:00 [ 300422] bhi pedo n=9 len=2 raw 18 00 
+19:08:00 [ 300422] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=965 -18 -341 mg gyr=0 0 0 dps ang=-20907 15159 3843 mdeg steps=24 n=7396/73
+19:08:01 [ 300833] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:01 [ 301244] bhi pedo n=9 len=2 raw 18 00 
+19:08:01 [ 301244] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -20 -352 mg gyr=0 0 0 dps ang=-20936 15154 3829 mdeg steps=24 n=7416/74
+19:08:01 [ 301246] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:01 [ 301246] up=183s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:01 [ 301652] gnss n=2411 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:01 [ 301652] nmea $GNRMC,000441.858,V,,,,,0.00,0.00,060180,,,N*58
+19:08:01 [ 301652] nmea $GNGGA,000441.858,,,,,0,0,,,M,,M,,*52
+19:08:02 [ 302059] bhi pedo n=9 len=2 raw 18 00 
+19:08:02 [ 302059] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -23 -346 mg gyr=0 0 0 dps ang=-20949 15100 3814 mdeg steps=24 n=7437/74
+19:08:02 [ 302470] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:03 [ 302879] bhi pedo n=9 len=2 raw 18 00 
+19:08:03 [ 302880] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -16 -348 mg gyr=0 0 0 dps ang=-20956 15076 3799 mdeg steps=24 n=7457/74
+19:08:03 [ 302881] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:03 [ 302881] up=184s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:03 [ 303287] gnss n=2427 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:03 [ 303287] nmea $GNRMC,000443.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:08:03 [ 303288] nmea $GNGGA,000443.858,,,,,0,0,,,M,,M,,*50
+19:08:03 [ 303695] bhi pedo n=9 len=2 raw 18 00 
+19:08:03 [ 303695] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -22 -358 mg gyr=0 0 0 dps ang=-20973 15086 3787 mdeg steps=24 n=7478/74
+19:08:04 [ 304101] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:04 [ 304516] bhi pedo n=9 len=2 raw 18 00 
+19:08:04 [ 304517] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -18 -352 mg gyr=0 0 0 dps ang=-20985 15061 3758 mdeg steps=24 n=7498/74
+19:08:04 [ 304518] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:04 [ 304518] up=185s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:05 [ 304924] gnss n=2435 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:05 [ 304924] nmea $GNRMC,000444.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:08:05 [ 304925] nmea $GNGGA,000444.858,,,,,0,0,,,M,,M,,*57
+19:08:05 [ 305333] bhi pedo n=9 len=2 raw 18 00 
+19:08:05 [ 305333] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -17 -344 mg gyr=0 0 0 dps ang=-20978 15047 3741 mdeg steps=24 n=7518/75
+19:08:05 [ 305743] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:06 [ 306152] bhi pedo n=9 len=2 raw 18 00 
+19:08:06 [ 306152] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -21 -337 mg gyr=0 0 0 dps ang=-20978 15003 3726 mdeg steps=24 n=7538/75
+19:08:06 [ 306153] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:06 [ 306154] up=186s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:06 [ 306562] gnss n=2451 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:06 [ 306562] nmea $GNRMC,000446.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:08:06 [ 306563] nmea $GNGGA,000446.858,,,,,0,0,,,M,,M,,*55
+19:08:07 [ 306971] bhi pedo n=9 len=2 raw 18 00 
+19:08:07 [ 306971] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -25 -345 mg gyr=0 0 0 dps ang=-20985 14971 3699 mdeg steps=24 n=7559/75
+19:08:07 [ 307382] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:08 [ 307790] bhi pedo n=9 len=2 raw 18 00 
+19:08:08 [ 307791] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=945 -19 -351 mg gyr=0 0 0 dps ang=-20990 14954 3692 mdeg steps=24 n=7579/75
+19:08:08 [ 307792] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:08 [ 307792] up=187s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:08 [ 308203] gnss n=2467 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:08 [ 308203] nmea $GNRMC,000448.858,V,,,,,0.00,0.00,060180,,,N*51
+19:08:08 [ 308203] nmea $GNGGA,000448.858,,,,,0,0,,,M,,M,,*5B
+19:08:09 [ 308612] bhi pedo n=9 len=2 raw 18 00 
+19:08:09 [ 308612] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -18 -342 mg gyr=0 0 0 dps ang=-21002 14944 3665 mdeg steps=24 n=7600/76
+19:08:09 [ 309020] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:09 [ 309431] bhi pedo n=9 len=2 raw 18 00 
+19:08:09 [ 309432] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -21 -346 mg gyr=0 0 0 dps ang=-21010 14951 3650 mdeg steps=24 n=7620/76
+19:08:09 [ 309433] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:09 [ 309433] up=188s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:10 [ 309839] gnss n=2475 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:10 [ 309839] nmea $GNRMC,000449.858,V,,,,,0.00,0.00,060180,,,N*50
+19:08:10 [ 309840] nmea $GNGGA,000449.858,,,,,0,0,,,M,,M,,*5A
+19:08:10 [ 310247] bhi pedo n=9 len=2 raw 18 00 
+19:08:10 [ 310247] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -18 -349 mg gyr=0 0 0 dps ang=-21012 14929 3626 mdeg steps=24 n=7640/76
+19:08:10 [ 310653] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:11 [ 311061] bhi pedo n=9 len=2 raw 18 00 
+19:08:11 [ 311062] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=967 -15 -347 mg gyr=0 0 0 dps ang=-21024 14912 3609 mdeg steps=24 n=7661/76
+19:08:11 [ 311063] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:11 [ 311063] up=189s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:11 [ 311474] gnss n=2491 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:11 [ 311474] nmea $GNRMC,000451.858,V,,,,,0.00,0.00,060180,,,N*59
+19:08:11 [ 311474] nmea $GNGGA,000451.858,,,,,0,0,,,M,,M,,*53
+19:08:12 [ 311884] bhi pedo n=9 len=2 raw 18 00 
+19:08:12 [ 311884] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=965 -18 -351 mg gyr=0 0 0 dps ang=-21019 14878 3577 mdeg steps=24 n=7681/76
+19:08:12 [ 312295] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:12 [ 312705] bhi pedo n=9 len=2 raw 18 00 
+19:08:12 [ 312705] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -17 -347 mg gyr=0 0 0 dps ang=-21024 14863 3550 mdeg steps=24 n=7702/77
+19:08:12 [ 312706] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:12 [ 312706] up=190s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:13 [ 313115] gnss n=2499 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:13 [ 313116] nmea $GNRMC,000452.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:08:13 [ 313116] nmea $GNGGA,000452.858,,,,,0,0,,,M,,M,,*50
+19:08:13 [ 313525] bhi pedo n=9 len=2 raw 18 00 
+19:08:13 [ 313525] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -20 -343 mg gyr=0 0 0 dps ang=-21022 14841 3526 mdeg steps=24 n=7722/77
+19:08:14 [ 313931] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:14 [ 314343] bhi pedo n=9 len=2 raw 18 00 
+19:08:14 [ 314343] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -32 -342 mg gyr=0 0 0 dps ang=-21034 14819 3516 mdeg steps=24 n=7742/77
+19:08:14 [ 314345] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:14 [ 314345] up=191s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:15 [ 314754] gnss n=2515 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:15 [ 314754] nmea $GNRMC,000454.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:08:15 [ 314755] nmea $GNGGA,000454.858,,,,,0,0,,,M,,M,,*56
+19:08:15 [ 315164] bhi pedo n=9 len=2 raw 18 00 
+19:08:15 [ 315164] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -18 -345 mg gyr=0 0 0 dps ang=-21049 14827 3489 mdeg steps=24 n=7763/77
+19:08:15 [ 315575] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:16 [ 315982] bhi pedo n=9 len=2 raw 18 00 
+19:08:16 [ 315982] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -18 -348 mg gyr=0 0 0 dps ang=-21063 14829 3477 mdeg steps=24 n=7783/77
+19:08:16 [ 315984] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:16 [ 315984] up=192s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:16 [ 316392] gnss n=2531 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:16 [ 316392] nmea $GNRMC,000456.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:08:16 [ 316393] nmea $GNGGA,000456.858,,,,,0,0,,,M,,M,,*54
+19:08:17 [ 316800] bhi pedo n=9 len=2 raw 18 00 
+19:08:17 [ 316800] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -17 -340 mg gyr=0 0 0 dps ang=-21063 14815 3450 mdeg steps=24 n=7803/78
+19:08:17 [ 317211] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:18 [ 317623] bhi pedo n=9 len=2 raw 18 00 
+19:08:18 [ 317623] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -20 -347 mg gyr=0 0 0 dps ang=-21071 14805 3443 mdeg steps=24 n=7824/78
+19:08:18 [ 317625] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:18 [ 317625] up=193s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:18 [ 318031] gnss n=2539 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:18 [ 318031] nmea $GNRMC,000457.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:08:18 [ 318032] nmea $GNGGA,000457.858,,,,,0,0,,,M,,M,,*55
+19:08:18 [ 318440] bhi pedo n=9 len=2 raw 18 00 
+19:08:18 [ 318440] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -27 -339 mg gyr=0 0 0 dps ang=-21088 14824 3426 mdeg steps=24 n=7844/78
+19:08:19 [ 318846] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:19 [ 319260] bhi pedo n=9 len=2 raw 18 00 
+19:08:19 [ 319261] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -16 -341 mg gyr=0 0 0 dps ang=-21102 14793 3394 mdeg steps=24 n=7864/78
+19:08:19 [ 319262] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:19 [ 319262] up=194s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:19 [ 319670] gnss n=2555 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:19 [ 319670] nmea $GNRMC,000459.858,V,,,,,0.00,0.00,060180,,,N*51
+19:08:19 [ 319670] nmea $GNGGA,000459.858,,,,,0,0,,,M,,M,,*5B
+19:08:20 [ 320077] bhi pedo n=9 len=2 raw 18 00 
+19:08:20 [ 320077] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -14 -348 mg gyr=0 0 0 dps ang=-21107 14761 3367 mdeg steps=24 n=7884/78
+19:08:20 [ 320485] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:21 [ 320893] bhi pedo n=9 len=2 raw 18 00 
+19:08:21 [ 320894] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -14 -346 mg gyr=0 0 0 dps ang=-21129 14717 3358 mdeg steps=24 n=7905/79
+19:08:21 [ 320895] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:21 [ 320895] up=195s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:21 [ 321306] gnss n=2571 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:21 [ 321306] nmea $GNRMC,000501.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:08:21 [ 321307] nmea $GNGGA,000501.858,,,,,0,0,,,M,,M,,*57
+19:08:21 [ 321713] bhi pedo n=9 len=2 raw 18 00 
+19:08:21 [ 321713] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -25 -338 mg gyr=0 0 0 dps ang=-21154 14736 3338 mdeg steps=24 n=7925/79
+19:08:22 [ 322124] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:22 [ 322537] bhi pedo n=9 len=2 raw 18 00 
+19:08:22 [ 322537] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -13 -342 mg gyr=0 0 0 dps ang=-21161 14678 3314 mdeg steps=24 n=7946/79
+19:08:22 [ 322538] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:22 [ 322538] up=196s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:23 [ 322947] gnss n=2579 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:23 [ 322947] nmea $GNRMC,000502.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:08:23 [ 322947] nmea $GNGGA,000502.858,,,,,0,0,,,M,,M,,*54
+19:08:23 [ 323355] bhi pedo n=9 len=2 raw 18 00 
+19:08:23 [ 323355] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -15 -343 mg gyr=0 0 0 dps ang=-21163 14641 3299 mdeg steps=24 n=7965/79
+19:08:24 [ 323761] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:24 [ 324172] bhi pedo n=9 len=2 raw 18 00 
+19:08:24 [ 324172] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -16 -340 mg gyr=0 0 0 dps ang=-21181 14632 3284 mdeg steps=24 n=7986/79
+19:08:24 [ 324173] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:24 [ 324174] up=197s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:24 [ 324581] gnss n=2595 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:24 [ 324581] nmea $GNRMC,000504.858,V,,,,,0.00,0.00,060180,,,N*58
+19:08:24 [ 324582] nmea $GNGGA,000504.858,,,,,0,0,,,M,,M,,*52
+19:08:25 [ 324988] bhi pedo n=9 len=2 raw 18 00 
+19:08:25 [ 324988] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -24 -347 mg gyr=0 0 0 dps ang=-21178 14600 3262 mdeg steps=24 n=8007/80
+19:08:25 [ 325398] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:26 [ 325806] bhi pedo n=9 len=2 raw 18 00 
+19:08:26 [ 325807] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -23 -335 mg gyr=0 0 0 dps ang=-21190 14583 3235 mdeg steps=24 n=8027/80
+19:08:26 [ 325808] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:26 [ 325808] up=198s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:26 [ 326215] gnss n=2611 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:26 [ 326216] nmea $GNRMC,000506.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:08:26 [ 326216] nmea $GNGGA,000506.858,,,,,0,0,,,M,,M,,*50
+19:08:26 [ 326625] bhi pedo n=9 len=2 raw 18 00 
+19:08:26 [ 326625] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -19 -348 mg gyr=0 0 0 dps ang=-21193 14568 3206 mdeg steps=24 n=8047/80
+19:08:27 [ 327032] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:27 [ 327441] bhi pedo n=9 len=2 raw 18 00 
+19:08:27 [ 327442] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -23 -355 mg gyr=0 0 0 dps ang=-21190 14536 3187 mdeg steps=24 n=8068/80
+19:08:27 [ 327443] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:27 [ 327443] up=199s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:28 [ 327849] gnss n=2619 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:28 [ 327849] nmea $GNRMC,000507.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:08:28 [ 327850] nmea $GNGGA,000507.858,,,,,0,0,,,M,,M,,*51
+19:08:28 [ 328259] bhi pedo n=9 len=2 raw 18 00 
+19:08:28 [ 328259] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -16 -341 mg gyr=0 0 0 dps ang=-21193 14514 3174 mdeg steps=24 n=8088/80
+19:08:28 [ 328665] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:29 [ 329073] bhi pedo n=9 len=2 raw 18 00 
+19:08:29 [ 329074] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -23 -349 mg gyr=0 0 0 dps ang=-21215 14473 3160 mdeg steps=24 n=8107/81
+19:08:29 [ 329075] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:29 [ 329075] up=200s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:29 [ 329488] gnss n=2635 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:29 [ 329488] nmea $GNRMC,000509.858,V,,,,,0.00,0.00,060180,,,N*55
+19:08:29 [ 329488] nmea $GNGGA,000509.858,,,,,0,0,,,M,,M,,*5F
+19:08:30 [ 329896] bhi pedo n=9 len=2 raw 18 00 
+19:08:30 [ 329896] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -26 -350 mg gyr=0 0 0 dps ang=-21220 14451 3143 mdeg steps=24 n=8129/81
+19:08:30 [ 330306] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:30 [ 330713] bhi pedo n=9 len=2 raw 18 00 
+19:08:30 [ 330713] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -11 -351 mg gyr=0 0 0 dps ang=-21190 14383 3121 mdeg steps=24 n=8148/81
+19:08:30 [ 330715] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:30 [ 330715] up=201s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:31 [ 331124] gnss n=2643 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:31 [ 331125] nmea $GNRMC,000510.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:08:31 [ 331125] nmea $GNGGA,000510.858,,,,,0,0,,,M,,M,,*57
+19:08:31 [ 331537] bhi pedo n=9 len=2 raw 18 00 
+19:08:31 [ 331537] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -20 -353 mg gyr=0 0 0 dps ang=-21200 14334 3069 mdeg steps=24 n=8170/81
+19:08:32 [ 331944] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:32 [ 332354] bhi pedo n=9 len=2 raw 18 00 
+19:08:32 [ 332354] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -14 -355 mg gyr=0 0 0 dps ang=-21256 14402 3099 mdeg steps=24 n=8190/81
+19:08:32 [ 332356] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:32 [ 332356] up=202s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:33 [ 332766] gnss n=2659 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:33 [ 332766] nmea $GNRMC,000512.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:08:33 [ 332766] nmea $GNGGA,000512.858,,,,,0,0,,,M,,M,,*55
+19:08:33 [ 333177] bhi pedo n=9 len=2 raw 18 00 
+19:08:33 [ 333178] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -20 -344 mg gyr=0 0 0 dps ang=-21264 14387 3077 mdeg steps=24 n=8210/82
+19:08:33 [ 333585] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:34 [ 333994] bhi pedo n=9 len=2 raw 18 00 
+19:08:34 [ 333994] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -17 -336 mg gyr=0 0 0 dps ang=-21286 14365 3045 mdeg steps=24 n=8231/82
+19:08:34 [ 333996] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:34 [ 333996] up=203s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:34 [ 334406] gnss n=2675 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:34 [ 334406] nmea $GNRMC,000514.858,V,,,,,0.00,0.00,060180,,,N*59
+19:08:34 [ 334407] nmea $GNGGA,000514.858,,,,,0,0,,,M,,M,,*53
+19:08:35 [ 334816] bhi pedo n=9 len=2 raw 18 00 
+19:08:35 [ 334816] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -23 -350 mg gyr=0 0 0 dps ang=-21286 14307 3018 mdeg steps=24 n=8251/82
+19:08:35 [ 335227] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:35 [ 335636] bhi pedo n=9 len=2 raw 18 00 
+19:08:35 [ 335637] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -19 -350 mg gyr=0 0 0 dps ang=-21300 14290 3004 mdeg steps=24 n=8272/82
+19:08:35 [ 335638] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:35 [ 335638] up=204s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:36 [ 336044] gnss n=2683 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:36 [ 336044] nmea $GNRMC,000515.858,V,,,,,0.00,0.00,060180,,,N*58
+19:08:36 [ 336045] nmea $GNGGA,000515.858,,,,,0,0,,,M,,M,,*52
+19:08:36 [ 336454] bhi pedo n=9 len=2 raw 18 00 
+19:08:36 [ 336454] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -26 -341 mg gyr=0 0 0 dps ang=-21300 14290 2982 mdeg steps=24 n=8292/82
+19:08:36 [ 336865] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:37 [ 337276] bhi pedo n=9 len=2 raw 18 00 
+19:08:37 [ 337277] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -16 -339 mg gyr=0 0 0 dps ang=-21310 14282 2957 mdeg steps=24 n=8312/83
+19:08:37 [ 337278] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:37 [ 337278] up=205s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:37 [ 337685] gnss n=2699 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:37 [ 337685] nmea $GNRMC,000517.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:08:37 [ 337685] nmea $GNGGA,000517.858,,,,,0,0,,,M,,M,,*50
+19:08:38 [ 338093] bhi pedo n=9 len=2 raw 18 00 
+19:08:38 [ 338093] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -23 -338 mg gyr=0 0 0 dps ang=-21315 14236 2938 mdeg steps=24 n=8333/83
+19:08:38 [ 338502] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:39 [ 338910] bhi pedo n=9 len=2 raw 18 00 
+19:08:39 [ 338910] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -20 -351 mg gyr=0 0 0 dps ang=-21334 14187 2916 mdeg steps=24 n=8353/83
+19:08:39 [ 338911] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:39 [ 338911] up=206s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:39 [ 339322] gnss n=2715 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:39 [ 339322] nmea $GNRMC,000519.858,V,,,,,0.00,0.00,060180,,,N*54
+19:08:39 [ 339323] nmea $GNGGA,000519.858,,,,,0,0,,,M,,M,,*5E
+19:08:39 [ 339732] bhi pedo n=9 len=2 raw 18 00 
+19:08:39 [ 339732] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -26 -356 mg gyr=0 0 0 dps ang=-21349 14168 2896 mdeg steps=24 n=8373/83
+19:08:40 [ 340141] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:40 [ 340550] bhi pedo n=9 len=2 raw 18 00 
+19:08:40 [ 340551] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -16 -350 mg gyr=0 0 0 dps ang=-21351 14158 2891 mdeg steps=24 n=8394/83
+19:08:40 [ 340552] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:40 [ 340552] up=207s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:41 [ 340960] gnss n=2723 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:41 [ 340960] nmea $GNRMC,000520.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:08:41 [ 340961] nmea $GNGGA,000520.858,,,,,0,0,,,M,,M,,*54
+19:08:41 [ 341369] bhi pedo n=9 len=2 raw 18 00 
+19:08:41 [ 341369] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -20 -340 mg gyr=0 0 0 dps ang=-21347 14151 2862 mdeg steps=24 n=8414/84
+19:08:42 [ 341778] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:42 [ 342191] bhi pedo n=9 len=2 raw 18 00 
+19:08:42 [ 342191] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -16 -343 mg gyr=0 0 0 dps ang=-21342 14121 2833 mdeg steps=24 n=8434/84
+19:08:42 [ 342192] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:42 [ 342193] up=208s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:42 [ 342600] gnss n=2739 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:42 [ 342600] nmea $GNRMC,000522.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:08:42 [ 342600] nmea $GNGGA,000522.858,,,,,0,0,,,M,,M,,*56
+19:08:43 [ 343007] bhi pedo n=9 len=2 raw 18 00 
+19:08:43 [ 343007] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -21 -336 mg gyr=0 0 0 dps ang=-21354 14104 2808 mdeg steps=24 n=8454/84
+19:08:43 [ 343416] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:44 [ 343823] bhi pedo n=9 len=2 raw 18 00 
+19:08:44 [ 343824] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -28 -351 mg gyr=0 0 0 dps ang=-21364 14072 2794 mdeg steps=24 n=8475/84
+19:08:44 [ 343825] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:44 [ 343825] up=209s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:44 [ 344237] gnss n=2755 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:44 [ 344237] nmea $GNRMC,000524.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:08:44 [ 344238] nmea $GNGGA,000524.858,,,,,0,0,,,M,,M,,*50
+19:08:44 [ 344644] bhi pedo n=9 len=2 raw 18 00 
+19:08:44 [ 344644] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=950 -23 -341 mg gyr=0 0 0 dps ang=-21376 14055 2781 mdeg steps=24 n=8496/84
+19:08:45 [ 345050] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:45 [ 345463] bhi pedo n=9 len=2 raw 18 00 
+19:08:45 [ 345464] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -21 -350 mg gyr=0 0 0 dps ang=-21383 14029 2764 mdeg steps=24 n=8516/85
+19:08:45 [ 345465] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:45 [ 345465] up=210s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:46 [ 345871] gnss n=2763 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:46 [ 345871] nmea $GNRMC,000525.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:08:46 [ 345871] nmea $GNGGA,000525.858,,,,,0,0,,,M,,M,,*51
+19:08:46 [ 346281] bhi pedo n=9 len=2 raw 18 00 
+19:08:46 [ 346281] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -11 -358 mg gyr=0 0 0 dps ang=-21386 14004 2745 mdeg steps=24 n=8536/85
+19:08:46 [ 346687] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:47 [ 347094] bhi pedo n=9 len=2 raw 18 00 
+19:08:47 [ 347094] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -22 -347 mg gyr=0 0 0 dps ang=-21388 14011 2725 mdeg steps=24 n=8556/85
+19:08:47 [ 347096] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:47 [ 347096] up=211s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:47 [ 347504] gnss n=2779 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:47 [ 347504] nmea $GNRMC,000527.858,V,,,,,0.00,0.00,060180,,,N*59
+19:08:47 [ 347505] nmea $GNGGA,000527.858,,,,,0,0,,,M,,M,,*53
+19:08:48 [ 347911] bhi pedo n=9 len=2 raw 18 00 
+19:08:48 [ 347911] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -21 -355 mg gyr=0 0 0 dps ang=-21386 13992 2711 mdeg steps=24 n=8577/85
+19:08:48 [ 348321] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:49 [ 348729] bhi pedo n=9 len=2 raw 18 00 
+19:08:49 [ 348729] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -28 -346 mg gyr=0 0 0 dps ang=-21391 13965 2694 mdeg steps=24 n=8597/85
+19:08:49 [ 348731] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:49 [ 348731] up=212s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:49 [ 349137] gnss n=2787 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:49 [ 349137] nmea $GNRMC,000528.858,V,,,,,0.00,0.00,060180,,,N*56
+19:08:49 [ 349138] nmea $GNGGA,000528.858,,,,,0,0,,,M,,M,,*5C
+19:08:49 [ 349547] bhi pedo n=9 len=2 raw 18 00 
+19:08:49 [ 349547] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -31 -350 mg gyr=0 0 0 dps ang=-21393 13970 2676 mdeg steps=24 n=8617/86
+19:08:50 [ 349957] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:50 [ 350369] bhi pedo n=9 len=2 raw 18 00 
+19:08:50 [ 350369] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 -24 -347 mg gyr=0 0 0 dps ang=-21391 13950 2654 mdeg steps=24 n=8638/86
+19:08:50 [ 350371] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:50 [ 350371] up=213s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:51 [ 350777] gnss n=2803 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:51 [ 350777] nmea $GNRMC,000530.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:08:51 [ 350778] nmea $GNGGA,000530.858,,,,,0,0,,,M,,M,,*55
+19:08:51 [ 351186] bhi pedo n=9 len=2 raw 18 00 
+19:08:51 [ 351186] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -15 -341 mg gyr=0 0 0 dps ang=-21398 13928 2630 mdeg steps=24 n=8657/86
+19:08:51 [ 351593] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:52 [ 352002] bhi pedo n=9 len=2 raw 18 00 
+19:08:52 [ 352003] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -18 -352 mg gyr=0 0 0 dps ang=-21412 13909 2611 mdeg steps=24 n=8678/86
+19:08:52 [ 352004] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:52 [ 352004] up=214s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:52 [ 352416] gnss n=2819 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:52 [ 352416] nmea $GNRMC,000532.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:08:52 [ 352417] nmea $GNGGA,000532.858,,,,,0,0,,,M,,M,,*57
+19:08:53 [ 352826] bhi pedo n=9 len=2 raw 18 00 
+19:08:53 [ 352826] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -25 -342 mg gyr=0 0 0 dps ang=-21417 13880 2598 mdeg steps=24 n=8699/86
+19:08:53 [ 353236] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:53 [ 353645] bhi pedo n=9 len=2 raw 18 00 
+19:08:53 [ 353646] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -18 -348 mg gyr=0 0 0 dps ang=-21420 13880 2574 mdeg steps=24 n=8719/87
+19:08:53 [ 353647] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:53 [ 353647] up=215s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:54 [ 354053] gnss n=2827 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:54 [ 354053] nmea $GNRMC,000533.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:08:54 [ 354053] nmea $GNGGA,000533.858,,,,,0,0,,,M,,M,,*56
+19:08:54 [ 354464] bhi pedo n=9 len=2 raw 18 00 
+19:08:54 [ 354464] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -11 -336 mg gyr=0 0 0 dps ang=-21425 13858 2564 mdeg steps=24 n=8740/87
+19:08:55 [ 354870] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:55 [ 355279] bhi pedo n=9 len=2 raw 18 00 
+19:08:55 [ 355279] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -23 -351 mg gyr=0 0 0 dps ang=-21432 13841 2545 mdeg steps=24 n=8759/87
+19:08:55 [ 355280] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:55 [ 355280] up=216s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:55 [ 355687] gnss n=2843 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:55 [ 355687] nmea $GNRMC,000535.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:08:55 [ 355687] nmea $GNGGA,000535.858,,,,,0,0,,,M,,M,,*50
+19:08:56 [ 356093] bhi pedo n=9 len=2 raw 18 00 
+19:08:56 [ 356093] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -21 -348 mg gyr=0 0 0 dps ang=-21434 13826 2525 mdeg steps=24 n=8780/87
+19:08:56 [ 356502] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:57 [ 356912] bhi pedo n=9 len=2 raw 18 00 
+19:08:57 [ 356913] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -16 -344 mg gyr=0 0 0 dps ang=-21432 13823 2506 mdeg steps=24 n=8800/87
+19:08:57 [ 356914] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:57 [ 356914] up=217s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:57 [ 357326] gnss n=2859 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:57 [ 357326] nmea $GNRMC,000537.858,V,,,,,0.00,0.00,060180,,,N*58
+19:08:57 [ 357327] nmea $GNGGA,000537.858,,,,,0,0,,,M,,M,,*52
+19:08:58 [ 357734] bhi pedo n=9 len=2 raw 18 00 
+19:08:58 [ 357734] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -21 -340 mg gyr=0 0 0 dps ang=-21447 13843 2503 mdeg steps=24 n=8821/88
+19:08:58 [ 358145] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:08:58 [ 358556] bhi pedo n=9 len=2 raw 18 00 
+19:08:58 [ 358557] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -13 -350 mg gyr=0 0 0 dps ang=-21471 13843 2484 mdeg steps=24 n=8841/88
+19:08:58 [ 358558] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:08:58 [ 358558] up=218s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:08:59 [ 358965] gnss n=2867 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:08:59 [ 358965] nmea $GNRMC,000538.858,V,,,,,0.00,0.00,060180,,,N*57
+19:08:59 [ 358965] nmea $GNGGA,000538.858,,,,,0,0,,,M,,M,,*5D
+19:08:59 [ 359374] bhi pedo n=9 len=2 raw 18 00 
+19:08:59 [ 359374] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -13 -337 mg gyr=0 0 0 dps ang=-21464 13819 2479 mdeg steps=24 n=8862/88
+19:09:00 [ 359780] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:00 [ 360188] bhi pedo n=9 len=2 raw 18 00 
+19:09:00 [ 360188] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -22 -341 mg gyr=0 0 0 dps ang=-21464 13777 2454 mdeg steps=24 n=8882/88
+19:09:00 [ 360190] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:00 [ 360190] up=219s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:00 [ 360598] gnss n=2883 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:00 [ 360598] nmea $GNRMC,000540.858,V,,,,,0.00,0.00,060180,,,N*58
+19:09:00 [ 360599] nmea $GNGGA,000540.858,,,,,0,0,,,M,,M,,*52
+19:09:01 [ 361008] bhi pedo n=9 len=2 raw 18 00 
+19:09:01 [ 361008] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -19 -344 mg gyr=0 0 0 dps ang=-21473 13762 2437 mdeg steps=24 n=8902/89
+19:09:01 [ 361418] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:01 [ 361828] bhi pedo n=9 len=2 raw 18 00 
+19:09:01 [ 361829] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -19 -345 mg gyr=0 0 0 dps ang=-21476 13753 2430 mdeg steps=24 n=8923/89
+19:09:02 [ 361830] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:02 [ 361830] up=220s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:02 [ 362241] gnss n=2899 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:02 [ 362241] nmea $GNRMC,000542.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:09:02 [ 362242] nmea $GNGGA,000542.858,,,,,0,0,,,M,,M,,*50
+19:09:02 [ 362648] bhi pedo n=9 len=2 raw 18 00 
+19:09:02 [ 362648] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=946 -11 -356 mg gyr=0 0 0 dps ang=-21473 13755 2418 mdeg steps=24 n=8943/89
+19:09:03 [ 363058] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:03 [ 363467] bhi pedo n=9 len=2 raw 18 00 
+19:09:03 [ 363467] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -18 -360 mg gyr=0 0 0 dps ang=-21464 13701 2401 mdeg steps=24 n=8963/89
+19:09:03 [ 363469] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:03 [ 363469] up=221s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:04 [ 363874] gnss n=2907 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:04 [ 363874] nmea $GNRMC,000543.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:09:04 [ 363874] nmea $GNGGA,000543.858,,,,,0,0,,,M,,M,,*51
+19:09:04 [ 364285] bhi pedo n=9 len=2 raw 18 00 
+19:09:04 [ 364285] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -15 -344 mg gyr=0 0 0 dps ang=-21464 13667 2379 mdeg steps=24 n=8984/89
+19:09:04 [ 364694] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:05 [ 365103] bhi pedo n=9 len=2 raw 18 00 
+19:09:05 [ 365103] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -16 -350 mg gyr=0 0 0 dps ang=-21464 13645 2359 mdeg steps=24 n=9004/90
+19:09:05 [ 365104] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:05 [ 365104] up=222s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:05 [ 365513] gnss n=2923 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:05 [ 365513] nmea $GNRMC,000545.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:09:05 [ 365514] nmea $GNGGA,000545.858,,,,,0,0,,,M,,M,,*57
+19:09:06 [ 365921] bhi pedo n=9 len=2 raw 18 00 
+19:09:06 [ 365921] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -17 -336 mg gyr=0 0 0 dps ang=-21483 13606 2347 mdeg steps=24 n=9024/90
+19:09:06 [ 366332] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:07 [ 366741] bhi pedo n=9 len=2 raw 18 00 
+19:09:07 [ 366741] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -19 -345 mg gyr=0 0 0 dps ang=-21493 13596 2325 mdeg steps=24 n=9044/90
+19:09:07 [ 366743] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:07 [ 366743] up=223s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:07 [ 367152] gnss n=2931 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:07 [ 367153] nmea $GNRMC,000546.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:09:07 [ 367153] nmea $GNGGA,000546.858,,,,,0,0,,,M,,M,,*54
+19:09:07 [ 367562] bhi pedo n=9 len=2 raw 18 00 
+19:09:07 [ 367562] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -31 -350 mg gyr=0 0 0 dps ang=-21488 13557 2303 mdeg steps=24 n=9065/90
+19:09:08 [ 367972] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:08 [ 368383] bhi pedo n=9 len=2 raw 18 00 
+19:09:08 [ 368384] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -12 -353 mg gyr=0 0 0 dps ang=-21483 13528 2269 mdeg steps=24 n=9085/90
+19:09:08 [ 368385] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:08 [ 368385] up=224s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:09 [ 368791] gnss n=2947 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:09 [ 368791] nmea $GNRMC,000548.858,V,,,,,0.00,0.00,060180,,,N*50
+19:09:09 [ 368792] nmea $GNGGA,000548.858,,,,,0,0,,,M,,M,,*5A
+19:09:09 [ 369199] bhi pedo n=9 len=2 raw 18 00 
+19:09:09 [ 369200] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -16 -354 mg gyr=0 0 0 dps ang=-21481 13496 2252 mdeg steps=24 n=9106/91
+19:09:09 [ 369607] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:10 [ 370014] bhi pedo n=9 len=2 raw 18 00 
+19:09:10 [ 370015] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -16 -336 mg gyr=0 0 0 dps ang=-21471 13452 2222 mdeg steps=24 n=9126/91
+19:09:10 [ 370016] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:10 [ 370016] up=225s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:10 [ 370428] gnss n=2963 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:10 [ 370428] nmea $GNRMC,000550.858,V,,,,,0.00,0.00,060180,,,N*59
+19:09:10 [ 370429] nmea $GNGGA,000550.858,,,,,0,0,,,M,,M,,*53
+19:09:10 [ 370836] bhi pedo n=9 len=2 raw 18 00 
+19:09:10 [ 370836] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -14 -354 mg gyr=0 0 0 dps ang=-21473 13433 2218 mdeg steps=24 n=9147/91
+19:09:11 [ 371250] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:11 [ 371658] bhi pedo n=9 len=2 raw 18 00 
+19:09:11 [ 371658] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -17 -342 mg gyr=0 0 0 dps ang=-21471 13418 2198 mdeg steps=24 n=9167/91
+19:09:11 [ 371659] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:11 [ 371660] up=226s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:12 [ 372065] gnss n=2971 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:12 [ 372065] nmea $GNRMC,000551.858,V,,,,,0.00,0.00,060180,,,N*58
+19:09:12 [ 372065] nmea $GNGGA,000551.858,,,,,0,0,,,M,,M,,*52
+19:09:12 [ 372476] bhi pedo n=9 len=2 raw 18 00 
+19:09:12 [ 372476] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -28 -344 mg gyr=0 0 0 dps ang=-21483 13423 2178 mdeg steps=24 n=9187/91
+19:09:13 [ 372885] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:13 [ 373294] bhi pedo n=9 len=2 raw 18 00 
+19:09:13 [ 373295] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -22 -345 mg gyr=0 0 0 dps ang=-21515 13394 2137 mdeg steps=24 n=9208/92
+19:09:13 [ 373296] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:13 [ 373296] up=227s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:13 [ 373702] gnss n=2987 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:13 [ 373702] nmea $GNRMC,000553.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:09:13 [ 373703] nmea $GNGGA,000553.858,,,,,0,0,,,M,,M,,*50
+19:09:14 [ 374108] bhi pedo n=9 len=2 raw 18 00 
+19:09:14 [ 374109] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=949 -19 -335 mg gyr=0 0 0 dps ang=-21532 13382 2122 mdeg steps=24 n=9228/92
+19:09:14 [ 374517] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:15 [ 374925] bhi pedo n=9 len=2 raw 18 00 
+19:09:15 [ 374926] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -26 -342 mg gyr=0 0 0 dps ang=-21544 13350 2088 mdeg steps=24 n=9248/92
+19:09:15 [ 374927] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:15 [ 374927] up=228s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:15 [ 375336] gnss n=3003 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:15 [ 375336] nmea $GNRMC,000555.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:09:15 [ 375337] nmea $GNGGA,000555.858,,,,,0,0,,,M,,M,,*56
+19:09:16 [ 375742] bhi pedo n=9 len=2 raw 18 00 
+19:09:16 [ 375742] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=965 -12 -347 mg gyr=0 0 0 dps ang=-21561 13330 2074 mdeg steps=24 n=9268/92
+19:09:16 [ 376155] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:16 [ 376562] bhi pedo n=9 len=2 raw 18 00 
+19:09:16 [ 376563] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -18 -345 mg gyr=0 0 0 dps ang=-21569 13360 2047 mdeg steps=24 n=9289/92
+19:09:16 [ 376564] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:16 [ 376564] up=229s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:17 [ 376973] gnss n=3011 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:17 [ 376973] nmea $GNRMC,000556.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:09:17 [ 376973] nmea $GNGGA,000556.858,,,,,0,0,,,M,,M,,*55
+19:09:17 [ 377383] bhi pedo n=9 len=2 raw 18 00 
+19:09:17 [ 377383] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=947 -20 -344 mg gyr=0 0 0 dps ang=-21578 13330 2037 mdeg steps=24 n=9309/93
+19:09:18 [ 377793] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:18 [ 378205] bhi pedo n=9 len=2 raw 18 00 
+19:09:18 [ 378205] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -17 -343 mg gyr=0 0 0 dps ang=-21571 13311 2020 mdeg steps=24 n=9330/93
+19:09:18 [ 378206] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:18 [ 378207] up=230s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:18 [ 378612] gnss n=3027 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:18 [ 378612] nmea $GNRMC,000558.858,V,,,,,0.00,0.00,060180,,,N*51
+19:09:18 [ 378612] nmea $GNGGA,000558.858,,,,,0,0,,,M,,M,,*5B
+19:09:19 [ 379019] bhi pedo n=9 len=2 raw 18 00 
+19:09:19 [ 379019] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -21 -344 mg gyr=0 0 0 dps ang=-21578 13299 2012 mdeg steps=24 n=9350/93
+19:09:19 [ 379427] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:19 [ 379837] bhi pedo n=9 len=2 raw 18 00 
+19:09:19 [ 379837] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -19 -349 mg gyr=0 0 0 dps ang=-21576 13289 2003 mdeg steps=24 n=9370/93
+19:09:19 [ 379839] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:19 [ 379839] up=231s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:20 [ 380248] gnss n=3043 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:20 [ 380248] nmea $GNRMC,000600.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:09:20 [ 380249] nmea $GNGGA,000600.858,,,,,0,0,,,M,,M,,*55
+19:09:20 [ 380658] bhi pedo n=9 len=2 raw 18 00 
+19:09:20 [ 380658] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=948 -22 -358 mg gyr=0 0 0 dps ang=-21586 13264 1988 mdeg steps=24 n=9391/93
+19:09:21 [ 381066] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:21 [ 381476] bhi pedo n=9 len=2 raw 18 00 
+19:09:21 [ 381476] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=944 -23 -349 mg gyr=0 0 0 dps ang=-21598 13213 1959 mdeg steps=24 n=9411/94
+19:09:21 [ 381478] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:21 [ 381478] up=232s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:22 [ 381884] gnss n=3051 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:22 [ 381884] nmea $GNRMC,000601.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:09:22 [ 381884] nmea $GNGGA,000601.858,,,,,0,0,,,M,,M,,*54
+19:09:22 [ 382293] bhi pedo n=9 len=2 raw 18 00 
+19:09:22 [ 382293] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=960 -14 -349 mg gyr=0 0 0 dps ang=-21603 13174 1929 mdeg steps=24 n=9431/94
+19:09:22 [ 382700] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:23 [ 383110] bhi pedo n=9 len=2 raw 18 00 
+19:09:23 [ 383110] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -13 -342 mg gyr=0 0 0 dps ang=-21610 13135 1910 mdeg steps=24 n=9452/94
+19:09:23 [ 383111] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:23 [ 383111] up=233s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:23 [ 383520] gnss n=3067 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:23 [ 383520] nmea $GNRMC,000603.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:09:23 [ 383521] nmea $GNGGA,000603.858,,,,,0,0,,,M,,M,,*56
+19:09:24 [ 383927] bhi pedo n=9 len=2 raw 18 00 
+19:09:24 [ 383927] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=957 -15 -349 mg gyr=0 0 0 dps ang=-21635 13130 1895 mdeg steps=24 n=9472/94
+19:09:24 [ 384336] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:25 [ 384743] bhi pedo n=9 len=2 raw 18 00 
+19:09:25 [ 384744] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -18 -348 mg gyr=0 0 0 dps ang=-21630 13113 1881 mdeg steps=24 n=9492/94
+19:09:25 [ 384745] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:25 [ 384745] up=234s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:25 [ 385155] gnss n=3075 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:25 [ 385155] nmea $GNRMC,000604.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:09:25 [ 385156] nmea $GNGGA,000604.858,,,,,0,0,,,M,,M,,*51
+19:09:25 [ 385562] bhi pedo n=9 len=2 raw 18 00 
+19:09:25 [ 385562] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -15 -353 mg gyr=0 0 0 dps ang=-21632 13103 1861 mdeg steps=24 n=9512/95
+19:09:26 [ 385969] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:26 [ 386379] bhi pedo n=9 len=2 raw 18 00 
+19:09:26 [ 386380] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -21 -353 mg gyr=0 0 0 dps ang=-21639 13084 1851 mdeg steps=24 n=9533/95
+19:09:26 [ 386381] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:26 [ 386381] up=235s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:26 [ 386788] gnss n=3091 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:26 [ 386788] nmea $GNRMC,000606.858,V,,,,,0.00,0.00,060180,,,N*59
+19:09:26 [ 386788] nmea $GNGGA,000606.858,,,,,0,0,,,M,,M,,*53
+19:09:27 [ 387196] bhi pedo n=9 len=2 raw 18 00 
+19:09:27 [ 387196] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=955 -13 -338 mg gyr=0 0 0 dps ang=-21649 13062 1820 mdeg steps=24 n=9553/95
+19:09:27 [ 387606] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:28 [ 388013] bhi pedo n=9 len=2 raw 18 00 
+19:09:28 [ 388013] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -17 -335 mg gyr=0 0 0 dps ang=-21637 13064 1817 mdeg steps=24 n=9573/95
+19:09:28 [ 388014] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:28 [ 388014] up=236s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:28 [ 388427] gnss n=3107 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:28 [ 388427] nmea $GNRMC,000608.858,V,,,,,0.00,0.00,060180,,,N*57
+19:09:28 [ 388428] nmea $GNGGA,000608.858,,,,,0,0,,,M,,M,,*5D
+19:09:29 [ 388836] bhi pedo n=9 len=2 raw 18 00 
+19:09:29 [ 388836] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -28 -350 mg gyr=0 0 0 dps ang=-21627 13050 1805 mdeg steps=24 n=9594/95
+19:09:29 [ 389250] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:29 [ 389658] bhi pedo n=9 len=2 raw 18 00 
+19:09:29 [ 389659] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -16 -342 mg gyr=0 0 0 dps ang=-21627 12986 1781 mdeg steps=24 n=9613/96
+19:09:29 [ 389660] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:29 [ 389660] up=237s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:30 [ 390066] gnss n=3115 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:30 [ 390066] nmea $GNRMC,000609.858,V,,,,,0.00,0.00,060180,,,N*56
+19:09:30 [ 390066] nmea $GNGGA,000609.858,,,,,0,0,,,M,,M,,*5C
+19:09:30 [ 390478] bhi pedo n=9 len=2 raw 18 00 
+19:09:30 [ 390478] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -24 -343 mg gyr=0 0 0 dps ang=-21627 12932 1759 mdeg steps=24 n=9635/96
+19:09:31 [ 390888] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:31 [ 391299] bhi pedo n=9 len=2 raw 18 00 
+19:09:31 [ 391300] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -18 -345 mg gyr=0 0 0 dps ang=-21627 12908 1724 mdeg steps=24 n=9654/96
+19:09:31 [ 391301] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:31 [ 391301] up=238s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:32 [ 391707] gnss n=3131 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:32 [ 391707] nmea $GNRMC,000611.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:09:32 [ 391708] nmea $GNGGA,000611.858,,,,,0,0,,,M,,M,,*55
+19:09:32 [ 392115] bhi pedo n=9 len=2 raw 18 00 
+19:09:32 [ 392116] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -15 -354 mg gyr=0 0 0 dps ang=-21635 12915 1698 mdeg steps=24 n=9675/96
+19:09:32 [ 392524] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:33 [ 392930] bhi pedo n=9 len=2 raw 18 00 
+19:09:33 [ 392931] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -17 -351 mg gyr=0 0 0 dps ang=-21642 12898 1668 mdeg steps=24 n=9696/96
+19:09:33 [ 392932] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:33 [ 392932] up=239s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:33 [ 393341] gnss n=3147 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:33 [ 393341] nmea $GNRMC,000613.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:09:33 [ 393342] nmea $GNGGA,000613.858,,,,,0,0,,,M,,M,,*57
+19:09:34 [ 393751] bhi pedo n=9 len=2 raw 18 00 
+19:09:34 [ 393751] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=962 -11 -356 mg gyr=0 0 0 dps ang=-21627 12842 1639 mdeg steps=24 n=9716/97
+19:09:34 [ 394165] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:34 [ 394574] bhi pedo n=9 len=2 raw 18 00 
+19:09:34 [ 394575] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -21 -343 mg gyr=0 0 0 dps ang=-21639 12830 1617 mdeg steps=24 n=9737/97
+19:09:34 [ 394576] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:34 [ 394576] up=240s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:35 [ 394982] gnss n=3155 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:35 [ 394982] nmea $GNRMC,000614.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:09:35 [ 394983] nmea $GNGGA,000614.858,,,,,0,0,,,M,,M,,*50
+19:09:35 [ 395391] bhi pedo n=9 len=2 raw 18 00 
+19:09:35 [ 395391] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -27 -340 mg gyr=0 0 0 dps ang=-21635 12805 1588 mdeg steps=24 n=9757/97
+19:09:35 [ 395797] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:36 [ 396206] bhi pedo n=9 len=2 raw 18 00 
+19:09:36 [ 396206] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -11 -350 mg gyr=0 0 0 dps ang=-21639 12779 1563 mdeg steps=24 n=9776/97
+19:09:36 [ 396208] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:36 [ 396208] up=241s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:36 [ 396617] gnss n=3171 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:36 [ 396617] nmea $GNRMC,000616.858,V,,,,,0.00,0.00,060180,,,N*58
+19:09:36 [ 396618] nmea $GNGGA,000616.858,,,,,0,0,,,M,,M,,*52
+19:09:37 [ 397025] bhi pedo n=9 len=2 raw 18 00 
+19:09:37 [ 397025] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -15 -343 mg gyr=0 0 0 dps ang=-21644 12781 1554 mdeg steps=24 n=9798/97
+19:09:37 [ 397435] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:38 [ 397843] bhi pedo n=9 len=2 raw 18 00 
+19:09:38 [ 397843] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -25 -343 mg gyr=0 0 0 dps ang=-21652 12796 1534 mdeg steps=24 n=9818/98
+19:09:38 [ 397845] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:38 [ 397845] up=242s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:38 [ 398254] gnss n=3187 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:38 [ 398254] nmea $GNRMC,000618.858,V,,,,,0.00,0.00,060180,,,N*56
+19:09:38 [ 398255] nmea $GNGGA,000618.858,,,,,0,0,,,M,,M,,*5C
+19:09:38 [ 398661] bhi pedo n=9 len=2 raw 18 00 
+19:09:38 [ 398661] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=958 -26 -346 mg gyr=0 0 0 dps ang=-21664 12786 1507 mdeg steps=24 n=9838/98
+19:09:39 [ 399067] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:39 [ 399479] bhi pedo n=9 len=2 raw 18 00 
+19:09:39 [ 399479] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -15 -353 mg gyr=0 0 0 dps ang=-21669 12754 1490 mdeg steps=24 n=9858/98
+19:09:39 [ 399480] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:39 [ 399481] up=243s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:40 [ 399887] gnss n=3195 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:40 [ 399887] nmea $GNRMC,000619.858,V,,,,,0.00,0.00,060180,,,N*57
+19:09:40 [ 399887] nmea $GNGGA,000619.858,,,,,0,0,,,M,,M,,*5D
+19:09:40 [ 400297] bhi pedo n=9 len=2 raw 18 00 
+19:09:40 [ 400297] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -19 -346 mg gyr=0 0 0 dps ang=-21671 12715 1456 mdeg steps=24 n=9879/98
+19:09:41 [ 400704] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:41 [ 401114] bhi pedo n=9 len=2 raw 18 00 
+19:09:41 [ 401114] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -19 -344 mg gyr=0 0 0 dps ang=-21676 12674 1436 mdeg steps=24 n=9899/98
+19:09:41 [ 401115] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:41 [ 401116] up=244s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:41 [ 401524] gnss n=3211 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:41 [ 401524] nmea $GNRMC,000621.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:09:41 [ 401525] nmea $GNGGA,000621.858,,,,,0,0,,,M,,M,,*56
+19:09:42 [ 401931] bhi pedo n=9 len=2 raw 18 00 
+19:09:42 [ 401931] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -26 -353 mg gyr=0 0 0 dps ang=-21679 12671 1414 mdeg steps=24 n=9919/99
+19:09:42 [ 402339] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:43 [ 402751] bhi pedo n=9 len=2 raw 18 00 
+19:09:43 [ 402752] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -21 -345 mg gyr=0 0 0 dps ang=-21681 12618 1390 mdeg steps=24 n=9940/99
+19:09:43 [ 402753] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:43 [ 402753] up=245s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:43 [ 403159] gnss n=3219 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:43 [ 403160] nmea $GNRMC,000622.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:09:43 [ 403160] nmea $GNGGA,000622.858,,,,,0,0,,,M,,M,,*55
+19:09:43 [ 403566] bhi pedo n=9 len=2 raw 18 00 
+19:09:43 [ 403566] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -24 -338 mg gyr=0 0 0 dps ang=-21700 12578 1358 mdeg steps=24 n=9960/99
+19:09:44 [ 403974] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:44 [ 404390] bhi pedo n=9 len=2 raw 18 00 
+19:09:44 [ 404390] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -16 -351 mg gyr=0 0 0 dps ang=-21710 12544 1336 mdeg steps=24 n=9981/99
+19:09:44 [ 404391] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:44 [ 404391] up=246s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:44 [ 404799] gnss n=3235 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:44 [ 404799] nmea $GNRMC,000624.858,V,,,,,0.00,0.00,060180,,,N*59
+19:09:44 [ 404800] nmea $GNGGA,000624.858,,,,,0,0,,,M,,M,,*53
+19:09:45 [ 405209] bhi pedo n=9 len=2 raw 18 00 
+19:09:45 [ 405209] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=953 -25 -349 mg gyr=0 0 0 dps ang=-21708 12498 1319 mdeg steps=24 n=10001/1
+19:09:45 [ 405615] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:46 [ 406026] bhi pedo n=9 len=2 raw 18 00 
+19:09:46 [ 406027] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -21 -350 mg gyr=0 0 0 dps ang=-21732 12522 1307 mdeg steps=24 n=10021/1
+19:09:46 [ 406028] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:46 [ 406028] up=247s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:46 [ 406437] gnss n=3251 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:46 [ 406437] nmea $GNRMC,000626.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:09:46 [ 406438] nmea $GNGGA,000626.858,,,,,0,0,,,M,,M,,*51
+19:09:47 [ 406844] bhi pedo n=9 len=2 raw 18 00 
+19:09:47 [ 406844] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -13 -339 mg gyr=0 0 0 dps ang=-21732 12495 1290 mdeg steps=24 n=10041/1
+19:09:47 [ 407252] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:47 [ 407660] bhi pedo n=9 len=2 raw 18 00 
+19:09:47 [ 407661] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=954 -16 -335 mg gyr=0 0 0 dps ang=-21752 12486 1275 mdeg steps=24 n=10062/1
+19:09:47 [ 407662] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:47 [ 407662] up=248s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:48 [ 408069] gnss n=3259 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:48 [ 408069] nmea $GNRMC,000627.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:09:48 [ 408069] nmea $GNGGA,000627.858,,,,,0,0,,,M,,M,,*50
+19:09:48 [ 408479] bhi pedo n=9 len=2 raw 18 00 
+19:09:48 [ 408479] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=947 -22 -358 mg gyr=0 0 0 dps ang=-21754 12471 1256 mdeg steps=24 n=10082/1
+19:09:49 [ 408889] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:49 [ 409298] bhi pedo n=9 len=2 raw 18 00 
+19:09:49 [ 409299] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=961 -29 -345 mg gyr=0 0 0 dps ang=-21774 12469 1236 mdeg steps=24 n=10102/1
+19:09:49 [ 409300] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:49 [ 409300] up=249s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:50 [ 409706] gnss n=3275 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:50 [ 409706] nmea $GNRMC,000629.858,V,,,,,0.00,0.00,060180,,,N*54
+19:09:50 [ 409707] nmea $GNGGA,000629.858,,,,,0,0,,,M,,M,,*5E
+19:09:50 [ 410114] bhi pedo n=9 len=2 raw 18 00 
+19:09:50 [ 410115] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=952 -17 -354 mg gyr=0 0 0 dps ang=-21783 12459 1222 mdeg steps=24 n=10123/1
+19:09:50 [ 410525] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:51 [ 410933] bhi pedo n=9 len=2 raw 18 00 
+19:09:51 [ 410934] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -23 -347 mg gyr=0 0 0 dps ang=-21786 12415 1202 mdeg steps=24 n=10143/1
+19:09:51 [ 410935] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:51 [ 410935] up=250s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:51 [ 411344] gnss n=3291 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:51 [ 411344] nmea $GNRMC,000631.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:09:51 [ 411345] nmea $GNGGA,000631.858,,,,,0,0,,,M,,M,,*57
+19:09:51 [ 411752] bhi pedo n=9 len=2 raw 18 00 
+19:09:51 [ 411752] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=951 -26 -349 mg gyr=0 0 0 dps ang=-21783 12364 1185 mdeg steps=24 n=10164/1
+19:09:52 [ 412165] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:52 [ 412572] bhi pedo n=9 len=2 raw 18 00 
+19:09:52 [ 412572] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=959 -21 -365 mg gyr=0 0 0 dps ang=-21786 12317 1173 mdeg steps=24 n=10184/1
+19:09:52 [ 412574] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:52 [ 412574] up=251s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:53 [ 412979] gnss n=3299 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:53 [ 412979] nmea $GNRMC,000632.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:09:53 [ 412980] nmea $GNGGA,000632.858,,,,,0,0,,,M,,M,,*54
+19:09:53 [ 413364] ble: time set to unix 1791720431, tz +7
+19:09:53 [ 413400] bhi pedo n=9 len=2 raw 18 00 
+19:09:53 [ 413401] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=965 -23 -344 mg gyr=0 0 0 dps ang=-21781 12300 1156 mdeg steps=24 n=10204/1
+19:09:53 [ 413808] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:54 [ 414215] bhi pedo n=9 len=2 raw 18 00 
+19:09:54 [ 414215] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=956 -18 -343 mg gyr=0 0 0 dps ang=-21791 12293 1136 mdeg steps=24 n=10225/1
+19:09:54 [ 414217] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:54 [ 414217] up=252s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:54 [ 414626] gnss n=3315 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:54 [ 414626] nmea $GNRMC,000634.858,V,,,,,0.00,0.00,060180,,,N*58
+19:09:54 [ 414627] nmea $GNGGA,000634.858,,,,,0,0,,,M,,M,,*52
+19:09:55 [ 415033] bhi pedo n=9 len=2 raw 18 00 
+19:09:55 [ 415033] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=963 -22 -343 mg gyr=0 0 0 dps ang=-21774 12264 1119 mdeg steps=24 n=10245/1
+19:09:55 [ 415445] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:56 [ 415854] bhi pedo n=9 len=2 raw 18 00 
+19:09:56 [ 415854] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=498 476 -55 mg gyr=50 79 -319 dps ang=-45219 37395 -50599 mdeg steps=24 n=1
+19:09:56 [ 415856] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:56 [ 415856] up=253s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:56 [ 416262] gnss n=3331 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:56 [ 416262] nmea $GNRMC,000636.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:09:56 [ 416263] nmea $GNGGA,000636.858,,,,,0,0,,,M,,M,,*50
+19:09:56 [ 416672] bhi pedo n=9 len=2 raw 18 00 
+19:09:56 [ 416672] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=264 875 315 mg gyr=0 1 0 dps ang=-50094 40987 -68272 mdeg steps=24 n=10286/
+19:09:57 [ 417080] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:57 [ 417490] bhi pedo n=9 len=2 raw 18 00 
+19:09:57 [ 417491] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=244 883 282 mg gyr=0 6 1 dps ang=-47294 42864 -68030 mdeg steps=24 n=10306/
+19:09:57 [ 417492] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:57 [ 417492] up=254s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:58 [ 417898] gnss n=3339 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:58 [ 417898] nmea $GNRMC,000637.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:09:58 [ 417898] nmea $GNGGA,000637.858,,,,,0,0,,,M,,M,,*51
+19:09:58 [ 418346] bhi pedo n=9 len=2 raw 18 00 
+19:09:58 [ 418346] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=275 904 278 mg gyr=0 5 5 dps ang=-46588 45664 -66023 mdeg steps=24 n=10327/
+19:09:58 [ 418347] tp chip=255 st=2 d=  -26     8   739 down=1 pos=144 row=143 raw=13720 13796 14844
+19:09:59 [ 418755] tp chip=144 st=3 d= -346    16  1065 down=1 pos=144 row=143 raw=13400 13804 15170
+19:09:59 [ 418839] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:09:59 [ 419110] tp chip=255 st=2 d= -292     4   640 down=1 pos=144 row=143 raw=13454 13792 14745
+19:09:59 [ 419275] bhi pedo n=9 len=2 raw 18 00 
+19:09:59 [ 419276] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=261 878 300 mg gyr=0 2 -4 dps ang=-46237 45530 -66163 mdeg steps=24 n=10351
+19:09:59 [ 419277] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:09:59 [ 419277] up=255s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:09:59 [ 419484] tp chip=144 st=3 d= -351     3   781 down=1 pos=144 row=143 raw=13395 13791 14886
+19:09:59 [ 419744] gnss n=3355 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:09:59 [ 419744] nmea $GNRMC,000639.858,V,,,,,0.00,0.00,060180,,,N*55
+19:09:59 [ 419744] nmea $GNGGA,000639.858,,,,,0,0,,,M,,M,,*5F
+19:10:00 [ 420208] bhi pedo n=9 len=2 raw 18 00 
+19:10:00 [ 420208] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=264 886 277 mg gyr=-3 5 -13 dps ang=-46298 46258 -65882 mdeg steps=24 n=103
+19:10:00 [ 420617] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:01 [ 421024] bhi pedo n=9 len=2 raw 18 00 
+19:10:01 [ 421024] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=215 863 378 mg gyr=-11 -2 -9 dps ang=-50487 44673 -69996 mdeg steps=24 n=10
+19:10:01 [ 421025] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:01 [ 421025] up=256s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:01 [ 421433] gnss n=3371 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:01 [ 421434] nmea $GNRMC,000641.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:10:01 [ 421434] nmea $GNGGA,000641.858,,,,,0,0,,,M,,M,,*50
+19:10:02 [ 421840] bhi pedo n=9 len=2 raw 18 00 
+19:10:02 [ 421840] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=77 825 474 mg gyr=-9 3 -7 dps ang=-57484 45428 -74952 mdeg steps=24 n=10414
+19:10:02 [ 422248] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:03 [ 422660] bhi pedo n=9 len=2 raw 18 00 
+19:10:03 [ 422661] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=92 835 477 mg gyr=-5 -4 -4 dps ang=-59269 44407 -77254 mdeg steps=24 n=1043
+19:10:03 [ 422662] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:03 [ 422662] up=257s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:03 [ 423068] gnss n=3379 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:03 [ 423068] nmea $GNRMC,000642.858,V,,,,,0.00,0.00,060180,,,N*59
+19:10:03 [ 423068] nmea $GNGGA,000642.858,,,,,0,0,,,M,,M,,*53
+19:10:03 [ 423477] bhi pedo n=9 len=2 raw 18 00 
+19:10:03 [ 423477] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=127 840 513 mg gyr=2 0 0 dps ang=-59742 42608 -77432 mdeg steps=24 n=10455/
+19:10:04 [ 423884] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:04 [ 424293] bhi pedo n=9 len=2 raw 18 00 
+19:10:04 [ 424294] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=95 840 508 mg gyr=-7 2 -2 dps ang=-61281 42915 -77161 mdeg steps=24 n=10475
+19:10:04 [ 424295] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:04 [ 424295] up=258s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:05 [ 424707] gnss n=3395 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:05 [ 424707] nmea $GNRMC,000644.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:10:05 [ 424707] nmea $GNGGA,000644.858,,,,,0,0,,,M,,M,,*55
+19:10:05 [ 425113] bhi pedo n=9 len=2 raw 18 00 
+19:10:05 [ 425114] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=139 830 577 mg gyr=-3 0 -1 dps ang=-62794 42217 -76626 mdeg steps=24 n=1049
+19:10:05 [ 425521] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:06 [ 425927] bhi pedo n=9 len=2 raw 18 00 
+19:10:06 [ 425928] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=120 814 583 mg gyr=0 1 0 dps ang=-63312 43106 -76443 mdeg steps=24 n=10515/
+19:10:06 [ 425929] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:06 [ 425929] up=259s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:06 [ 426337] gnss n=3411 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:06 [ 426337] nmea $GNRMC,000646.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:10:06 [ 426337] nmea $GNGGA,000646.858,,,,,0,0,,,M,,M,,*57
+19:10:06 [ 426747] bhi pedo n=9 len=2 raw 18 00 
+19:10:06 [ 426747] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=141 815 554 mg gyr=-2 1 1 dps ang=-63053 43399 -75606 mdeg steps=24 n=10536
+19:10:07 [ 427157] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:07 [ 427567] bhi pedo n=9 len=2 raw 18 00 
+19:10:07 [ 427568] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=148 817 584 mg gyr=-1 0 0 dps ang=-63717 43531 -75191 mdeg steps=24 n=10557
+19:10:07 [ 427569] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:07 [ 427569] up=260s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:08 [ 427979] gnss n=3419 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:08 [ 427979] nmea $GNRMC,000647.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:10:08 [ 427979] nmea $GNGGA,000647.858,,,,,0,0,,,M,,M,,*56
+19:10:08 [ 428388] bhi pedo n=9 len=2 raw 18 00 
+19:10:08 [ 428388] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=139 809 570 mg gyr=-1 0 0 dps ang=-63805 43741 -74986 mdeg steps=24 n=10577
+19:10:09 [ 428794] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:09 [ 429203] bhi pedo n=9 len=2 raw 18 00 
+19:10:09 [ 429203] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=509 620 550 mg gyr=31 -23 23 dps ang=-67789 32102 -57125 mdeg steps=24 n=10
+19:10:09 [ 429205] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:09 [ 429205] up=261s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:09 [ 429614] gnss n=3435 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:09 [ 429614] nmea $GNRMC,000649.858,V,,,,,0.00,0.00,060180,,,N*52
+19:10:09 [ 429614] nmea $GNGGA,000649.858,,,,,0,0,,,M,,M,,*58
+19:10:10 [ 430025] bhi pedo n=9 len=2 raw 18 00 
+19:10:10 [ 430025] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=977 74 -127 mg gyr=-14 -10 -15 dps ang=-49779 -956 -17332 mdeg steps=24 n=1
+19:10:10 [ 430437] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:11 [ 430848] bhi pedo n=9 len=2 raw 18 00 
+19:10:11 [ 430848] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=964 289 -111 mg gyr=-7 19 -23 dps ang=-50568 -3668 -26031 mdeg steps=24 n=1
+19:10:11 [ 430850] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:11 [ 430850] up=262s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:11 [ 431256] gnss n=3451 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:11 [ 431256] nmea $GNRMC,000651.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:10:11 [ 431256] nmea $GNGGA,000651.858,,,,,0,0,,,M,,M,,*51
+19:10:12 [ 431665] bhi pedo n=9 len=2 raw 18 00 
+19:10:12 [ 431665] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=695 547 203 mg gyr=11 10 -16 dps ang=-52653 13929 -47012 mdeg steps=24 n=10
+19:10:12 [ 432073] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:12 [ 432482] bhi pedo n=9 len=2 raw 18 00 
+19:10:12 [ 432483] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=626 726 225 mg gyr=1 8 -7 dps ang=-51244 19222 -58296 mdeg steps=24 n=10678
+19:10:12 [ 432484] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:12 [ 432484] up=263s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:13 [ 432889] gnss n=3459 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:13 [ 432889] nmea $GNRMC,000652.858,V,,,,,0.00,0.00,060180,,,N*58
+19:10:13 [ 432889] nmea $GNGGA,000652.858,,,,,0,0,,,M,,M,,*52
+19:10:13 [ 433298] bhi pedo n=9 len=2 raw 18 00 
+19:10:13 [ 433298] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=555 800 254 mg gyr=1 -1 -1 dps ang=-51344 21231 -63040 mdeg steps=24 n=1069
+19:10:13 [ 433707] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:14 [ 434116] bhi pedo n=9 len=2 raw 18 00 
+19:10:14 [ 434116] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=564 781 263 mg gyr=0 0 0 dps ang=-51688 21145 -62686 mdeg steps=24 n=10719/
+19:10:14 [ 434117] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:14 [ 434118] up=264s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:14 [ 434528] gnss n=3475 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:14 [ 434528] nmea $GNRMC,000654.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:10:14 [ 434529] nmea $GNGGA,000654.858,,,,,0,0,,,M,,M,,*54
+19:10:15 [ 434936] bhi pedo n=9 len=2 raw 18 00 
+19:10:15 [ 434936] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=570 792 264 mg gyr=0 0 0 dps ang=-51835 21092 -62537 mdeg steps=24 n=10739/
+19:10:15 [ 435342] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:15 [ 435751] bhi pedo n=9 len=2 raw 18 00 
+19:10:15 [ 435752] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=554 789 270 mg gyr=0 0 0 dps ang=-52059 21170 -63345 mdeg steps=24 n=10760/
+19:10:15 [ 435753] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:15 [ 435753] up=265s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:16 [ 436164] gnss n=3483 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:16 [ 436164] nmea $GNRMC,000655.858,V,,,,,0.00,0.00,060180,,,N*5F
+19:10:16 [ 436165] nmea $GNGGA,000655.858,,,,,0,0,,,M,,M,,*55
+19:10:16 [ 436575] bhi pedo n=9 len=2 raw 18 00 
+19:10:16 [ 436575] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=563 791 278 mg gyr=0 0 2 dps ang=-52177 21194 -63106 mdeg steps=24 n=10781/
+19:10:17 [ 436982] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:17 [ 437392] bhi pedo n=9 len=2 raw 18 00 
+19:10:17 [ 437392] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=566 778 277 mg gyr=0 0 0 dps ang=-52450 20989 -62435 mdeg steps=24 n=10801/
+19:10:17 [ 437394] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:17 [ 437394] up=266s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:18 [ 437802] gnss n=3499 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:18 [ 437802] nmea $GNRMC,000657.858,V,,,,,0.00,0.00,060180,,,N*5D
+19:10:18 [ 437802] nmea $GNGGA,000657.858,,,,,0,0,,,M,,M,,*57
+19:10:18 [ 438211] bhi pedo n=9 len=2 raw 18 00 
+19:10:18 [ 438211] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=631 714 149 mg gyr=26 -45 90 dps ang=-50863 16565 -54676 mdeg steps=24 n=10
+19:10:18 [ 438619] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:19 [ 439028] bhi pedo n=9 len=2 raw 18 00 
+19:10:19 [ 439029] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=982 59 -225 mg gyr=2 -8 -13 dps ang=-31974 -9874 -16253 mdeg steps=24 n=108
+19:10:19 [ 439030] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:19 [ 439030] up=267s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:19 [ 439441] gnss n=3515 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:19 [ 439441] nmea $GNRMC,000659.858,V,,,,,0.00,0.00,060180,,,N*53
+19:10:19 [ 439441] nmea $GNGGA,000659.858,,,,,0,0,,,M,,M,,*59
+19:10:20 [ 439849] bhi pedo n=9 len=2 raw 18 00 
+19:10:20 [ 439849] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=984 49 -228 mg gyr=0 0 0 dps ang=-30546 -9808 -15872 mdeg steps=24 n=10861/
+19:10:20 [ 440257] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:21 [ 440667] bhi pedo n=9 len=2 raw 18 00 
+19:10:21 [ 440668] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=978 39 -223 mg gyr=0 0 0 dps ang=-29855 -9960 -15511 mdeg steps=24 n=10882/
+19:10:21 [ 440669] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:21 [ 440669] up=268s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:21 [ 441075] gnss n=3523 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:21 [ 441075] nmea $GNRMC,000700.858,V,,,,,0.00,0.00,060180,,,N*5E
+19:10:21 [ 441075] nmea $GNGGA,000700.858,,,,,0,0,,,M,,M,,*54
+19:10:21 [ 441483] bhi pedo n=9 len=2 raw 18 00 
+19:10:21 [ 441483] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=984 38 -241 mg gyr=0 0 0 dps ang=-29435 -10121 -15279 mdeg steps=24 n=10903
+19:10:22 [ 441884] ble: disconnected, reason 0x13
+19:10:22 [ 441896] ble: advertising on (0x00000000)
+19:10:22 [ 441905] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:22 [ 442311] bhi pedo n=9 len=2 raw 18 00 
+19:10:22 [ 442312] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=974 28 -223 mg gyr=0 0 0 dps ang=-29203 -10284 -15135 mdeg steps=24 n=10923
+19:10:22 [ 442313] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:22 [ 442313] up=269s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:22 [ 442721] gnss n=3539 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:22 [ 442721] nmea $GNRMC,000702.858,V,,,,,0.00,0.00,060180,,,N*5C
+19:10:22 [ 442721] nmea $GNGGA,000702.858,,,,,0,0,,,M,,M,,*56
+19:10:23 [ 443129] bhi pedo n=9 len=2 raw 18 00 
+19:10:23 [ 443129] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=976 28 -231 mg gyr=0 0 0 dps ang=-29000 -10353 -15037 mdeg steps=24 n=10944
+19:10:23 [ 443539] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:24 [ 443946] bhi pedo n=9 len=2 raw 18 00 
+19:10:24 [ 443947] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=982 26 -232 mg gyr=0 0 0 dps ang=-28893 -10445 -15001 mdeg steps=24 n=10964
+19:10:24 [ 443948] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:24 [ 443948] up=270s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:24 [ 444356] gnss n=3555 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:24 [ 444356] nmea $GNRMC,000704.858,V,,,,,0.00,0.00,060180,,,N*5A
+19:10:24 [ 444356] nmea $GNGGA,000704.858,,,,,0,0,,,M,,M,,*50
+19:10:24 [ 444767] bhi pedo n=9 len=2 raw 18 00 
+19:10:24 [ 444767] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=974 24 -239 mg gyr=0 0 0 dps ang=-28837 -10519 -15005 mdeg steps=24 n=10984
+19:10:25 [ 445174] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:25 [ 445585] bhi pedo n=9 len=2 raw 18 00 
+19:10:25 [ 445585] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=979 18 -248 mg gyr=0 0 0 dps ang=-28812 -10572 -15044 mdeg steps=24 n=11005
+19:10:25 [ 445586] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:25 [ 445587] up=271s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:26 [ 445992] gnss n=3563 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:26 [ 445992] nmea $GNRMC,000705.858,V,,,,,0.00,0.00,060180,,,N*5B
+19:10:26 [ 445992] nmea $GNGGA,000705.858,,,,,0,0,,,M,,M,,*51
+19:10:26 [ 446402] bhi pedo n=9 len=2 raw 18 00 
+19:10:26 [ 446403] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=976 23 -257 mg gyr=0 0 0 dps ang=-28795 -10611 -15084 mdeg steps=24 n=11025
+19:10:27 [ 446810] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:27 [ 447219] bhi pedo n=9 len=2 raw 18 00 
+19:10:27 [ 447219] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=975 14 -251 mg gyr=0 0 0 dps ang=-28807 -10621 -15069 mdeg steps=24 n=11045
+19:10:27 [ 447221] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:27 [ 447221] up=272s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:27 [ 447630] gnss n=3579 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:27 [ 447630] nmea $GNRMC,000707.858,V,,,,,0.00,0.00,060180,,,N*59
+19:10:27 [ 447630] nmea $GNGGA,000707.858,,,,,0,0,,,M,,M,,*53
+19:10:28 [ 448036] bhi pedo n=9 len=2 raw 18 00 
+19:10:28 [ 448036] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=981 15 -243 mg gyr=0 0 0 dps ang=-28803 -10665 -15115 mdeg steps=24 n=11065
+19:10:28 [ 448446] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:29 [ 448857] bhi pedo n=9 len=2 raw 18 00 
+19:10:29 [ 448857] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=977 12 -246 mg gyr=0 0 0 dps ang=-28810 -10658 -15110 mdeg steps=24 n=11086
+19:10:29 [ 448858] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:29 [ 448859] up=273s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
+19:10:29 [ 449266] gnss n=3595 bad=0 fix=0/1 used=0 view=0+0 snr=0 lat=0 lon=0 alt=0 hdop=0 aid=0 pmtk=6
+19:10:29 [ 449266] nmea $GNRMC,000709.858,V,,,,,0.00,0.00,060180,,,N*57
+19:10:29 [ 449266] nmea $GNGGA,000709.858,,,,,0,0,,,M,,M,,*5D
+19:10:30 [ 449675] bhi pedo n=9 len=2 raw 18 00 
+19:10:30 [ 449675] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=972 16 -237 mg gyr=0 0 0 dps ang=-28842 -10665 -15123 mdeg steps=24 n=11106
+19:10:30 [ 450082] pah st=1 id=00 touch=0 n=0 ovf=0 fifo=0 bpm=0 q=0
+19:10:30 [ 450491] bhi pedo n=9 len=2 raw 18 00 
+19:10:30 [ 450492] bhi st=6 id=83 rom=2DAD ram=2DB0 crc=C69A2374/C69A2374 ack=C1 C4 DD acc=975 18 -241 mg gyr=0 0 0 dps ang=-28890 -10687 -15152 mdeg steps=24 n=11126
+19:10:30 [ 450493] pmu: boot pwrhold=1 shdncfg1=28 | now pwrhold=1 shdncfg1=08 ponsts=10 poffsts=A0
+19:10:30 [ 450493] up=274s boot=9 wdt_sta=0000 pmu=10A07FFF00 vmc_en=1 vmc_stb=1 disp=1 touch=ok FF 02 00 18 68 01
