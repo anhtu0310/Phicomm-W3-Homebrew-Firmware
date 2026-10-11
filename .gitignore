@@ -1,5 +1,15 @@
-# Third-party SDK (MediaTek LinkIt) - get it from upstream, not this repo
-linkit_sdk-master/
+# Third-party SDK (MediaTek LinkIt) - get it from upstream, not this repo.
+# Exception: our firmware app, linkit_sdk-master/project/mt2523_hdk/apps/w3_display/.
+# Git can't re-include a file whose parent directory is ignored, so each level
+# is ignored by its contents (dir/*) and the one path we keep is re-opened.
+linkit_sdk-master/*
+!linkit_sdk-master/project/
+linkit_sdk-master/project/*
+!linkit_sdk-master/project/mt2523_hdk/
+linkit_sdk-master/project/mt2523_hdk/*
+!linkit_sdk-master/project/mt2523_hdk/apps/
+linkit_sdk-master/project/mt2523_hdk/apps/*
+!linkit_sdk-master/project/mt2523_hdk/apps/w3_display/
 linkit_sdk-master.zip
 *.zip
 
